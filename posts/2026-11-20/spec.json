@@ -150,6 +150,150 @@
      "note": "Prawie <b>3× więcej</b> niż GTA 5. To szacunki Sensor Tower, Rockstar ich jeszcze nie potwierdził."
     }
    ]
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "pianka",
+   "time": "21:00",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ludovico Einaudi – Experience",
+    "Yann Tiersen – Comptine d'un autre été"
+   ],
+   "sources": [
+    "Kidd, Palmeri, Aslin (2013) Cognition 126:109–114; rochester.edu; scientificamerican.com; cbsnews.com",
+    "Watts, Duncan, Quan (2018) Psychological Science; psychologicalscience.org",
+    "Shoda, Mischel, Peake (1990); bingschool.stanford.edu; spsp.org"
+   ],
+   "slides": [
+    {
+     "img": "ukryta/img/pianka.jpg",
+     "pos": "center 25%",
+     "fs": 70,
+     "text": [
+      "Naukowcy dali dzieciom jedną piankę i wyszli z pokoju.",
+      "Pół wieku później okazało się, że <em>wszyscy źle zrozumieli ten test.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/pianka.jpg",
+     "pos": "60% 30%",
+     "text": [
+      "Stanford, koniec lat 60. Psycholog Walter Mischel sadza przedszkolaka przy stole i kładzie przed nim piankę."
+     ],
+     "zoom": 1.35
+    },
+    {
+     "img": "ukryta/img/pianka.jpg",
+     "pos": "35% 88%",
+     "dark": 0.1,
+     "text": [
+      "Zasada jest prosta: zjedz ją teraz albo poczekaj, aż badacz wróci, a dostaniesz dwie."
+     ],
+     "zoom": 2.0
+    },
+    {
+     "img": "ukryta/img/pianka.jpg",
+     "pos": "45% 30%",
+     "dark": 0.25,
+     "text": [
+      "Część dzieci zjada ją, zanim zamkną się drzwi.",
+      "Inne się kręcą, śpiewają, odwracają wzrok. Byle wytrzymać."
+     ],
+     "zoom": 1.7
+    },
+    {
+     "img": "ukryta/img/egzamin.jpg",
+     "pos": "center 40%",
+     "text": [
+      "Kilkanaście lat później badacze odnajdują tamte dzieci.",
+      "Te, które czekały dłużej, mają średnio lepsze wyniki na egzaminach."
+     ]
+    },
+    {
+     "img": "ukryta/img/egzamin.jpg",
+     "pos": "50% 85%",
+     "dark": 0.3,
+     "fs": 72,
+     "text": [
+      "Świat uznaje, że znalazł sekret sukcesu:",
+      "<em>silną wolę.</em>"
+     ],
+     "zoom": 1.7
+    },
+    {
+     "img": "ukryta/img/schronisko.jpg",
+     "pos": "center 50%",
+     "text": [
+      "Ale jedna badaczka ma wątpliwości.",
+      "Celeste Kidd pracowała wcześniej w schronisku dla rodzin bez dachu nad głową."
+     ]
+    },
+    {
+     "img": "ukryta/img/schronisko.jpg",
+     "pos": "35% 90%",
+     "dark": 0.25,
+     "text": [
+      "Zauważyła, że dzieci jedzą tam wszystko od razu.",
+      "Bo to, czego nie zjesz teraz, ktoś może ci zabrać."
+     ],
+     "zoom": 1.9
+    },
+    {
+     "img": "ukryta/img/kredki.jpg",
+     "pos": "center 50%",
+     "text": [
+      "Powtarza więc test z jedną zmianą.",
+      "Najpierw badaczka obiecuje dzieciom lepsze kredki."
+     ]
+    },
+    {
+     "img": "ukryta/img/kredki.jpg",
+     "pos": "90% 30%",
+     "dark": 0.25,
+     "text": [
+      "Połowie dzieci je przynosi.",
+      "Drugiej połowie wraca z pustymi rękami i przeprasza."
+     ],
+     "zoom": 1.8
+    },
+    {
+     "img": "ukryta/img/pianka.jpg",
+     "pos": "30% 85%",
+     "dark": 0.5,
+     "fs": 54,
+     "big": "12",
+     "label": "minut czekały dzieci, którym dotrzymano słowa",
+     "big2": "3",
+     "label2": "minuty czekały dzieci, którym je złamano",
+     "text": [
+      "Te same dzieci. Ta sama pianka. Inna lekcja chwilę wcześniej."
+     ],
+     "zoom": 2.2
+    },
+    {
+     "img": "ukryta/img/egzamin.jpg",
+     "pos": "50% 20%",
+     "dark": 0.55,
+     "fs": 56,
+     "text": [
+      "W 2018 roku sprawdzono to na ponad 900 dzieciach.",
+      "Sama silna wola przewidywała dużo mniej, niż obiecywano. Liczyło się też to, w jakim domu dziecko dorastało."
+     ],
+     "zoom": 1.4
+    },
+    {
+     "noimg": true,
+     "fs": 62,
+     "text": [
+      "Może to nie brak silnej woli.",
+      "Może po prostu nauczyłeś się, że obietnice nie są dotrzymywane.",
+      "<em>Wyślij to komuś, kto myśli, że ma słabą wolę.</em>"
+     ]
+    }
+   ],
+   "caption": "Test pianki przez lata uchodził za dowód, że o sukcesie decyduje silna wola. Późniejsze badania pokazały coś ciekawszego: dzieci nie tylko się kontrolują. One też liczą.\n\nJeśli dorośli wokół dotrzymywali słowa, czekanie miało sens. Jeśli nie, rozsądniej było brać to, co jest teraz.\n\nTo nie wada charakteru, tylko lekcja, którą mózg wyciągnął z doświadczeń. A każdą lekcję da się z czasem zaktualizować.\n\nŹródła: Kidd, Palmeri, Aslin (2013), Cognition • Watts, Duncan, Quan (2018), Psychological Science • Shoda, Mischel, Peake (1990), Developmental Psychology\n\n#psychologia #rozwójosobisty #silnawola #samokontrola #ukrytalekcja"
   }
  ]
 }

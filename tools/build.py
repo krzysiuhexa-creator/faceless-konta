@@ -14,9 +14,10 @@ from PIL import Image
 from playwright.sync_api import sync_playwright
 
 import templates as T
+import story as S
 
 REPO_RAW = "https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/"
-BLOG = {("mm", "pl"): 8253009, ("mm", "en"): 8253033, ("bangla", "pl"): 8252917}
+BLOG = {("mm", "pl"): 8253009, ("mm", "en"): 8253033, ("bangla", "pl"): 8252917, ("ukryta", "pl"): 8254291}
 TZ = "Europe/Warsaw"
 
 # JS: najniższy punkt treści (bez stopki, znaczka, źródła itp.) – do wykrywania przepełnienia
@@ -32,14 +33,20 @@ CHECK_JS = """() => {
   return {bottom: maxB, right: maxR};
 }"""
 LIMIT = {"mm": 1170, "mm_bars": 1235, "mm_stat": 1000, "mm_why": 1000, "bangla": 1130}
+# Ukryta Lekcja: tekst rośnie od dołu w górę, więc pilnujemy GÓRY bloku tekstu (żeby nie zasłonił zdjęcia)
+UL_TOP = {"img": 560, "mid": 120}
+UL_JS = "() => { const r = document.querySelector('.box .div').getBoundingClientRect(); const t = document.querySelector('.t').getBoundingClientRect(); return {top: r.top, right: Math.max(r.right, t.right)}; }"
 
 
-def info(text, media, date, time, kind="POST"):
+def info(text, media, date, time, kind="POST", ai=False):
+    ig = {"type": kind}
+    if ai:
+        ig["isAiGenerated"] = True
     return json.dumps({
         "autoPublish": True, "draft": True, "descendants": [], "firstCommentText": "", "hasNotReadNotes": False,
         "media": media, "mediaAltText": [], "providers": [{"network": "instagram"}],
         "publicationDate": {"dateTime": f"{date}T{time}:00", "timezone": TZ},
-        "shortener": False, "smartLinkData": {"ids": []}, "text": text, "instagramData": {"type": kind},
+        "shortener": False, "smartLinkData": {"ids": []}, "text": text, "instagramData": ig,
     }, ensure_ascii=False)
 
 
@@ -92,6 +99,22 @@ def main(spec_path):
             photos.append({"slug": slug, "overlay": f"bangla/zdjecie-{slug}-nakladka.png",
                            "preview": f"bangla/zdjecie-{slug}-podglad.png", "caption": p["caption"],
                            "photo_hint": p.get("photo_hint", "")})
+        elif t == "ukryta_carousel":
+            n = len(p["slides"])
+            files = []
+            for i, sl in enumerate(p["slides"], 1):
+                sl = dict(sl)
+                if sl.get("img"):
+                    ip = (out / sl["img"]).resolve()
+                    if not ip.exists():
+                        raise SystemExit(f"Brak zdjęcia: {ip}")
+                    sl["img"] = str(ip)
+                rel = f"ukryta/{slug}-{i}.png"
+                lk = "ul_img" if (sl.get("img") and not sl.get("noimg")) else "ul_mid"
+                jobs.append((rel, S.aspect_slide(p, sl, i, n), T.W, T.H, False, lk))
+                files.append(rel)
+            posts.append({"account": "ukryta", "blogId": BLOG[("ukryta", "pl")], "time": p["time"], "slug": slug,
+                          "files": files, "caption": p["caption"], "ai": True})
         else:
             raise SystemExit(f"Nieznany typ posta: {t}")
 
@@ -107,7 +130,12 @@ def main(spec_path):
             pg.evaluate("document.fonts.ready")
             dst = out / rel
             dst.parent.mkdir(parents=True, exist_ok=True)
-            if lk:
+            if lk and lk.startswith("ul_"):
+                m = pg.evaluate(UL_JS)
+                lim = UL_TOP["img" if lk == "ul_img" else "mid"]
+                if m["top"] < lim or m["right"] > w - 40:
+                    warnings.append(f"{rel}: za dużo tekstu (góra bloku {m['top']:.0f}px, minimum {lim}px) – skróć")
+            elif lk:
                 m = pg.evaluate(CHECK_JS)
                 if m["bottom"] > LIMIT[lk] or m["right"] > w - 40:
                     warnings.append(f"{rel}: tekst za nisko/szeroko (dół {m['bottom']:.0f}px, limit {LIMIT[lk]}; prawo {m['right']:.0f}px)")
@@ -120,7 +148,7 @@ def main(spec_path):
     for po in posts:
         media = [REPO_RAW + f"posts/{day}/{x}" for x in po["files"]]
         mc.append({"account": po["account"], "slug": po["slug"], "blogId": str(po["blogId"]),
-                   "date": datetime.fromisoformat(f"{day}T{po['time']}:00").replace(tzinfo=ZoneInfo(TZ)).isoformat(), "info": info(po["caption"], media, day, po["time"])})
+                   "date": datetime.fromisoformat(f"{day}T{po['time']}:00").replace(tzinfo=ZoneInfo(TZ)).isoformat(), "info": info(po["caption"], media, day, po["time"], ai=po.get("ai", False))})
     (out / "metricool.json").write_text(json.dumps(mc, ensure_ascii=False, indent=1), encoding="utf-8")
     (out / "zdjecia.json").write_text(json.dumps(photos, ensure_ascii=False, indent=1), encoding="utf-8")
 

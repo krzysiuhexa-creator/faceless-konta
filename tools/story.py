@@ -77,14 +77,14 @@ def story_slide(p, sl, i, n):
 # ───────── STYL ŁĄCZONY (Mental Aspect × Doktor Niedźwiedź) ─────────
 # Każdy slajd: czarno-białe zdjęcie na całą wysokość, zejście w czerń, kreska z nazwą konta,
 # 1–3 zdania wąskim grubym krojem (Anton), »» w prawym dolnym rogu, licznik w lewym.
-# sl: img, pos, text (str lub lista), opcjonalnie fs, dark (0–1: przyciemnienie całego zdjęcia),
+# sl: img, pos, text (str lub lista), opcjonalnie fs, dark (0–1: przyciemnienie całego zdjęcia), zoom (np. 1.6 = zbliżenie; pos = punkt zbliżenia),
 #     big/label/big2/label2 (slajd z liczbami), noimg (czarne tło).
 AS_FONTS = links(["anton/400.css", "crimson-pro/600-italic.css"])
 AS_CSS = """
 :root{--acc:#F5C542}
 body{background:#000;color:#fff;font-family:'Anton',sans-serif}
 .s{position:relative;width:1080px;height:1350px;overflow:hidden;background:#000}
-.img{position:absolute;inset:0;background-size:cover;background-position:var(--pos,center);
+.img{position:absolute;inset:0;background-size:var(--bs,cover);background-position:var(--pos,center);
   filter:grayscale(1) contrast(1.12) brightness(var(--br,1))}
 .fade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,0) 38%,rgba(0,0,0,.72) 60%,#000 76%)}
 .grain{position:absolute;inset:0;opacity:.06;mix-blend-mode:screen;
@@ -112,7 +112,8 @@ def aspect_slide(p, sl, i, n):
     acc = p.get("accent", "#F5C542")
     img = ""
     if sl.get("img") and not sl.get("noimg"):
-        img = (f'<div class="img" style="--pos:{sl.get("pos","center")};--br:{1-sl.get("dark",0)};'
+        bs = f'{int(sl["zoom"]*125)}% auto' if sl.get("zoom") else "cover"
+        img = (f'<div class="img" style="--pos:{sl.get("pos","center")};--br:{1-sl.get("dark",0)};--bs:{bs};'
                f'background-image:url(\'file://{sl["img"]}\')"></div><div class="fade"></div>')
     nums = ""
     if sl.get("big"):
