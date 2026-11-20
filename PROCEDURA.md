@@ -38,6 +38,7 @@ Jeśli nie znajdziesz dość sprawdzonych tematów, zrób **mniej postów**. Nig
    - lista szkiców: konto, godzina, temat w 3–5 słowach;
    - podgląd: `https://github.com/krzysiuhexa-creator/faceless-konta/blob/main/posts/D/podglad.png`;
    - w pn/śr/pt nakładka do zdjęcia: link raw do `zdjecie-<slug>-nakladka.png`, opis do wklejenia i co ma być na zdjęciu (`photo_hint`). Instrukcja: w Canvie zdjęcie na całą stronę 1080×1350, nakładka na wierzch, eksport PNG;
+   - **muzyka:** do każdego posta propozycja pasującego utworu z biblioteki Instagrama (tytuł i wykonawca, 1–2 opcje, nastrój pasujący do tematu, np. synthwave do gier, spokojny lo-fi do rynków). Metricool nie dodaje muzyki do karuzel, więc Krzysiu dodaje ją po publikacji w aplikacji Instagram: post → ⋯ → Edytuj → Dodaj muzykę. Nie podawaj tekstów piosenek;
    - ewentualne błędy;
    - na końcu: „Zatwierdź w Metricool: Planer → szkice → Zaplanuj”.
 
