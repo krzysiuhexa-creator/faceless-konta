@@ -94,7 +94,7 @@
   },
   {
    "type": "bangla_carousel",
-   "slug": "gta6-dzien1",
+   "slug": "gta6-24h",
    "time": "20:00",
    "accent": "#FF4FA0",
    "src": "Sensor Tower / Deadline",
@@ -104,22 +104,10 @@
      "kind": "cover",
      "title": "GTA 6 zarobiło 2,36 mld $ w jeden dzień?!",
      "sub": "Szacunki Sensor Tower po pierwszej dobie",
-     "emoji": "🎮",
      "big": "2,36 mld $",
-     "tags": [
-      [
-       "📦",
-       "24,6 mln kopii"
-      ],
-      [
-       "🕹️",
-       "ok. 75% na PS5"
-      ],
-      [
-       "🏆",
-       "rekord rozrywki?"
-      ]
-     ]
+     "tags": [],
+     "hero": "GTA 6",
+     "hero_size": 330
     },
     {
      "kind": "rows",

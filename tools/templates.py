@@ -203,6 +203,8 @@ body{background:var(--bg);color:var(--w);font-family:'Poppins',sans-serif}
 .note b{color:var(--acc);font-weight:800}
 .cta{position:absolute;left:60px;right:60px;text-align:center;font-weight:900;font-style:italic;text-transform:uppercase;font-size:50px;line-height:1.08}
 .cta small{display:block;margin-top:14px;font-weight:600;font-style:normal;text-transform:none;font-size:30px;color:var(--muted)}
+.hero{position:absolute;left:0;right:0;top:540px;text-align:center;font-weight:900;font-style:italic;line-height:.9;letter-spacing:-8px;color:#fff;
+      transform:rotate(-4deg);text-shadow:10px 10px 0 var(--acc),20px 20px 0 rgba(0,0,0,.45)}
 .fade{position:absolute;left:0;right:0;bottom:0;height:380px;background:linear-gradient(transparent,rgba(5,7,13,.92))}
 .ph{position:absolute;left:0;right:0;top:470px;bottom:0;background:repeating-linear-gradient(45deg,#2A3146 0 30px,#232A3D 30px 60px);
     display:flex;align-items:center;justify-content:center;font-weight:800;font-size:44px;color:#C9D0DE;text-align:center}
@@ -241,7 +243,11 @@ def bangla_slide(p, sl, i, n):
         pos = [("left:60px;top:640px;transform:rotate(-6deg)"), ("right:50px;top:700px;transform:rotate(6deg)"), ("left:50px;top:850px;transform:rotate(3deg)")]
         tg = "".join(f'<div class="tag" style="{pos[j]}">{_e(em)} {tx}</div>' for j, (em, tx) in enumerate(tags))
         big = f'<div class="big" style="left:50%;top:925px;transform:translateX(-50%) rotate(-5deg)">{sl["big"]}</div>' if sl.get("big") else ""
-        emo = f'<div class="circ" style="left:320px;top:590px;width:440px;height:440px;font-size:230px">{_e(sl.get("emoji", "🤯"))}</div>'
+        if sl.get("hero"):
+            hs = sl.get("hero_size", 300)
+            emo = f'<div class="hero" style="font-size:{hs}px">{sl["hero"]}</div>'
+        else:
+            emo = f'<div class="circ" style="left:320px;top:590px;width:440px;height:440px;font-size:230px">{_e(sl.get("emoji", "🤯"))}</div>'
         body = f'{_bg_band(sl["title"], sl.get("sub", ""), swipe=n > 1, hsize=_hsize(sl["title"], 76))}{emo}{tg}{big}'
     elif k == "rows":
         rows = "".join(f'<div class="row"><div class="ic">{_e(em)}</div><div class="t">{tx}</div></div>' for em, tx in sl["rows"])
