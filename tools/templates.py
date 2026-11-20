@@ -46,7 +46,7 @@ li b{color:var(--up)}
 .dots{display:flex;gap:10px}.dots i{display:block;width:44px;height:6px;border-radius:3px;background:var(--line)}
 .dots i.on{background:var(--up)}
 .swipe{position:absolute;right:84px;bottom:130px;font-size:30px;color:var(--muted)}
-.bars{margin-top:70px;display:flex;align-items:flex-end;gap:70px;height:560px;padding:0 30px;border-bottom:3px solid var(--line)}
+.bars{margin-top:60px;display:flex;align-items:flex-end;gap:70px;height:520px;padding:0 30px;border-bottom:3px solid var(--line)}
 .bar{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%}
 .bar .v{font-family:'JetBrains Mono';font-weight:700;font-size:46px;margin-bottom:18px}
 .bar .r{width:100%;border-radius:14px 14px 0 0}
@@ -68,6 +68,8 @@ li b{color:var(--up)}
 .stat .n{font-family:'Space Grotesk';font-weight:700;font-size:130px;line-height:1;color:var(--up);letter-spacing:-3px}
 .stat .t{margin-top:12px;font-size:34px;color:var(--muted)}
 .chart{margin-top:30px;display:block}
+.neg li b,.neg .note b,.neg .quote b{color:var(--down)}
+.neg li:before{background:var(--down)}
 """
 
 MM_LOGO = """<svg viewBox="0 0 100 100" width="{s}" height="{s}">
@@ -114,8 +116,8 @@ def mm_slide(lang, p, sl, i, n):
     elif k == "bars":
         a, b = float(sl["a"]), float(sl["b"])
         mx = max(a, b) or 1
-        ha, hb = a / mx * 430, b / mx * 430
-        ca, cb = ("#2A3644", "#2BE38B") if b >= a else ("#2BE38B", "#FF5A5F")
+        ha, hb = a / mx * 400, b / mx * 400
+        ca, cb = ("#2A3644", "#2BE38B") if b >= a else ("#2A3644", "#FF5A5F")
         note = f'<div class="note">{sl["note"]}</div>' if sl.get("note") else ""
         body = f"""{hd}<h2>{sl["title"]}</h2>
 <div class="bars"><div class="bar"><div class="v" style="color:#8796A8">{sl["a_value"]}</div><div class="r" style="height:{ha:.0f}px;background:{ca}"></div></div>
@@ -126,7 +128,8 @@ def mm_slide(lang, p, sl, i, n):
 <div class="cta">{MM_CTA[lang]}</div><div class="disc">{MM_DISC[lang]}</div>"""
     else:
         raise ValueError(f"nieznany slajd mm: {k}")
-    return page(MM_FONTS, MM_CSS, f'<div class="s">{body}{ft}</div>')
+    neg = " neg" if p.get("mood") == "down" else ""
+    return page(MM_FONTS, MM_CSS, f'<div class="s{neg}">{body}{ft}</div>')
 
 
 def mm_numbers(lang, p):

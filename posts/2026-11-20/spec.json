@@ -1,0 +1,167 @@
+{
+ "date": "2026-11-20",
+ "posts": [
+  {
+   "type": "mm_carousel",
+   "slug": "btc-60k",
+   "time": "19:30",
+   "pl": {
+    "tag": "KRYPTO",
+    "date": "20.11.2026",
+    "src": "Źródła: CoinGecko, Fortune, KuCoin News",
+    "caption": "Bitcoin zszedł dziś poniżej 60 000 $. Pierwszy raz od lipca 📉\n\nMiesiąc temu kosztował ok. 81 600 $, czyli w miesiąc stracił ok. 27%. Rynek jest w skrajnym strachu.\n\nPrzesuń, żeby zobaczyć liczby 👉\n\nŹródła: CoinGecko, Fortune, KuCoin News\nInformacja, nie porada inwestycyjna.\n\n#bitcoin #btc #krypto #kryptowaluty #rynki",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "BITCOIN",
+      "title": "Bitcoin poniżej 60&nbsp;000&nbsp;$. Pierwszy raz od lipca",
+      "big": "−27%",
+      "big_label": "w miesiąc",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "Co się stało",
+      "items": [
+       "W piątek po 16:45 naszego czasu BTC zszedł poniżej <b>60&nbsp;000&nbsp;$</b>.",
+       "Tak tanio nie było od lipca.",
+       "Miesiąc temu kosztował ok. <b>81&nbsp;600&nbsp;$</b>, rok temu ok. <b>86&nbsp;600&nbsp;$</b>.",
+       "Od rekordu z października 2025 (ok. 126&nbsp;000&nbsp;$) to już ponad <b>50% w dół</b>."
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "Cena bitcoina",
+      "a_label": "miesiąc temu",
+      "a_value": "81 600 $",
+      "a": 81639,
+      "b_label": "dziś, ok. 17:00",
+      "b_value": "59 300 $",
+      "b": 59300,
+      "note": "Nastroje: indeks Fear &amp; Greed spadł do <b>12 na 100</b>, czyli skrajny strach."
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "<b>60&nbsp;000&nbsp;$</b> to granica, której rynek pilnował od lata. Jej przebicie pokazuje, jak <b>słabe są teraz nastroje</b>."
+     }
+    ],
+    "mood": "down"
+   },
+   "en": {
+    "tag": "CRYPTO",
+    "date": "Nov 20, 2026",
+    "src": "Sources: CoinGecko, Fortune, KuCoin News",
+    "caption": "Bitcoin dropped below $60,000 today for the first time since July 📉\n\nA month ago it was around $81,600, so that's roughly a 27% drop in a month. The market is in extreme fear.\n\nSwipe for the numbers 👉\n\nSources: CoinGecko, Fortune, KuCoin News\nInformation, not financial advice.\n\n#bitcoin #btc #crypto #cryptocurrency #markets",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "BITCOIN",
+      "title": "Bitcoin below $60,000 for the first time since July",
+      "big": "−27%",
+      "big_label": "in one month",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "What happened",
+      "items": [
+       "On Friday at 15:45 UTC, BTC slipped below <b>$60,000</b>.",
+       "It hasn't been this cheap since July.",
+       "A month ago it traded near <b>$81,600</b>; a year ago near <b>$86,600</b>.",
+       "It's now more than <b>50% below</b> its October 2025 record (about $126,000)."
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "Bitcoin price",
+      "a_label": "a month ago",
+      "a_value": "$81,600",
+      "a": 81639,
+      "b_label": "today, ~16:00 UTC",
+      "b_value": "$59,300",
+      "b": 59300,
+      "note": "Sentiment: the Fear &amp; Greed Index fell to <b>12 out of 100</b>, which is extreme fear."
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "<b>$60,000</b> is the line the market had held since summer. Losing it shows <b>how weak sentiment is right now</b>."
+     }
+    ],
+    "mood": "down"
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "gta6-dzien1",
+   "time": "20:00",
+   "accent": "#FF4FA0",
+   "src": "Sensor Tower / Deadline",
+   "caption": "GTA 6 zarobiło 2,36 mld $ w JEDEN dzień 🤯\n\nWedług szacunków Sensor Tower w pierwszej dobie sprzedało się ok. 24,6 mln kopii (razem z przedsprzedażą). GTA 5 w 2013 roku zrobiło w pierwszy dzień ok. 800 mln $.\n\nGrasz już czy czekasz na promocję? 👇\n\nŹródło: Sensor Tower / Deadline\n\n#gta6 #gry #ciekawostki #rockstar #ps5",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "GTA 6 zarobiło 2,36 mld $ w jeden dzień?!",
+     "sub": "Szacunki Sensor Tower po pierwszej dobie",
+     "emoji": "🎮",
+     "big": "2,36 mld $",
+     "tags": [
+      [
+       "📦",
+       "24,6 mln kopii"
+      ],
+      [
+       "🕹️",
+       "ok. 75% na PS5"
+      ],
+      [
+       "🏆",
+       "rekord rozrywki?"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "W liczbach",
+     "rows": [
+      [
+       "📦",
+       "Ok. <b>24,6 mln</b> sprzedanych kopii (razem z przedsprzedażą)"
+      ],
+      [
+       "💰",
+       "<b>2,36 mld $</b> w pierwsze 24 godziny"
+      ],
+      [
+       "🕹️",
+       "Ok. <b>3/4</b> sprzedaży na PS5"
+      ],
+      [
+       "⏳",
+       "Pierwsze nowe GTA od <b>13 lat</b>"
+      ]
+     ]
+    },
+    {
+     "kind": "bars",
+     "title": "GTA 5 vs GTA 6",
+     "sub": "Pierwszy dzień sprzedaży",
+     "bars": [
+      [
+       "0,8 mld $",
+       "GTA 5<br>2013",
+       false
+      ],
+      [
+       "2,36 mld $",
+       "GTA 6<br>2026",
+       true
+      ]
+     ],
+     "note": "Prawie <b>3× więcej</b> niż GTA 5. To szacunki Sensor Tower, Rockstar ich jeszcze nie potwierdził."
+    }
+   ]
+  }
+ ]
+}
