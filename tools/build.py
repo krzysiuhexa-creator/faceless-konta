@@ -6,7 +6,9 @@ Wynik:   posts/<data>/mm/*.png, posts/<data>/bangla/*.png, posts/<data>/metricoo
 """
 import json
 import sys
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from PIL import Image
 from playwright.sync_api import sync_playwright
@@ -118,7 +120,7 @@ def main(spec_path):
     for po in posts:
         media = [REPO_RAW + f"posts/{day}/{x}" for x in po["files"]]
         mc.append({"account": po["account"], "slug": po["slug"], "blogId": str(po["blogId"]),
-                   "date": f"{day}T{po['time']}:00+01:00", "info": info(po["caption"], media, day, po["time"])})
+                   "date": datetime.fromisoformat(f"{day}T{po['time']}:00").replace(tzinfo=ZoneInfo(TZ)).isoformat(), "info": info(po["caption"], media, day, po["time"])})
     (out / "metricool.json").write_text(json.dumps(mc, ensure_ascii=False, indent=1), encoding="utf-8")
     (out / "zdjecia.json").write_text(json.dumps(photos, ensure_ascii=False, indent=1), encoding="utf-8")
 
