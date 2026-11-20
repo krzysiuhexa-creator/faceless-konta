@@ -93,5 +93,6 @@ Teksty mogą mieć `<b>…</b>` (wyróżnienie) i `&nbsp;` (twarda spacja, np. `
 
 - `mm_carousel`: od 2 do 5 slajdów, pierwszy zawsze `cover`, ostatni najlepiej `why`. `big` może być pusty; `down: true` maluje liczbę na czerwono. Przy złych wiadomościach (spadki) dodaj w `pl` i `en` pole `"mood": "down"`: wyróżnienia będą czerwone zamiast zielonych.
 - `mm_numbers`: `rows[][2]` to klasa: `"dn"` (czerwony), `"upc"` (zielony) albo `""`. Wykres opcjonalny (2–5 punktów).
-- `bangla_carousel`: od 1 do 4 slajdów, pierwszy zawsze `cover`. `big` (krótki, max ~9 znaków) i `tags` (0–3) są opcjonalne.
+- `bangla_carousel`: od 1 do 4 slajdów, pierwszy zawsze `cover`. `big` (krótki, max ~10 znaków) i `tags` (0–3) są opcjonalne.
+- Okładka Bangla: zamiast `emoji` możesz dać `"hero": "GTA 6"` (duży napis, 1–6 znaków, `hero_size` domyślnie 300). Wtedy nie dawaj `tags`. Hero jest lepszy, gdy temat ma krótką, rozpoznawalną nazwę (gra, firma, liczba). Hero to zwykły tekst naszą czcionką, nigdy logo ani stylizacja cudzej marki.
 - Nazwy `slug`: małe litery, bez polskich znaków, unikalne w danym dniu.
