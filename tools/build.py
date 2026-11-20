@@ -1,7 +1,7 @@
 """Buduje grafiki i payloady Metricool z pliku spec JSON.
 
 Użycie:  python3 tools/build.py posts/2026-11-21/spec.json
-Wynik:   posts/<data>/mm/*.png, posts/<data>/bangla/*.png, posts/<data>/metricool.json, posts/<data>/podglad.png
+Wynik:   posts/<data>/mm/*.jpg, posts/<data>/bangla/*.jpg, posts/<data>/ukryta/*.jpg (JPEG, bo Instagram API nie przyjmuje PNG), posts/<data>/metricool.json, posts/<data>/podglad.png
          i lista ostrzeżeń o tekście, który wychodzi poza bezpieczny obszar (wtedy skróć tekst i zbuduj ponownie).
 """
 import json
@@ -69,7 +69,7 @@ def main(spec_path):
                 n = len(d["slides"])
                 files = []
                 for i, sl in enumerate(d["slides"], 1):
-                    rel = f"mm/{slug}-{lang}-{i}.png"
+                    rel = f"mm/{slug}-{lang}-{i}.jpg"
                     lk = "mm_stat" if sl.get("stat") else {"why": "mm_why", "bars": "mm_bars"}.get(sl["kind"], "mm")
                     jobs.append((rel, T.mm_slide(lang, d, sl, i, n), T.W, T.H, False, lk))
                     files.append(rel)
@@ -78,7 +78,7 @@ def main(spec_path):
         elif t == "mm_numbers":
             for lang in ("pl", "en"):
                 d = p[lang]
-                rel = f"mm/{slug}-{lang}.png"
+                rel = f"mm/{slug}-{lang}.jpg"
                 jobs.append((rel, T.mm_numbers(lang, d), T.W, T.H, False, None))
                 posts.append({"account": f"mm-{lang}", "blogId": BLOG[("mm", lang)], "time": p["time"], "slug": slug,
                               "files": [rel], "caption": d["caption"]})
@@ -86,7 +86,7 @@ def main(spec_path):
             n = len(p["slides"])
             files = []
             for i, sl in enumerate(p["slides"], 1):
-                rel = f"bangla/{slug}-{i}.png"
+                rel = f"bangla/{slug}-{i}.jpg"
                 lk = None if sl["kind"] == "cover" else "bangla"
                 jobs.append((rel, T.bangla_slide(p, sl, i, n), T.W, T.H, False, lk))
                 files.append(rel)
@@ -111,7 +111,7 @@ def main(spec_path):
                     if not ip.exists():
                         raise SystemExit(f"Brak zdjęcia: {ip}")
                     sl["img"] = str(ip)
-                rel = f"ukryta/{slug}-{i}.png"
+                rel = f"ukryta/{slug}-{i}.jpg"
                 lk = "ul_img" if (sl.get("img") and not sl.get("noimg")) else "ul_mid"
                 jobs.append((rel, S.aspect_slide(p, sl, i, n), T.W, T.H, False, lk))
                 files.append(rel)
@@ -141,7 +141,11 @@ def main(spec_path):
                 m = pg.evaluate(CHECK_JS)
                 if m["bottom"] > LIMIT[lk] or m["right"] > w - 40:
                     warnings.append(f"{rel}: tekst za nisko/szeroko (dół {m['bottom']:.0f}px, limit {LIMIT[lk]}; prawo {m['right']:.0f}px)")
-            pg.screenshot(path=str(dst), omit_background=transparent)
+            if dst.suffix == ".jpg":
+                # Instagram przez API przyjmuje tylko JPEG – posty zawsze jako .jpg
+                pg.screenshot(path=str(dst), type="jpeg", quality=92)
+            else:
+                pg.screenshot(path=str(dst), omit_background=transparent)
             pg.close()
         b.close()
 
