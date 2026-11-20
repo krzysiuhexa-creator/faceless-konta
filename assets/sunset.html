@@ -1,0 +1,54 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>*{margin:0;padding:0}html,body{width:1080px;height:1350px;overflow:hidden;background:#0B0F1A}</style></head><body>
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#0B0F1A"/><stop offset="0.30" stop-color="#2A0E4A"/><stop offset="0.52" stop-color="#8E1F7A"/><stop offset="0.62" stop-color="#FF4FA0"/><stop offset="0.68" stop-color="#FF8A3D"/>
+ </linearGradient>
+ <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE14D"/><stop offset="0.55" stop-color="#FF8A3D"/><stop offset="1" stop-color="#FF2E88"/></linearGradient>
+ <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2A0B3E"/><stop offset="1" stop-color="#07070F"/></linearGradient>
+ <clipPath id="sunclip"><rect x="0" y="0" width="1080" height="918"/></clipPath>
+ <mask id="stripes"><rect width="1080" height="1350" fill="#fff"/>
+  <rect x="0" y="760" width="1080" height="8" fill="#000"/><rect x="0" y="800" width="1080" height="11" fill="#000"/>
+  <rect x="0" y="838" width="1080" height="14" fill="#000"/><rect x="0" y="873" width="1080" height="17" fill="#000"/><rect x="0" y="905" width="1080" height="20" fill="#000"/></mask>
+ <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1080" height="920" fill="url(#sky)"/>
+<g opacity="0.9">
+ <circle cx="140" cy="210" r="2" fill="#fff"/><circle cx="300" cy="120" r="1.6" fill="#fff"/><circle cx="520" cy="180" r="2.2" fill="#fff"/><circle cx="760" cy="110" r="1.8" fill="#fff"/><circle cx="930" cy="230" r="2" fill="#fff"/><circle cx="640" cy="300" r="1.5" fill="#fff"/><circle cx="220" cy="360" r="1.4" fill="#fff"/><circle cx="880" cy="380" r="1.6" fill="#fff"/>
+</g>
+<circle cx="540" cy="760" r="300" fill="#FF4FA0" opacity="0.55" filter="url(#glow)"/>
+<g clip-path="url(#sunclip)" mask="url(#stripes)"><circle cx="540" cy="760" r="270" fill="url(#sun)"/></g>
+<!-- skyline -->
+<g fill="#1B0A2E">
+ <rect x="60" y="800" width="70" height="120"/><rect x="140" y="760" width="55" height="160"/><rect x="200" y="820" width="90" height="100"/><rect x="300" y="740" width="48" height="180"/><rect x="355" y="790" width="80" height="130"/>
+ <rect x="650" y="780" width="70" height="140"/><rect x="725" y="730" width="52" height="190"/><rect x="785" y="800" width="95" height="120"/><rect x="890" y="760" width="60" height="160"/><rect x="955" y="815" width="80" height="105"/>
+</g>
+<g fill="#FFD21F" opacity="0.55">
+ <rect x="150" y="780" width="8" height="10"/><rect x="170" y="800" width="8" height="10"/><rect x="310" y="770" width="8" height="10"/><rect x="325" y="810" width="8" height="10"/><rect x="740" y="760" width="8" height="10"/><rect x="755" y="800" width="8" height="10"/><rect x="900" y="790" width="8" height="10"/><rect x="915" y="830" width="8" height="10"/>
+</g>
+<!-- floor grid -->
+<rect y="918" width="1080" height="432" fill="url(#floor)"/>
+<g stroke="#FF4FA0" stroke-width="3" opacity="0.75">
+ <line x1="0" y1="920" x2="1080" y2="920" stroke-width="5"/>
+ <line x1="0" y1="945" x2="1080" y2="945"/><line x1="0" y1="985" x2="1080" y2="985"/><line x1="0" y1="1045" x2="1080" y2="1045"/><line x1="0" y1="1130" x2="1080" y2="1130"/><line x1="0" y1="1250" x2="1080" y2="1250"/>
+ <line x1="540" y1="920" x2="540" y2="1350"/><line x1="480" y1="920" x2="300" y2="1350"/><line x1="600" y1="920" x2="780" y2="1350"/>
+ <line x1="420" y1="920" x2="60" y2="1350"/><line x1="660" y1="920" x2="1020" y2="1350"/><line x1="360" y1="920" x2="-180" y2="1350"/><line x1="720" y1="920" x2="1260" y2="1350"/>
+ <line x1="300" y1="920" x2="-420" y2="1350"/><line x1="780" y1="920" x2="1500" y2="1350"/>
+</g>
+<!-- palms -->
+<g fill="#07070F">
+ <path d="M150 925 C 160 800, 175 700, 215 600 L 228 604 C 192 700, 178 800, 170 925 Z"/>
+ <path d="M220 600 C 160 570, 110 590, 70 640 C 120 600, 170 595, 214 612 Z"/>
+ <path d="M220 600 C 180 540, 120 525, 80 540 C 130 545, 180 565, 212 606 Z"/>
+ <path d="M222 598 C 230 540, 270 505, 320 500 C 280 520, 250 555, 230 604 Z"/>
+ <path d="M224 600 C 280 580, 330 600, 360 650 C 320 615, 275 605, 228 610 Z"/>
+ <path d="M223 600 C 260 560, 310 555, 350 575 C 305 575, 265 588, 229 607 Z"/>
+ <path d="M219 602 C 200 640, 175 690, 170 740 C 165 690, 185 640, 214 598 Z"/>
+ <path d="M930 925 C 920 820, 900 730, 860 650 L 848 655 C 885 735, 905 820, 912 925 Z"/>
+ <path d="M856 652 C 910 615, 960 625, 1010 670 C 960 640, 910 640, 862 662 Z"/>
+ <path d="M856 650 C 890 595, 950 580, 995 590 C 945 600, 895 620, 862 660 Z"/>
+ <path d="M854 650 C 840 595, 800 565, 750 562 C 795 580, 828 610, 848 658 Z"/>
+ <path d="M852 652 C 800 640, 755 660, 728 705 C 765 670, 805 660, 848 664 Z"/>
+ <path d="M856 654 C 875 690, 895 735, 898 780 C 905 735, 888 690, 862 650 Z"/>
+</g>
+</svg></body></html>
