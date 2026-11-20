@@ -22,7 +22,7 @@ Codziennie rano przygotuj szkice postów w Metricool dla czterech kont Krzyśka.
 | 12:30 | Bangla | `bangla_carousel`: ciekawostka „nie wiedziałeś, że…” |
 | 16:00 | Bangla | `bangla_carousel`: viral / temat z internetu (bez zdjęć ludzi) |
 | 20:00 | Bangla | `bangla_carousel`: dziwna albo śmieszna historia ze świata |
-| 21:00 | Ukryta Lekcja | `ukryta_carousel`: jedna długa karuzela-historia (10–14 slajdów), na zmianę przypowieść i prawdziwa historia |
+| 21:00 | Ukryta Lekcja | `ukryta_carousel`: jedna karuzela-historia (8–10 slajdów; Instagram przez API przyjmuje najwyżej 10), na zmianę przypowieść i prawdziwa historia |
 | pn, śr, pt | Bangla (półautomat) | `bangla_photo`: najgorętszy temat polskiego internetu jako nakładka do zdjęcia, które Krzysiu dodaje sam |
 
 Jeśli nie znajdziesz dość sprawdzonych tematów, zrób **mniej postów**. Nigdy nie wypełniaj planu na siłę.
@@ -118,5 +118,5 @@ Teksty mogą mieć `<b>…</b>` (wyróżnienie) i `&nbsp;` (twarda spacja, np. `
 - `mm_numbers`: `rows[][2]` to klasa: `"dn"` (czerwony), `"upc"` (zielony) albo `""`. Wykres opcjonalny (2–5 punktów).
 - `bangla_carousel`: od 1 do 4 slajdów, pierwszy zawsze `cover`. `big` (krótki, max ~10 znaków) i `tags` (0–3) są opcjonalne.
 - Okładka Bangla: zamiast `emoji` możesz dać `"hero": "GTA 6"` (duży napis, 1–6 znaków, `hero_size` domyślnie 300). Wtedy nie dawaj `tags`. Hero jest lepszy, gdy temat ma krótką, rozpoznawalną nazwę (gra, firma, liczba). Hero to zwykły tekst naszą czcionką, nigdy logo ani stylizacja cudzej marki.
-- `ukryta_carousel`: 10–14 slajdów. Ścieżki `img` są względem `posts/D/`. `fs` domyślnie 64 (okładka 70, slajdy z liczbami lub dłuższym tekstem 54–58). Jeśli build zgłasza „za dużo tekstu”, skróć tekst albo zmniejsz `fs`. W tekście wolno `<em>…</em>` (żółte wyróżnienie) i `<mark>…</mark>` (żółte tło).
+- `ukryta_carousel`: 8–10 slajdów (twardy limit 10: przy automatycznej publikacji Instagram nie przyjmie więcej, build.py przerwie). Ścieżki `img` są względem `posts/D/`. `fs` domyślnie 64 (okładka 70, slajdy z liczbami lub dłuższym tekstem 54–58). Jeśli build zgłasza „za dużo tekstu”, skróć tekst albo zmniejsz `fs`. W tekście wolno `<em>…</em>` (żółte wyróżnienie) i `<mark>…</mark>` (żółte tło).
 - Nazwy `slug`: małe litery, bez polskich znaków, unikalne w danym dniu.

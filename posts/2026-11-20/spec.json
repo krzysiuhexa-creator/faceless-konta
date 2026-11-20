@@ -153,7 +153,7 @@
   },
   {
    "type": "ukryta_carousel",
-   "slug": "pianka",
+   "slug": "pianka-v2",
    "time": "21:00",
    "name": "UKRYTA LEKCJA",
    "accent": "#F5C542",
@@ -178,49 +178,34 @@
     },
     {
      "img": "ukryta/img/pianka.jpg",
-     "pos": "60% 30%",
-     "text": [
-      "Stanford, koniec lat 60. Psycholog Walter Mischel sadza przedszkolaka przy stole i kładzie przed nim piankę."
-     ],
-     "zoom": 1.35
-    },
-    {
-     "img": "ukryta/img/pianka.jpg",
      "pos": "35% 88%",
-     "dark": 0.1,
+     "zoom": 2.0,
+     "dark": 0.15,
+     "fs": 58,
      "text": [
-      "Zasada jest prosta: zjedz ją teraz albo poczekaj, aż badacz wróci, a dostaniesz dwie."
-     ],
-     "zoom": 2.0
+      "Stanford, koniec lat 60. Psycholog Walter Mischel kładzie przed przedszkolakiem piankę.",
+      "Zjedz ją teraz albo poczekaj, aż wrócę, a dostaniesz dwie."
+     ]
     },
     {
      "img": "ukryta/img/pianka.jpg",
      "pos": "45% 30%",
+     "zoom": 1.7,
      "dark": 0.25,
      "text": [
       "Część dzieci zjada ją, zanim zamkną się drzwi.",
       "Inne się kręcą, śpiewają, odwracają wzrok. Byle wytrzymać."
-     ],
-     "zoom": 1.7
-    },
-    {
-     "img": "ukryta/img/egzamin.jpg",
-     "pos": "center 40%",
-     "text": [
-      "Kilkanaście lat później badacze odnajdują tamte dzieci.",
-      "Te, które czekały dłużej, mają średnio lepsze wyniki na egzaminach."
      ]
     },
     {
      "img": "ukryta/img/egzamin.jpg",
-     "pos": "50% 85%",
-     "dark": 0.3,
-     "fs": 72,
+     "pos": "center 40%",
+     "dark": 0.15,
+     "fs": 58,
      "text": [
-      "Świat uznaje, że znalazł sekret sukcesu:",
-      "<em>silną wolę.</em>"
-     ],
-     "zoom": 1.7
+      "Kilkanaście lat później te, które czekały dłużej, mają średnio lepsze wyniki na egzaminach.",
+      "Świat uznaje, że znalazł sekret sukcesu: <em>silną wolę.</em>"
+     ]
     },
     {
      "img": "ukryta/img/schronisko.jpg",
@@ -233,34 +218,26 @@
     {
      "img": "ukryta/img/schronisko.jpg",
      "pos": "35% 90%",
+     "zoom": 1.9,
      "dark": 0.25,
      "text": [
       "Zauważyła, że dzieci jedzą tam wszystko od razu.",
       "Bo to, czego nie zjesz teraz, ktoś może ci zabrać."
-     ],
-     "zoom": 1.9
-    },
-    {
-     "img": "ukryta/img/kredki.jpg",
-     "pos": "center 50%",
-     "text": [
-      "Powtarza więc test z jedną zmianą.",
-      "Najpierw badaczka obiecuje dzieciom lepsze kredki."
      ]
     },
     {
      "img": "ukryta/img/kredki.jpg",
-     "pos": "90% 30%",
-     "dark": 0.25,
+     "pos": "center 50%",
+     "fs": 58,
      "text": [
-      "Połowie dzieci je przynosi.",
-      "Drugiej połowie wraca z pustymi rękami i przeprasza."
-     ],
-     "zoom": 1.8
+      "Powtarza więc test z jedną zmianą. Najpierw badaczka obiecuje dzieciom lepsze kredki.",
+      "Połowie je przynosi. Drugiej połowie wraca z pustymi rękami."
+     ]
     },
     {
      "img": "ukryta/img/pianka.jpg",
      "pos": "30% 85%",
+     "zoom": 2.2,
      "dark": 0.5,
      "fs": 54,
      "big": "12",
@@ -269,19 +246,18 @@
      "label2": "minuty czekały dzieci, którym je złamano",
      "text": [
       "Te same dzieci. Ta sama pianka. Inna lekcja chwilę wcześniej."
-     ],
-     "zoom": 2.2
+     ]
     },
     {
      "img": "ukryta/img/egzamin.jpg",
      "pos": "50% 20%",
+     "zoom": 1.4,
      "dark": 0.55,
      "fs": 56,
      "text": [
       "W 2018 roku sprawdzono to na ponad 900 dzieciach.",
       "Sama silna wola przewidywała dużo mniej, niż obiecywano. Liczyło się też to, w jakim domu dziecko dorastało."
-     ],
-     "zoom": 1.4
+     ]
     },
     {
      "noimg": true,

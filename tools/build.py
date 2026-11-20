@@ -101,6 +101,8 @@ def main(spec_path):
                            "photo_hint": p.get("photo_hint", "")})
         elif t == "ukryta_carousel":
             n = len(p["slides"])
+            if n > 10:
+                raise SystemExit(f"{slug}: {n} slajdów – Instagram przez API przyjmuje najwyżej 10. Skróć karuzelę.")
             files = []
             for i, sl in enumerate(p["slides"], 1):
                 sl = dict(sl)
