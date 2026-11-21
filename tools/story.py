@@ -124,4 +124,5 @@ def aspect_slide(p, sl, i, n):
     body = (f'{img}<div class="box{mid}"><div class="div"><span>{name}</span></div>{nums}'
             f'<div class="t" style="--fs:{sl.get("fs",64)}px">{_ps(sl.get("text", []))}</div></div>')
     chev = '<div class="chev">›››</div>' if i < n else ""
-    return page(AS_FONTS, AS_CSS, f'<div class="s" style="--acc:{acc}">{body}<div class="grain"></div>{chev}<div class="cnt">{i}/{n}</div></div>')
+    cnt = f'<div class="cnt">{i}/{n}</div>' if n > 1 else ""  # karta (1 slajd) bez licznika
+    return page(AS_FONTS, AS_CSS, f'<div class="s" style="--acc:{acc}">{body}<div class="grain"></div>{chev}{cnt}</div>')
