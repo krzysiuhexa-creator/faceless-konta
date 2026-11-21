@@ -1,6 +1,6 @@
 # Procedura dzienna – konta faceless
 
-Codziennie rano przygotuj szkice postów w Metricool dla czterech kont Krzyśka. Krzysiu zatwierdza je w aplikacji Metricool. Pisz do niego po polsku.
+Codziennie rano przygotuj i **zaplanuj** posty w Metricool dla czterech kont Krzyśka. 21.11.2026 Krzysiu zdecydował: pełny automat, posty publikują się same, bez jego zatwierdzania. Wyjątek: posty oznaczone `review: true` (patrz krok 5a) idą jako szkic do ręcznego zatwierdzenia. Pisz do niego po polsku.
 
 | Konto | Metricool blogId | Język |
 |---|---|---|
@@ -9,23 +9,27 @@ Codziennie rano przygotuj szkice postów w Metricool dla czterech kont Krzyśka.
 | @niewiemalebangla (Nie wiem ale bangla (chyba)) | 8252917 | PL |
 | @ukryta.lekcja (Ukryta Lekcja) | 8254291 | PL |
 
-**Nigdy** nie twórz postów w marce `krzysiuhexa` (blogId 8229647). Każdy post tworzysz jako **szkic** (`draft: true`). Nic nie publikujesz sam.
+**Nigdy** nie twórz postów w marce `krzysiuhexa` (blogId 8229647). Posty tworzysz jako zaplanowane z automatyczną publikacją (`draft: false`, `autoPublish: true`, tak robi build.py). Jako szkic (`draft: true`) tylko posty z `review: true`. Skoro nikt nie zatwierdza, jakość pilnujesz sam (krok 5a).
 
 ## Plan dnia (D = dzisiejsza data w Europe/Warsaw)
 
 | Godzina | Konto | Typ |
 |---|---|---|
-| 09:00 | Market Minute PL + EN | `mm_carousel`: najważniejszy temat dnia z krypto lub biznesu, 4–5 slajdów |
-| 12:00 | Market Minute PL + EN | `mm_carousel`: trzeci temat (np. spółka, AI, gospodarka, Polska), 3–4 slajdy |
-| 15:00 | Market Minute PL + EN | `mm_numbers`: karta liczbowa (np. Bitcoin, Ethereum, kurs złotego, indeks giełdowy) |
-| 18:00 | Market Minute PL + EN | `mm_carousel`: drugi temat dnia, 3–4 slajdy |
+Każde konto: rano, w południe, po południu i wieczorem.
+
+| Godzina | Konto | Typ |
+|---|---|---|
+| 08:00 | Ukryta Lekcja | `ukryta_carousel` z 1 slajdem (`genre: karta`): karta „lekcja dnia” (zdjęcie + 1–3 zdania) |
+| 08:30 | Market Minute PL + EN | `mm_carousel`: najważniejszy temat dnia z krypto lub biznesu, 4–5 slajdów |
 | 09:30 | Bangla | `bangla_carousel`: news dnia ze świata albo z Polski |
-| 12:30 | Bangla | `bangla_carousel`: ciekawostka „nie wiedziałeś, że…” |
-| 16:00 | Bangla | `bangla_carousel`: viral / temat z internetu (bez zdjęć ludzi) |
-| 20:00 | Bangla | `bangla_carousel`: dziwna albo śmieszna historia ze świata |
-| 08:30 | Ukryta Lekcja | `ukryta_carousel` z 1 slajdem: karta „lekcja dnia” (zdjęcie + 1–3 zdania) |
+| 12:00 | Market Minute PL + EN | `mm_carousel`: drugi temat (np. spółka, AI, gospodarka, Polska), 3–4 slajdy |
 | 12:30 | Ukryta Lekcja | `ukryta_carousel` `genre: historia`: prawdziwa historia/badanie, 8–10 slajdów (Instagram przez API przyjmuje najwyżej 10) |
-| 17:30 | Ukryta Lekcja | `ukryta_carousel` z 1 slajdem: druga karta „lekcja dnia” |
+| 13:00 | Bangla | `bangla_carousel`: ciekawostka „nie wiedziałeś, że…” |
+| 15:30 | Market Minute PL + EN | `mm_numbers`: karta liczbowa (np. Bitcoin, Ethereum, kurs złotego, indeks giełdowy) |
+| 16:30 | Ukryta Lekcja | `ukryta_carousel` z 1 slajdem (`genre: karta`): druga karta „lekcja dnia” |
+| 17:00 | Bangla | `bangla_carousel`: viral / temat z internetu (bez zdjęć ludzi) |
+| 19:30 | Market Minute PL + EN | `mm_carousel`: trzeci temat dnia, 3–4 slajdy |
+| 20:30 | Bangla | `bangla_carousel`: dziwna albo śmieszna historia ze świata |
 | 21:00 | Ukryta Lekcja | `ukryta_carousel` `genre: przypowiesc`: przypowieść, 8–10 slajdów |
 | pn, śr, pt | Bangla (półautomat) | `bangla_photo`: najgorętszy temat polskiego internetu jako nakładka do zdjęcia, które Krzysiu dodaje sam |
 
@@ -34,21 +38,23 @@ Jeśli nie znajdziesz dość sprawdzonych tematów, zrób **mniej postów**. Nig
 ## Kroki
 
 1. **Repozytorium:** dodaj `krzysiuhexa-creator/faceless-konta` (add_repo, access push), sklonuj (`git clone --depth 1`), wejdź do katalogu, uruchom `bash tools/setup.sh`. Jeśli `posts/D/metricool.json` już istnieje, przerwij (dzień zrobiony) i napisz o tym krótko.
-1a. **Połączenia w Metricool:** wywołaj `getBrandSettings`. Marki 8253009, 8253033, 8252917 i 8254291 muszą mieć `networksData.instagramData`. Jeśli którejś brakuje, i tak zrób jej szkice (zapiszą się), ale **pierwsza linijka podsumowania** to: „⚠️ Rozłączone w Metricool: <marki>. Podłącz je przed zatwierdzeniem (marka → Connections → Instagram → Connect, w przeglądarce aktywne właściwe konto Instagram)”. Bez połączenia post po zatwierdzeniu skończy się błędem.
+1a. **Połączenia w Metricool:** wywołaj `getBrandSettings`. Marki 8253009, 8253033, 8252917 i 8254291 muszą mieć `networksData.instagramData`. Jeśli którejś brakuje, i tak zaplanuj jej posty (zapiszą się), ale **pierwsza linijka podsumowania** to: „⚠️ Rozłączone w Metricool: <marki>. Posty tych kont NIE wyjdą, dopóki ich nie podłączysz (marka → Connections → Instagram → Connect, w przeglądarce aktywne właściwe konto Instagram). Pierwszy post: <godzina>”.
 2. **Research (WebSearch):** newsy z ostatnich 24–48 h. Każdy fakt i każda liczba muszą być w **co najmniej 2 niezależnych źródłach**. Ceny podawaj z datą i godziną. Zanotuj źródła.
 3. **Spec:** zapisz `posts/D/spec.json` według formatu niżej.
 3a. **Zdjęcia do Ukrytej Lekcji (Canva):** wymyśl kadry na cały dzień (3–4 na każdą karuzelę i 1 na każdą kartę, razem najwyżej 10) i dla każdego wywołaj `generate-image` (Canva) z `aspectRatio: "PORTRAIT_3_4"`. Prompt po angielsku, zawsze w tym schemacie: „Black and white cinematic photo, <scena>, film grain, no text”. Ludzie tylko od tyłu, w cieniu, z daleka albo same dłonie; nigdy twarz znanej osoby, nawet gdy historia jest o prawdziwym człowieku (wtedy pokaż miejsce, przedmiot, sylwetkę). Bez logo, marek, napisów. Każde zadanie sprawdzaj `get-generate-image-job` co kilka sekund, aż będzie `SUCCESS`; zanotuj `media id`. Potem **jedno** `create-design` na cały dzień (zużywa 1 użycie Premium AI w Canvie, więc nie rób kilku) z `references` = wszystkie media id i briefem: „A N-page portrait design (1080x1440, 3:4). Page 1 contains ONLY referenced photo 1, page 2 ONLY photo 2 … Each photo full-bleed, edge to edge. No text, no shapes, no logos.” Sprawdzaj `get-create-design-async-job` aż `completed`, potem `export-design` (`{"type":"jpg","quality":92,"width":1080}`) i pobierz każdy link `curl -sS -o posts/D/ukryta/img/<nazwa>.jpg "<url>"` (kolejność stron = kolejność zdjęć). Sprawdź, że pliki mają 1080×1440, i obejrzyj je (Read). Jeśli Canva nie działa albo zdjęcie wyszło źle (napisy, dziwne dłonie, rozpoznawalna twarz), wygeneruj je jeszcze raz najwyżej raz; jeśli dalej nie działa, pomiń dziś Ukrytą Lekcję i napisz o tym w podsumowaniu. Jeśli Canva odpowie, że skończył się limit (np. „exceeded your credit quota”), nie ponawiaj: od razu pomiń Ukrytą Lekcję i napisz w podsumowaniu „Canva: skończył się limit AI”.
 4. **Budowa:** `cd tools && python3 build.py ../posts/D/spec.json`. Jeśli są ostrzeżenia (`warnings`), skróć teksty i zbuduj ponownie, aż lista będzie pusta.
 5. **Kontrola:** obejrzyj `posts/D/podglad.png` i co najmniej jeden pełny slajd z każdego posta (narzędzie Read). Z Ukrytej Lekcji obejrzyj wszystkie slajdy (np. sklej je w jedną planszę PIL-em) i sprawdź, czy kolejne slajdy z tym samym zdjęciem mają różne kadry (`pos`/`zoom`). Sprawdź: brak nachodzących tekstów, emoji się wyświetlają, polskie znaki są poprawne, fakty zgadzają się ze źródłami.
+5a. **Druga kontrola (jak redaktor, który nie pisał tych postów):** nikt już tego nie zatwierdza, więc przejdź każdy post jeszcze raz od zera: każda liczba, nazwa, data i nazwisko na slajdach i w opisie zgadza się z zanotowanymi źródłami; opis mówi to samo co slajdy; polski bez literówek; zdjęcia z Canvy bez napisów, zniekształceń i rozpoznawalnych twarzy. Popraw, co trzeba, i zbuduj ponownie. Ustaw w spec `"review": true` (szkic do ręcznego zatwierdzenia zamiast automatu), gdy post dotyczy: śmierci, katastrofy, przemocy lub tragedii; polityki; zdrowia i medycyny; zarzutów wobec konkretnej osoby lub firmy; albo gdy źródła się różnią lub masz choć cień wątpliwości. Lepiej jeden szkic za dużo niż błąd na profilu.
 6. **Wysyłka grafik:** `git add posts/D && git commit -m "Posty D" && git -c push.negotiate=true push`. Sprawdź `curl -sI` na jeden link raw z każdego posta (ma być 200 i `content-type: image/jpeg`). Grafiki postów muszą być JPEG (`.jpg`): Instagram przez API nie przyjmuje PNG, post kończy się błędem „Unknown”. build.py robi to sam; nie podmieniaj na PNG.
-7. **Metricool:** dla każdego wpisu w `posts/D/metricool.json` wywołaj `createScheduledPost` z dokładnie tymi polami `blogId`, `date`, `info`. Jeśli jakiś się nie uda, zanotuj błąd i idź dalej.
+7. **Metricool:** dla każdego wpisu w `posts/D/metricool.json` wywołaj `createScheduledPost` z dokładnie tymi polami `blogId`, `date`, `info` (build.py ustawia `draft: false`, a przy `review: true` `draft: true`). W odpowiedzi sprawdź, że `draft` się zgadza. Jeśli jakiś się nie uda, zanotuj błąd i idź dalej. Godzina posta nie może być w przeszłości: jeśli przebieg się spóźnił, przesuń taki post na najbliższą pełną godzinę i zbuduj ponownie.
 8. **Wiadomość do Krzyśka** (ostatnia odpowiedź, krótko):
-   - lista szkiców: konto, godzina, temat w 3–5 słowach;
+   - lista zaplanowanych postów: konto, godzina, temat w 3–5 słowach;
+   - osobno (jeśli są) szkice `review` do ręcznego zatwierdzenia, każdy z powodem w kilku słowach;
    - podgląd: `https://github.com/krzysiuhexa-creator/faceless-konta/blob/main/posts/D/podglad.png`;
    - w pn/śr/pt nakładka do zdjęcia: link raw do `zdjecie-<slug>-nakladka.png`, opis do wklejenia i co ma być na zdjęciu (`photo_hint`). Instrukcja: w Canvie zdjęcie na całą stronę 1080×1350, nakładka na wierzch, eksport PNG;
    - **muzyka:** do każdego posta propozycja pasującego utworu z biblioteki Instagrama (tytuł i wykonawca, 1–2 opcje, nastrój pasujący do tematu, np. synthwave do gier, spokojny lo-fi do rynków, spokojne pianino albo ambient do Ukrytej Lekcji). Metricool nie dodaje muzyki do karuzel, więc Krzysiu dodaje ją po publikacji w aplikacji Instagram: post → ⋯ → Edytuj → Dodaj muzykę. Nie podawaj tekstów piosenek;
    - ewentualne błędy;
-   - na końcu: „Zatwierdź w Metricool: Planer → szkice → Zaplanuj”.
+   - na końcu: „Posty wyjdą same. Żeby coś zatrzymać: Metricool → Planer → post → Usuń. Szkice do zatwierdzenia: Planer → szkice → Zaplanuj”.
 
 ## Zasady treści
 
@@ -57,7 +63,7 @@ Jeśli nie znajdziesz dość sprawdzonych tematów, zrób **mniej postów**. Nig
 - **Market Minute:** zero porad inwestycyjnych, bez „kupuj/sprzedawaj”, bez pewnych prognoz. Prognozy tylko jako „analitycy szacują” ze źródłem. Stopka z zastrzeżeniem dodaje się sama. Tematy: krypto, giełda, duże firmy, gospodarka. Wersja EN to ta sama treść w naturalnym angielskim (daty w formacie „Nov 21, 2026”, liczby „$1.2B”).
 - **Bangla:** luźny ton, krótkie zdania, emoji. „(chyba)” wolno tylko w żarcie, nigdy przy fakcie. Polityka wyłącznie informacyjnie, bez komentarza i bez żartów. Bez tragedii, śmierci, przemocy, ofiar przestępstw, chorób i dzieci jako tematów do śmiechu. Bez osób prywatnych z imienia i nazwiska. O znanych osobach tylko sprawdzone fakty, bez plotek i oskarżeń.
 - **Ukryta Lekcja** (styl: czarno-białe zdjęcie na każdym slajdzie, 1–3 krótkie zdania, na końcu lekcja):
-  - Codziennie 4 posty: dwie karuzele (12:30 `historia`, 21:00 `przypowiesc`) i dwie karty (8:30, 17:30, `genre: karta`, 1 slajd). Karta: zdjęcie i 1–3 zdania lekcji własnymi słowami (krótkie, do zapisania), w `<em>` najważniejsze słowa. Cytat znanej osoby tylko wtedy, gdy znajdziesz go w 2 wiarygodnych źródłach z autorem (np. w jego książce, wywiadzie); w internecie mnóstwo cytatów jest fałszywie przypisanych, więc w razie wątpliwości pisz własnymi słowami. Karty nie powtarzają lekcji z karuzel tego samego dnia.
+  - Codziennie 4 posty: dwie karuzele (12:30 `historia`, 21:00 `przypowiesc`) i dwie karty (8:00, 16:30, `genre: karta`, 1 slajd). Karta: zdjęcie i 1–3 zdania lekcji własnymi słowami (krótkie, do zapisania), w `<em>` najważniejsze słowa. Cytat znanej osoby tylko wtedy, gdy znajdziesz go w 2 wiarygodnych źródłach z autorem (np. w jego książce, wywiadzie); w internecie mnóstwo cytatów jest fałszywie przypisanych, więc w razie wątpliwości pisz własnymi słowami. Karty nie powtarzają lekcji z karuzel tego samego dnia.
   - `przypowiesc`: krótka przypowieść albo bajka z morałem, opowiedziana własnymi słowami. Nie udawaj, że to prawdziwe wydarzenie, i nie przypisuj jej konkretnemu narodowi czy mistrzowi, jeśli tego nie sprawdzisz w 2 źródłach. W pierwszej linijce opisu napisz „Przypowieść.”.
   - `historia`: prawdziwe badanie, wydarzenie albo życiorys. Każdy fakt, liczba, rok i nazwisko w co najmniej 2 niezależnych źródłach; źródła w opisie. Żadnego „naukowcy udowodnili”, jeśli badanie tylko coś sugeruje. Zwrot akcji musi być prawdziwy.
   - Budowa: slajd 1 to hak z niedomkniętą historią (max ~110 znaków, puenta w `<em>`). Potem po jednym kroku historii na slajd (1–2 zdania, max ~150 znaków). Jeśli jest mocna liczba, daj slajd z `big`/`big2`. Przedostatni slajd to zwrot albo wniosek, ostatni (`noimg`) to lekcja dla czytelnika i w `<em>` zachęta do udostępnienia („Wyślij to komuś, kto…”). Najwyżej jedno `<em>` na slajd.
@@ -126,4 +132,5 @@ Teksty mogą mieć `<b>…</b>` (wyróżnienie) i `&nbsp;` (twarda spacja, np. `
 - `bangla_carousel`: od 1 do 4 slajdów, pierwszy zawsze `cover`. `big` (krótki, max ~10 znaków) i `tags` (0–3) są opcjonalne.
 - Okładka Bangla: zamiast `emoji` możesz dać `"hero": "GTA 6"` (duży napis, 1–6 znaków, `hero_size` domyślnie 300). Wtedy nie dawaj `tags`. Hero jest lepszy, gdy temat ma krótką, rozpoznawalną nazwę (gra, firma, liczba). Hero to zwykły tekst naszą czcionką, nigdy logo ani stylizacja cudzej marki.
 - `ukryta_carousel`: karuzela 8–10 slajdów, karta (`genre: karta`) dokładnie 1 slajd z `img` i `fs` 66–76 (twardy limit 10: przy automatycznej publikacji Instagram nie przyjmie więcej, build.py przerwie). Ścieżki `img` są względem `posts/D/`. `fs` domyślnie 64 (okładka 70, slajdy z liczbami lub dłuższym tekstem 54–58). Jeśli build zgłasza „za dużo tekstu”, skróć tekst albo zmniejsz `fs`. W tekście wolno `<em>…</em>` (żółte wyróżnienie) i `<mark>…</mark>` (żółte tło).
+- Każdy post może mieć `"review": true`: wtedy idzie do Metricool jako szkic do ręcznego zatwierdzenia zamiast automatycznej publikacji (kiedy, patrz krok 5a).
 - Nazwy `slug`: małe litery, bez polskich znaków, unikalne w danym dniu.

@@ -2,7 +2,7 @@
 
 Grafiki postów dla kont @marketminute.pl, @marketminuteng i @niewiemalebangla.
 
-- `posts/RRRR-MM-DD/` – grafiki dnia (`mm/`, `bangla/`), `spec.json` (treść), `metricool.json` (szkice), `podglad.png`.
+- `posts/RRRR-MM-DD/` – grafiki dnia (`mm/`, `bangla/`), `spec.json` (treść), `metricool.json` (posty do zaplanowania), `podglad.png`.
 - `tools/` – generator grafik (`setup.sh`, `build.py`, `templates.py`).
 - `PROCEDURA.md` – codzienna procedura dla automatu.
 

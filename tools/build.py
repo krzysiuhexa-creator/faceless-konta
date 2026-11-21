@@ -38,12 +38,12 @@ UL_TOP = {"img": 560, "mid": 120}
 UL_JS = "() => { const r = document.querySelector('.box .div').getBoundingClientRect(); const t = document.querySelector('.t').getBoundingClientRect(); return {top: r.top, right: Math.max(r.right, t.right)}; }"
 
 
-def info(text, media, date, time, kind="POST", ai=False):
+def info(text, media, date, time, kind="POST", ai=False, review=False):
     ig = {"type": kind}
     if ai:
         ig["isAiGenerated"] = True
     return json.dumps({
-        "autoPublish": True, "draft": True, "descendants": [], "firstCommentText": "", "hasNotReadNotes": False,
+        "autoPublish": True, "draft": bool(review),  # pełny automat; szkic tylko przy review "descendants": [], "firstCommentText": "", "hasNotReadNotes": False,
         "media": media, "mediaAltText": [], "providers": [{"network": "instagram"}],
         "publicationDate": {"dateTime": f"{date}T{time}:00", "timezone": TZ},
         "shortener": False, "smartLinkData": {"ids": []}, "text": text, "instagramData": ig,
@@ -73,14 +73,14 @@ def main(spec_path):
                     lk = "mm_stat" if sl.get("stat") else {"why": "mm_why", "bars": "mm_bars"}.get(sl["kind"], "mm")
                     jobs.append((rel, T.mm_slide(lang, d, sl, i, n), T.W, T.H, False, lk))
                     files.append(rel)
-                posts.append({"account": f"mm-{lang}", "blogId": BLOG[("mm", lang)], "time": p["time"], "slug": slug,
+                posts.append({"account": f"mm-{lang}", "blogId": BLOG[("mm", lang)], "time": p["time"], "slug": slug, "review": p.get("review", False),
                               "files": files, "caption": d["caption"]})
         elif t == "mm_numbers":
             for lang in ("pl", "en"):
                 d = p[lang]
                 rel = f"mm/{slug}-{lang}.jpg"
                 jobs.append((rel, T.mm_numbers(lang, d), T.W, T.H, False, None))
-                posts.append({"account": f"mm-{lang}", "blogId": BLOG[("mm", lang)], "time": p["time"], "slug": slug,
+                posts.append({"account": f"mm-{lang}", "blogId": BLOG[("mm", lang)], "time": p["time"], "slug": slug, "review": p.get("review", False),
                               "files": [rel], "caption": d["caption"]})
         elif t == "bangla_carousel":
             n = len(p["slides"])
@@ -90,7 +90,7 @@ def main(spec_path):
                 lk = None if sl["kind"] == "cover" else "bangla"
                 jobs.append((rel, T.bangla_slide(p, sl, i, n), T.W, T.H, False, lk))
                 files.append(rel)
-            posts.append({"account": "bangla", "blogId": BLOG[("bangla", "pl")], "time": p["time"], "slug": slug,
+            posts.append({"account": "bangla", "blogId": BLOG[("bangla", "pl")], "time": p["time"], "slug": slug, "review": p.get("review", False),
                           "files": files, "caption": p["caption"]})
         elif t == "bangla_photo":
             for prev, suf, tr in ((False, "nakladka", True), (True, "podglad", False)):
@@ -115,7 +115,7 @@ def main(spec_path):
                 lk = "ul_img" if (sl.get("img") and not sl.get("noimg")) else "ul_mid"
                 jobs.append((rel, S.aspect_slide(p, sl, i, n), T.W, T.H, False, lk))
                 files.append(rel)
-            posts.append({"account": "ukryta", "blogId": BLOG[("ukryta", "pl")], "time": p["time"], "slug": slug,
+            posts.append({"account": "ukryta", "blogId": BLOG[("ukryta", "pl")], "time": p["time"], "slug": slug, "review": p.get("review", False),
                           "files": files, "caption": p["caption"], "ai": True})
         else:
             raise SystemExit(f"Nieznany typ posta: {t}")
@@ -154,7 +154,7 @@ def main(spec_path):
     for po in posts:
         media = [REPO_RAW + f"posts/{day}/{x}" for x in po["files"]]
         mc.append({"account": po["account"], "slug": po["slug"], "blogId": str(po["blogId"]),
-                   "date": datetime.fromisoformat(f"{day}T{po['time']}:00").replace(tzinfo=ZoneInfo(TZ)).isoformat(), "info": info(po["caption"], media, day, po["time"], ai=po.get("ai", False))})
+                   "date": datetime.fromisoformat(f"{day}T{po['time']}:00").replace(tzinfo=ZoneInfo(TZ)).isoformat(), "info": info(po["caption"], media, day, po["time"], ai=po.get("ai", False), review=po.get("review", False))})
     (out / "metricool.json").write_text(json.dumps(mc, ensure_ascii=False, indent=1), encoding="utf-8")
     (out / "zdjecia.json").write_text(json.dumps(photos, ensure_ascii=False, indent=1), encoding="utf-8")
 
