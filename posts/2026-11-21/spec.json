@@ -1,0 +1,116 @@
+{
+ "date": "2026-11-21",
+ "posts": [
+  {"type": "mm_carousel", "slug": "wall-street-korekta", "time": "09:00",
+   "pl": {"tag": "GIEŁDA", "date": "21.11.2026", "mood": "down",
+     "src": "Źródła: Yahoo Finance, Fox Business, CNN, StockTitan",
+     "caption": "Najgorszy dzień na Wall Street od miesięcy 📉\n\nW piątek Nasdaq spadł o 5,3% i stracił cały tegoroczny zysk. S&P 500 i Dow Jones są już w korekcie, czyli ponad 10% poniżej rekordów. Nvidia straciła 14% w jeden dzień.\n\nPrzesuń, żeby zobaczyć liczby 👉\n\nŹródła: Yahoo Finance, Fox Business, CNN, StockTitan\nInformacja, nie porada inwestycyjna.\n\n#gielda #wallstreet #nasdaq #nvidia #rynki",
+     "slides": [
+      {"kind": "cover", "kicker": "WALL STREET", "title": "Nasdaq −5,3% w jeden dzień. S&amp;P&nbsp;500 i Dow w korekcie", "big": "−5,3%", "big_label": "Nasdaq w piątek 20.11", "down": true},
+      {"kind": "bullets", "title": "Co się stało", "items": [
+        "S&amp;P&nbsp;500 spadł o <b>3,7%</b>, do ok. 6&nbsp;910&nbsp;pkt.",
+        "Dow Jones stracił <b>1,9%</b>, prawie 950&nbsp;punktów.",
+        "Nasdaq zszedł do ok. 22&nbsp;618&nbsp;pkt i <b>oddał cały zysk z 2026&nbsp;r.</b>",
+        "Nvidia: <b>−14%</b>, do 125,53&nbsp;$."]},
+      {"kind": "bars", "title": "S&amp;P&nbsp;500: rekord vs piątek", "a_label": "rekord, 6.10", "a_value": "7 819 pkt", "a": 7818.93, "b_label": "piątek 20.11", "b_value": "6 910 pkt", "b": 6910.39, "note": "To ponad <b>11% poniżej rekordu</b>. Korekta to spadek o ponad 10% od szczytu."},
+      {"kind": "why", "title": "Dlaczego to ważne", "text": "Inwestorzy coraz mocniej wątpią, czy <b>ogromne wydatki na AI</b> szybko się zwrócą. Dlatego najmocniej oberwały spółki od chipów."}
+     ]},
+   "en": {"tag": "STOCKS", "date": "Nov 21, 2026", "mood": "down",
+     "src": "Sources: Yahoo Finance, Fox Business, CNN, StockTitan",
+     "caption": "Wall Street's worst day in months 📉\n\nOn Friday the Nasdaq fell 5.3% and wiped out its entire 2026 gain. The S&P 500 and the Dow are now in correction, more than 10% below their records. Nvidia lost 14% in a single day.\n\nSwipe for the numbers 👉\n\nSources: Yahoo Finance, Fox Business, CNN, StockTitan\nInformation, not financial advice.\n\n#stocks #wallstreet #nasdaq #nvidia #markets",
+     "slides": [
+      {"kind": "cover", "kicker": "WALL STREET", "title": "Nasdaq −5.3% in one day. S&amp;P&nbsp;500 and Dow in correction", "big": "−5.3%", "big_label": "Nasdaq on Friday, Nov 20", "down": true},
+      {"kind": "bullets", "title": "What happened", "items": [
+        "The S&amp;P&nbsp;500 fell <b>3.7%</b> to about 6,910.",
+        "The Dow lost <b>1.9%</b>, almost 950 points.",
+        "The Nasdaq closed near 22,618 and <b>erased its 2026 gain</b>.",
+        "Nvidia: <b>−14%</b>, to $125.53."]},
+      {"kind": "bars", "title": "S&amp;P&nbsp;500: record vs Friday", "a_label": "record, Oct 6", "a_value": "7,819", "a": 7818.93, "b_label": "Friday, Nov 20", "b_value": "6,910", "b": 6910.39, "note": "That's more than <b>11% below the record</b>. A correction means a drop of over 10% from the peak."},
+      {"kind": "why", "title": "Why it matters", "text": "Investors increasingly doubt that <b>huge AI spending</b> will pay off soon. That's why chip stocks took the hardest hit."}
+     ]}},
+
+  {"type": "mm_numbers", "slug": "btc", "time": "13:00",
+   "pl": {"tag": "KRYPTO", "date": "21.11.2026", "kicker": "BITCOIN W LICZBACH", "value": "57&nbsp;000&nbsp;$", "value_label": "BTC zszedł poniżej, noc 20/21.11",
+     "chart": {"points": [126000, 57000], "labels": ["rekord, paź 2025", "21.11.2026"]},
+     "rows": [["vs rekord", "ok. −55%", "dn"], ["Najniżej od", "wrz 2024", "dn"], ["Ethereum (pt.)", "ok. 1 570 $", "dn"], ["Likwidacje (24 h)", "> 1,5 mld $", ""]],
+     "src": "Źródła: CoinDesk, Bitcoin.com, Cryptopolitan, Crypto Briefing",
+     "caption": "Bitcoin poniżej 57 000 $. Najniżej od września 2024 📉\n\nW nocy z piątku na sobotę BTC zszedł pod 57 000 $. To ok. 55% mniej niż rekord z października 2025. Ethereum w piątek straciło ok. 10%, a w 24 h zlikwidowano pozycje warte ponad 1,5 mld $.\n\nŚledzisz krypto czy omijasz szerokim łukiem? 👇\n\nŹródła: CoinDesk, Bitcoin.com, Cryptopolitan, Crypto Briefing\nInformacja, nie porada inwestycyjna.\n\n#bitcoin #btc #krypto #ethereum #rynki"},
+   "en": {"tag": "CRYPTO", "date": "Nov 21, 2026", "kicker": "BITCOIN BY THE NUMBERS", "value": "$57,000", "value_label": "BTC slipped below, night of Nov 20–21",
+     "chart": {"points": [126000, 57000], "labels": ["record, Oct 2025", "Nov 21, 2026"]},
+     "rows": [["vs record", "about −55%", "dn"], ["Lowest since", "Sep 2024", "dn"], ["Ethereum (Fri)", "about $1,570", "dn"], ["Liquidations (24h)", "> $1.5B", ""]],
+     "src": "Sources: CoinDesk, Bitcoin.com, Cryptopolitan, Crypto Briefing",
+     "caption": "Bitcoin below $57,000. Lowest since September 2024 📉\n\nOvernight from Friday to Saturday, BTC slipped under $57,000. That's about 55% below its October 2025 record. Ethereum lost about 10% on Friday, and more than $1.5B in positions were liquidated in 24 hours.\n\nDo you follow crypto or stay away? 👇\n\nSources: CoinDesk, Bitcoin.com, Cryptopolitan, Crypto Briefing\nInformation, not financial advice.\n\n#bitcoin #btc #crypto #ethereum #markets"}},
+
+  {"type": "mm_carousel", "slug": "anthropic-ipo", "time": "18:00",
+   "pl": {"tag": "BIZNES", "date": "21.11.2026", "mood": "down",
+     "src": "Źródła: Fox Business, Motley Fool, Yahoo Finance, StockTitan",
+     "caption": "Anthropic po dwóch dniach na giełdzie 📊\n\nAkcje twórcy Claude'a weszły na Nasdaq po 83 $. W czwartek pierwsza transakcja była po 111,50 $, a w piątek kurs spadł o 8,5%, do 88,91 $. Przy debiucie firmę wyceniono na ok. 1,5 bln $.\n\nPrzesuń, żeby zobaczyć liczby 👉\n\nŹródła: Fox Business, Motley Fool, Yahoo Finance, StockTitan\nInformacja, nie porada inwestycyjna.\n\n#anthropic #ipo #ai #gielda #biznes",
+     "slides": [
+      {"kind": "cover", "kicker": "ANTHROPIC", "title": "Debiut po 83&nbsp;$. Drugiego dnia kurs w dół", "big": "−8,5%", "big_label": "piątek, 2. dzień notowań", "down": true},
+      {"kind": "bullets", "title": "Jak to wyglądało", "items": [
+        "Cena w ofercie (IPO): <b>83&nbsp;$</b> za akcję.",
+        "Czwartek: pierwsza transakcja po <b>111,50&nbsp;$</b> (+34%).",
+        "Koniec czwartku: 97,17&nbsp;$.",
+        "Piątek: <b>−8,5%</b>, do 88,91&nbsp;$."]},
+      {"kind": "bars", "title": "Kurs akcji Anthropic", "a_label": "pierwsza transakcja", "a_value": "111,50 $", "a": 111.5, "b_label": "piątek, zamknięcie", "b_value": "88,91 $", "b": 88.91, "note": "W piątek kurs na chwilę zszedł <b>w okolice 83&nbsp;$</b>, czyli ceny z IPO."},
+      {"kind": "why", "title": "Dlaczego to ważne", "text": "Przy debiucie firmę wyceniono na ok. <b>1,5&nbsp;bln&nbsp;$</b>. Spadek zbiegł się z <b>wyprzedażą spółek AI</b> na całej giełdzie."}
+     ]},
+   "en": {"tag": "BUSINESS", "date": "Nov 21, 2026", "mood": "down",
+     "src": "Sources: Fox Business, Motley Fool, Yahoo Finance, StockTitan",
+     "caption": "Anthropic after two days on the market 📊\n\nThe Claude maker listed on the Nasdaq at $83 a share. On Thursday the first trade came at $111.50, and on Friday the stock fell 8.5% to $88.91. At pricing, the company was valued at about $1.5T.\n\nSwipe for the numbers 👉\n\nSources: Fox Business, Motley Fool, Yahoo Finance, StockTitan\nInformation, not financial advice.\n\n#anthropic #ipo #ai #stocks #business",
+     "slides": [
+      {"kind": "cover", "kicker": "ANTHROPIC", "title": "IPO at $83. Day two, the stock slides", "big": "−8.5%", "big_label": "Friday, day two of trading", "down": true},
+      {"kind": "bullets", "title": "How it went", "items": [
+        "IPO price: <b>$83</b> a share.",
+        "Thursday: first trade at <b>$111.50</b> (+34%).",
+        "Thursday close: $97.17.",
+        "Friday: <b>−8.5%</b>, to $88.91."]},
+      {"kind": "bars", "title": "Anthropic share price", "a_label": "first trade", "a_value": "$111.50", "a": 111.5, "b_label": "Friday close", "b_value": "$88.91", "b": 88.91, "note": "On Friday the stock briefly dipped <b>close to $83</b>, the IPO price."},
+      {"kind": "why", "title": "Why it matters", "text": "At pricing, the company was valued at about <b>$1.5T</b>. The drop came amid a <b>broad AI selloff</b> across the market."}
+     ]}},
+
+  {"type": "bangla_carousel", "slug": "wrony", "time": "12:30", "accent": "#3EE6C1", "src": "Uniwersytet w Tybindze / Live Science / Smithsonian",
+   "caption": "Wrona podejmuje decyzję zanim ty zdążysz mrugnąć 🐦⚡\n\nBadacze z Uniwersytetu w Tybindze sprawdzili, jak szybko wrony decydują na podstawie tego, co widzą. Wyszło im, że mniej więcej 2× szybciej niż ludzie i małpy.\n\nWyślij to komuś, kto pół godziny wybiera, co zjeść 👇\n\nŹródło: Uniwersytet w Tybindze, Live Science, Smithsonian Magazine\n\n#ciekawostki #wrony #nauka #zwierzeta #niewiedzialem",
+   "slides": [
+    {"kind": "cover", "title": "Wrony decydują 2× szybciej niż ludzie", "sub": "Nowe badanie z Uniwersytetu w Tybindze", "emoji": "🐦", "big": "2×",
+     "tags": [["👀", "widzi"], ["🧠", "decyduje"], ["⚡", "w ułamku sekundy"]]},
+    {"kind": "rows", "title": "Co sprawdzili?", "rows": [
+      ["👀", "Jak szybko wrony <b>decydują na podstawie tego, co widzą</b>"],
+      ["⚡", "Wynik: mniej więcej <b>2× szybciej</b> niż ludzie i małpy"],
+      ["🧪", "Badanie zrobili naukowcy z <b>Uniwersytetu w Tybindze</b> (Niemcy)"]],
+     "cta": "Wyślij to komuś, kto pół godziny wybiera, co zjeść", "cta_small": "Wrona by już zjadła (chyba)"}
+   ]},
+
+  {"type": "bangla_carousel", "slug": "maslo-orzechowe", "time": "20:00", "accent": "#FF8A3D", "src": "WSB-TV / 3News / The Nerd Stash",
+   "caption": "Czekasz na walizkę, a ona cała w brązowej mazi 😳🥜\n\nPo locie American Airlines z Miami do Atlanty pasażerowie odebrali dziesiątki bagaży oblepionych czymś brązowym. Linia tłumaczy, że to rozpuszczone masło orzechowe z jednej walizki. Część pasażerów w sieci ma wątpliwości.\n\nUwierzyłbyś w masło orzechowe? 👇\n\nŹródła: WSB-TV, 3News, The Nerd Stash\n\n#ciekawostki #lotnisko #podroze #wtf #smieszne",
+   "slides": [
+    {"kind": "cover", "title": "Dziesiątki walizek w brązowej mazi", "sub": "Lotnisko w Atlancie, lot z Miami", "emoji": "🧳", "big": "🥜?",
+     "tags": [["✈️", "lot z Miami"], ["🧳", "dziesiątki bagaży"], ["🥜", "masło orzechowe?"]]},
+    {"kind": "rows", "title": "Co się stało?", "rows": [
+      ["✈️", "Lot American Airlines z Miami do <b>Atlanty</b>"],
+      ["🧳", "Pasażerowie odebrali <b>dziesiątki bagaży</b> oblepionych brązową mazią"],
+      ["🥜", "Linia: to <b>rozpuszczone masło orzechowe</b>, które wyciekło z jednej walizki"],
+      ["🤨", "Część pasażerów w sieci <b>nie do końca w to wierzy</b>"]]},
+    {"kind": "rows", "title": "Lekcja na przyszłość", "rows": [
+      ["🛃", "Dla kontroli na lotniskach w USA masło orzechowe to <b>płyn</b>"],
+      ["📦", "Słoik w walizce? Lepiej <b>szczelnie w woreczku</b>"]],
+     "cta": "Wyślij to komuś, kto pakuje słoiki do walizki", "cta_small": "Zapach w gratisie (chyba)"}
+   ]},
+
+  {"type": "ukryta_carousel", "slug": "pekniete-wiadro", "time": "21:00", "genre": "przypowiesc", "name": "UKRYTA LEKCJA", "accent": "#F5C542",
+   "music": ["Ludovico Einaudi – Nuvole Bianche", "Max Richter – On the Nature of Daylight"],
+   "caption": "Przypowieść.\n\nCzęsto patrzymy na siebie przez pryzmat tego, czego nie umiemy. Liczymy braki, porównujemy się z „pełnymi wiadrami” obok i wstydzimy się pęknięć.\n\nTymczasem to, co uważamy za wadę, bywa dokładnie tym, przez co do innych dociera coś dobrego. Wrażliwość, która męczy, sprawia też, że ktoś czuje się przy tobie zrozumiany.\n\nNie musisz udawać, że pęknięć nie ma. Wystarczy, że czasem spojrzysz na swoją stronę ścieżki.\n\nZapisz, żeby wrócić do tego w gorszy dzień.\n\n#ukrytalekcja #przypowiesc #samoakceptacja #psychologia #rozwojosobisty",
+   "slides": [
+    {"img": "ukryta/img/nosiwoda.jpg", "pos": "center 40%", "fs": 70, "text": ["Przez dwa lata jedno wiadro gubiło połowę wody.", "Aż w końcu <em>przeprosiło za to swojego właściciela.</em>"]},
+    {"img": "ukryta/img/nosiwoda.jpg", "pos": "50% 55%", "zoom": 1.6, "dark": 0.2, "text": ["Każdego ranka nosiwoda szedł do strumienia.", "Na ramionach niósł drążek z dwoma wiadrami."]},
+    {"img": "ukryta/img/wiadro.jpg", "pos": "center 40%", "dark": 0.2, "text": ["Jedno wiadro było całe.", "Drugie miało z boku pęknięcie."]},
+    {"img": "ukryta/img/wiadro.jpg", "pos": "50% 85%", "zoom": 1.8, "dark": 0.5, "fs": 56, "big": "1", "label": "pełne wiadro donosił do domu", "big2": "½", "label2": "wiadra zostawało w pękniętym", "text": ["I tak każdego dnia. Przez dwa lata."]},
+    {"img": "ukryta/img/dzban.jpg", "pos": "center 50%", "dark": 0.3, "fs": 58, "text": ["Całe wiadro było z siebie dumne.", "Pęknięte wstydziło się, że nie robi tego, do czego je stworzono."]},
+    {"img": "ukryta/img/dzban.jpg", "pos": "70% 30%", "zoom": 1.7, "dark": 0.4, "fs": 58, "text": ["W końcu nie wytrzymało:", "„Przepraszam. Przeze mnie połowa twojej pracy idzie na marne”."]},
+    {"img": "ukryta/img/sciezka.jpg", "pos": "center 50%", "dark": 0.3, "fs": 58, "text": ["Nosiwoda się uśmiechnął:", "„Jutro w drodze do domu popatrz na swoją stronę ścieżki”."]},
+    {"img": "ukryta/img/sciezka.jpg", "pos": "20% 75%", "zoom": 1.6, "dark": 0.35, "text": ["Po jednej stronie leżała sucha ziemia.", "Po drugiej, tej od pękniętego wiadra, <em>rosły kwiaty.</em>"]},
+    {"img": "ukryta/img/nosiwoda.jpg", "pos": "50% 20%", "zoom": 1.4, "dark": 0.55, "fs": 58, "text": ["„Wiedziałem o pęknięciu od początku. Dlatego posiałem tam nasiona.", "A ty podlewałeś je każdego dnia”."]},
+    {"noimg": true, "fs": 62, "text": ["To, czego się w sobie wstydzisz, może karmić coś, czego jeszcze nie widzisz.", "<em>Wyślij to komuś, kto uważa się za „pękniętego”.</em>"]}
+   ]}
+ ]
+}

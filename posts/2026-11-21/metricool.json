@@ -1,0 +1,65 @@
+[
+ {
+  "account": "mm-pl",
+  "slug": "wall-street-korekta",
+  "blogId": "8253009",
+  "date": "2026-11-21T09:00:00+01:00",
+  "info": "{\"autoPublish\": true, \"draft\": true, \"descendants\": [], \"firstCommentText\": \"\", \"hasNotReadNotes\": false, \"media\": [\"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/wall-street-korekta-pl-1.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/wall-street-korekta-pl-2.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/wall-street-korekta-pl-3.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/wall-street-korekta-pl-4.jpg\"], \"mediaAltText\": [], \"providers\": [{\"network\": \"instagram\"}], \"publicationDate\": {\"dateTime\": \"2026-11-21T09:00:00\", \"timezone\": \"Europe/Warsaw\"}, \"shortener\": false, \"smartLinkData\": {\"ids\": []}, \"text\": \"Najgorszy dzień na Wall Street od miesięcy 📉\\n\\nW piątek Nasdaq spadł o 5,3% i stracił cały tegoroczny zysk. S&P 500 i Dow Jones są już w korekcie, czyli ponad 10% poniżej rekordów. Nvidia straciła 14% w jeden dzień.\\n\\nPrzesuń, żeby zobaczyć liczby 👉\\n\\nŹródła: Yahoo Finance, Fox Business, CNN, StockTitan\\nInformacja, nie porada inwestycyjna.\\n\\n#gielda #wallstreet #nasdaq #nvidia #rynki\", \"instagramData\": {\"type\": \"POST\"}}"
+ },
+ {
+  "account": "mm-en",
+  "slug": "wall-street-korekta",
+  "blogId": "8253033",
+  "date": "2026-11-21T09:00:00+01:00",
+  "info": "{\"autoPublish\": true, \"draft\": true, \"descendants\": [], \"firstCommentText\": \"\", \"hasNotReadNotes\": false, \"media\": [\"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/wall-street-korekta-en-1.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/wall-street-korekta-en-2.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/wall-street-korekta-en-3.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/wall-street-korekta-en-4.jpg\"], \"mediaAltText\": [], \"providers\": [{\"network\": \"instagram\"}], \"publicationDate\": {\"dateTime\": \"2026-11-21T09:00:00\", \"timezone\": \"Europe/Warsaw\"}, \"shortener\": false, \"smartLinkData\": {\"ids\": []}, \"text\": \"Wall Street's worst day in months 📉\\n\\nOn Friday the Nasdaq fell 5.3% and wiped out its entire 2026 gain. The S&P 500 and the Dow are now in correction, more than 10% below their records. Nvidia lost 14% in a single day.\\n\\nSwipe for the numbers 👉\\n\\nSources: Yahoo Finance, Fox Business, CNN, StockTitan\\nInformation, not financial advice.\\n\\n#stocks #wallstreet #nasdaq #nvidia #markets\", \"instagramData\": {\"type\": \"POST\"}}"
+ },
+ {
+  "account": "mm-pl",
+  "slug": "btc",
+  "blogId": "8253009",
+  "date": "2026-11-21T13:00:00+01:00",
+  "info": "{\"autoPublish\": true, \"draft\": true, \"descendants\": [], \"firstCommentText\": \"\", \"hasNotReadNotes\": false, \"media\": [\"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/btc-pl.jpg\"], \"mediaAltText\": [], \"providers\": [{\"network\": \"instagram\"}], \"publicationDate\": {\"dateTime\": \"2026-11-21T13:00:00\", \"timezone\": \"Europe/Warsaw\"}, \"shortener\": false, \"smartLinkData\": {\"ids\": []}, \"text\": \"Bitcoin poniżej 57 000 $. Najniżej od września 2024 📉\\n\\nW nocy z piątku na sobotę BTC zszedł pod 57 000 $. To ok. 55% mniej niż rekord z października 2025. Ethereum w piątek straciło ok. 10%, a w 24 h zlikwidowano pozycje warte ponad 1,5 mld $.\\n\\nŚledzisz krypto czy omijasz szerokim łukiem? 👇\\n\\nŹródła: CoinDesk, Bitcoin.com, Cryptopolitan, Crypto Briefing\\nInformacja, nie porada inwestycyjna.\\n\\n#bitcoin #btc #krypto #ethereum #rynki\", \"instagramData\": {\"type\": \"POST\"}}"
+ },
+ {
+  "account": "mm-en",
+  "slug": "btc",
+  "blogId": "8253033",
+  "date": "2026-11-21T13:00:00+01:00",
+  "info": "{\"autoPublish\": true, \"draft\": true, \"descendants\": [], \"firstCommentText\": \"\", \"hasNotReadNotes\": false, \"media\": [\"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/btc-en.jpg\"], \"mediaAltText\": [], \"providers\": [{\"network\": \"instagram\"}], \"publicationDate\": {\"dateTime\": \"2026-11-21T13:00:00\", \"timezone\": \"Europe/Warsaw\"}, \"shortener\": false, \"smartLinkData\": {\"ids\": []}, \"text\": \"Bitcoin below $57,000. Lowest since September 2024 📉\\n\\nOvernight from Friday to Saturday, BTC slipped under $57,000. That's about 55% below its October 2025 record. Ethereum lost about 10% on Friday, and more than $1.5B in positions were liquidated in 24 hours.\\n\\nDo you follow crypto or stay away? 👇\\n\\nSources: CoinDesk, Bitcoin.com, Cryptopolitan, Crypto Briefing\\nInformation, not financial advice.\\n\\n#bitcoin #btc #crypto #ethereum #markets\", \"instagramData\": {\"type\": \"POST\"}}"
+ },
+ {
+  "account": "mm-pl",
+  "slug": "anthropic-ipo",
+  "blogId": "8253009",
+  "date": "2026-11-21T18:00:00+01:00",
+  "info": "{\"autoPublish\": true, \"draft\": true, \"descendants\": [], \"firstCommentText\": \"\", \"hasNotReadNotes\": false, \"media\": [\"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/anthropic-ipo-pl-1.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/anthropic-ipo-pl-2.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/anthropic-ipo-pl-3.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/anthropic-ipo-pl-4.jpg\"], \"mediaAltText\": [], \"providers\": [{\"network\": \"instagram\"}], \"publicationDate\": {\"dateTime\": \"2026-11-21T18:00:00\", \"timezone\": \"Europe/Warsaw\"}, \"shortener\": false, \"smartLinkData\": {\"ids\": []}, \"text\": \"Anthropic po dwóch dniach na giełdzie 📊\\n\\nAkcje twórcy Claude'a weszły na Nasdaq po 83 $. W czwartek pierwsza transakcja była po 111,50 $, a w piątek kurs spadł o 8,5%, do 88,91 $. Przy debiucie firmę wyceniono na ok. 1,5 bln $.\\n\\nPrzesuń, żeby zobaczyć liczby 👉\\n\\nŹródła: Fox Business, Motley Fool, Yahoo Finance, StockTitan\\nInformacja, nie porada inwestycyjna.\\n\\n#anthropic #ipo #ai #gielda #biznes\", \"instagramData\": {\"type\": \"POST\"}}"
+ },
+ {
+  "account": "mm-en",
+  "slug": "anthropic-ipo",
+  "blogId": "8253033",
+  "date": "2026-11-21T18:00:00+01:00",
+  "info": "{\"autoPublish\": true, \"draft\": true, \"descendants\": [], \"firstCommentText\": \"\", \"hasNotReadNotes\": false, \"media\": [\"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/anthropic-ipo-en-1.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/anthropic-ipo-en-2.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/anthropic-ipo-en-3.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/mm/anthropic-ipo-en-4.jpg\"], \"mediaAltText\": [], \"providers\": [{\"network\": \"instagram\"}], \"publicationDate\": {\"dateTime\": \"2026-11-21T18:00:00\", \"timezone\": \"Europe/Warsaw\"}, \"shortener\": false, \"smartLinkData\": {\"ids\": []}, \"text\": \"Anthropic after two days on the market 📊\\n\\nThe Claude maker listed on the Nasdaq at $83 a share. On Thursday the first trade came at $111.50, and on Friday the stock fell 8.5% to $88.91. At pricing, the company was valued at about $1.5T.\\n\\nSwipe for the numbers 👉\\n\\nSources: Fox Business, Motley Fool, Yahoo Finance, StockTitan\\nInformation, not financial advice.\\n\\n#anthropic #ipo #ai #stocks #business\", \"instagramData\": {\"type\": \"POST\"}}"
+ },
+ {
+  "account": "bangla",
+  "slug": "wrony",
+  "blogId": "8252917",
+  "date": "2026-11-21T12:30:00+01:00",
+  "info": "{\"autoPublish\": true, \"draft\": true, \"descendants\": [], \"firstCommentText\": \"\", \"hasNotReadNotes\": false, \"media\": [\"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/bangla/wrony-1.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/bangla/wrony-2.jpg\"], \"mediaAltText\": [], \"providers\": [{\"network\": \"instagram\"}], \"publicationDate\": {\"dateTime\": \"2026-11-21T12:30:00\", \"timezone\": \"Europe/Warsaw\"}, \"shortener\": false, \"smartLinkData\": {\"ids\": []}, \"text\": \"Wrona podejmuje decyzję zanim ty zdążysz mrugnąć 🐦⚡\\n\\nBadacze z Uniwersytetu w Tybindze sprawdzili, jak szybko wrony decydują na podstawie tego, co widzą. Wyszło im, że mniej więcej 2× szybciej niż ludzie i małpy.\\n\\nWyślij to komuś, kto pół godziny wybiera, co zjeść 👇\\n\\nŹródło: Uniwersytet w Tybindze, Live Science, Smithsonian Magazine\\n\\n#ciekawostki #wrony #nauka #zwierzeta #niewiedzialem\", \"instagramData\": {\"type\": \"POST\"}}"
+ },
+ {
+  "account": "bangla",
+  "slug": "maslo-orzechowe",
+  "blogId": "8252917",
+  "date": "2026-11-21T20:00:00+01:00",
+  "info": "{\"autoPublish\": true, \"draft\": true, \"descendants\": [], \"firstCommentText\": \"\", \"hasNotReadNotes\": false, \"media\": [\"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/bangla/maslo-orzechowe-1.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/bangla/maslo-orzechowe-2.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/bangla/maslo-orzechowe-3.jpg\"], \"mediaAltText\": [], \"providers\": [{\"network\": \"instagram\"}], \"publicationDate\": {\"dateTime\": \"2026-11-21T20:00:00\", \"timezone\": \"Europe/Warsaw\"}, \"shortener\": false, \"smartLinkData\": {\"ids\": []}, \"text\": \"Czekasz na walizkę, a ona cała w brązowej mazi 😳🥜\\n\\nPo locie American Airlines z Miami do Atlanty pasażerowie odebrali dziesiątki bagaży oblepionych czymś brązowym. Linia tłumaczy, że to rozpuszczone masło orzechowe z jednej walizki. Część pasażerów w sieci ma wątpliwości.\\n\\nUwierzyłbyś w masło orzechowe? 👇\\n\\nŹródła: WSB-TV, 3News, The Nerd Stash\\n\\n#ciekawostki #lotnisko #podroze #wtf #smieszne\", \"instagramData\": {\"type\": \"POST\"}}"
+ },
+ {
+  "account": "ukryta",
+  "slug": "pekniete-wiadro",
+  "blogId": "8254291",
+  "date": "2026-11-21T21:00:00+01:00",
+  "info": "{\"autoPublish\": true, \"draft\": true, \"descendants\": [], \"firstCommentText\": \"\", \"hasNotReadNotes\": false, \"media\": [\"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/ukryta/pekniete-wiadro-1.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/ukryta/pekniete-wiadro-2.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/ukryta/pekniete-wiadro-3.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/ukryta/pekniete-wiadro-4.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/ukryta/pekniete-wiadro-5.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/ukryta/pekniete-wiadro-6.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/ukryta/pekniete-wiadro-7.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/ukryta/pekniete-wiadro-8.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/ukryta/pekniete-wiadro-9.jpg\", \"https://raw.githubusercontent.com/krzysiuhexa-creator/faceless-konta/main/posts/2026-11-21/ukryta/pekniete-wiadro-10.jpg\"], \"mediaAltText\": [], \"providers\": [{\"network\": \"instagram\"}], \"publicationDate\": {\"dateTime\": \"2026-11-21T21:00:00\", \"timezone\": \"Europe/Warsaw\"}, \"shortener\": false, \"smartLinkData\": {\"ids\": []}, \"text\": \"Przypowieść.\\n\\nCzęsto patrzymy na siebie przez pryzmat tego, czego nie umiemy. Liczymy braki, porównujemy się z „pełnymi wiadrami” obok i wstydzimy się pęknięć.\\n\\nTymczasem to, co uważamy za wadę, bywa dokładnie tym, przez co do innych dociera coś dobrego. Wrażliwość, która męczy, sprawia też, że ktoś czuje się przy tobie zrozumiany.\\n\\nNie musisz udawać, że pęknięć nie ma. Wystarczy, że czasem spojrzysz na swoją stronę ścieżki.\\n\\nZapisz, żeby wrócić do tego w gorszy dzień.\\n\\n#ukrytalekcja #przypowiesc #samoakceptacja #psychologia #rozwojosobisty\", \"instagramData\": {\"type\": \"POST\", \"isAiGenerated\": true}}"
+ }
+]
