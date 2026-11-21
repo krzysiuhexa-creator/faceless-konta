@@ -1,0 +1,1007 @@
+{
+ "total": 303.562,
+ "frags": [
+  {
+   "id": 1,
+   "text": "Dieta? Od poniedziałku. Siłownia? Od pierwszego. Nowe życie? Od stycznia.",
+   "t0": 0.5,
+   "t1": 6.285,
+   "map": [
+    [
+     0,
+     6,
+     0.5,
+     1.043447
+    ],
+    [
+     7,
+     23,
+     1.35229,
+     2.17721
+    ],
+    [
+     24,
+     33,
+     2.48132,
+     3.04798
+    ],
+    [
+     34,
+     48,
+     3.35492,
+     4.06653
+    ],
+    [
+     49,
+     60,
+     4.53825,
+     5.25186
+    ],
+    [
+     61,
+     73,
+     5.62347,
+     6.28517
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 2,
+   "text": "A potem przychodzi środa i z wielkiego planu nie zostaje nic. Więc dlaczego prawie nigdy nie zaczynamy od dziś?",
+   "t0": 6.815,
+   "t1": 13.214,
+   "map": [
+    [
+     0,
+     61,
+     6.81517,
+     10.21622
+    ],
+    [
+     62,
+     111,
+     10.61392,
+     13.21352
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 3,
+   "text": "Za kilka minut będziesz wiedzieć, co wtedy dzieje się w twojej głowie, co sprawdzili na ten temat naukowcy i jak wykorzystać ten mechanizm, zamiast z nim walczyć.",
+   "t0": 14.294,
+   "t1": 22.954,
+   "map": [
+    [
+     0,
+     162,
+     14.29352,
+     22.95352
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 4,
+   "text": "Zacznijmy od najważniejszego. To nie jest lenistwo. I to nie jest słaba wola.",
+   "t0": 24.034,
+   "t1": 28.739,
+   "map": [
+    [
+     0,
+     29,
+     24.03352,
+     25.46322
+    ],
+    [
+     30,
+     51,
+     25.86232,
+     26.98162
+    ],
+    [
+     52,
+     77,
+     27.31172,
+     28.73862
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 5,
+   "text": "Odkładanie startu na poniedziałek to nie wada charakteru. Tak twój mózg porządkuje czas. On po prostu potrzebuje kreski.",
+   "t0": 29.269,
+   "t1": 36.399,
+   "map": [
+    [
+     0,
+     57,
+     29.26862,
+     32.202119999999994
+    ],
+    [
+     58,
+     88,
+     32.58792,
+     34.24401999999999
+    ],
+    [
+     89,
+     120,
+     34.60632,
+     36.399119999999996
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 6,
+   "text": "Wyobraź sobie oś czasu. Po lewej jest wszystko, co już było. Dieta, która nie wyszła. Treningi, które się nie odbyły. Plany, które się rozjechały.",
+   "t0": 37.479,
+   "t1": 45.972,
+   "map": [
+    [
+     0,
+     28,
+     37.47912,
+     38.91022
+    ],
+    [
+     28,
+     65,
+     39.328120000000006,
+     41.193020000000004
+    ],
+    [
+     65,
+     119,
+     41.56902,
+     44.326420000000006
+    ],
+    [
+     119,
+     146,
+     44.652120000000004,
+     45.97202
+    ]
+   ],
+   "mode": "proporcja (5 zdań / 4 kawałków)",
+   "board_first": true
+  },
+  {
+   "id": 7,
+   "text": "Poniedziałek, pierwszy dzień miesiąca, nowy rok, urodziny. Badacze nazywają takie dni punktami orientacyjnymi w czasie.",
+   "t0": 46.502,
+   "t1": 53.846,
+   "map": [
+    [
+     0,
+     10,
+     46.50202,
+     47.08632
+    ],
+    [
+     10,
+     57,
+     47.400920000000006,
+     49.97762
+    ],
+    [
+     57,
+     119,
+     50.42972,
+     53.84622
+    ]
+   ],
+   "mode": "proporcja (2 zdań / 3 kawałków)",
+   "board_first": false
+  },
+  {
+   "id": 8,
+   "text": "Każdy z nich działa jak kreska. Oddziela starą wersję ciebie od nowej. Wszystkie dawne porażki zostają po tamtej stronie.",
+   "t0": 54.376,
+   "t1": 61.534,
+   "map": [
+    [
+     0,
+     31,
+     54.37622,
+     56.00632
+    ],
+    [
+     32,
+     70,
+     56.33932,
+     58.40482
+    ],
+    [
+     71,
+     121,
+     58.832620000000006,
+     61.534420000000004
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 9,
+   "text": "Nowa wersja ciebie jeszcze niczego nie zawaliła. Ma czystą kartę. I właśnie dlatego tak łatwo jej obiecać, że tym razem będzie inaczej.",
+   "t0": 62.614,
+   "t1": 70.376,
+   "map": [
+    [
+     0,
+     64,
+     62.61442000000002,
+     66.16222000000002
+    ],
+    [
+     64,
+     135,
+     66.55192000000002,
+     70.37612000000001
+    ]
+   ],
+   "mode": "proporcja (3 zdań / 2 kawałków)",
+   "board_first": true
+  },
+  {
+   "id": 10,
+   "text": "Do tego taka kreska sprawia, że patrzysz szerzej. Nie na to, co robisz dziś, ale na to, jak wygląda całe twoje życie. A to dodaje energii do zmian.",
+   "t0": 70.906,
+   "t1": 79.932,
+   "map": [
+    [
+     0,
+     50,
+     70.90612000000004,
+     73.67872000000006
+    ],
+    [
+     50,
+     73,
+     73.96672000000005,
+     75.24922000000005
+    ],
+    [
+     73,
+     115,
+     75.50342000000005,
+     77.80752000000005
+    ],
+    [
+     115,
+     147,
+     78.16962000000005,
+     79.93192000000005
+    ]
+   ],
+   "mode": "proporcja (3 zdań / 4 kawałków)",
+   "board_first": false
+  },
+  {
+   "id": 11,
+   "text": "Sprawdzili to badacze z Uniwersytetu Pensylwanii. Najpierw przejrzeli dane z wyszukiwarki Google z ponad ośmiu lat.",
+   "t0": 81.012,
+   "t1": 87.282,
+   "map": [
+    [
+     0,
+     49,
+     81.01192000000006,
+     83.46572000000006
+    ],
+    [
+     50,
+     115,
+     83.80662000000005,
+     87.28182000000005
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 12,
+   "text": "Okazało się, że Amerykanie częściej wpisują słowo „dieta” na początku tygodnia. O czternaście procent. A na początku roku? Aż o osiemdziesiąt dwa procent.",
+   "t0": 87.812,
+   "t1": 97.035,
+   "map": [
+    [
+     0,
+     79,
+     87.81182000000007,
+     92.11702000000007
+    ],
+    [
+     80,
+     102,
+     92.42492000000007,
+     93.51632000000006
+    ],
+    [
+     103,
+     122,
+     93.97432000000006,
+     94.90732000000007
+    ],
+    [
+     123,
+     154,
+     95.29632000000007,
+     97.03532000000007
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 13,
+   "text": "Potem sprawdzili uczelnianą siłownię. Prawie dwanaście tysięcy osób. Na początku tygodnia szansa, że ktoś przyjdzie potrenować, rosła o jedną trzecią. Na początku semestru jeszcze bardziej.",
+   "t0": 98.115,
+   "t1": 109.02,
+   "map": [
+    [
+     0,
+     37,
+     98.11532000000008,
+     100.02132000000007
+    ],
+    [
+     38,
+     68,
+     100.30232000000008,
+     101.96932000000008
+    ],
+    [
+     69,
+     150,
+     102.40532000000007,
+     106.58032000000007
+    ],
+    [
+     151,
+     189,
+     106.97532000000008,
+     109.02032000000008
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 14,
+   "text": "Ten sam schemat powtarzał się po świętach, po przerwach, a nawet po urodzinach.",
+   "t0": 109.55,
+   "t1": 113.779,
+   "map": [
+    [
+     0,
+     79,
+     109.5503200000001,
+     113.7793200000001
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 15,
+   "text": "Ale jest haczyk. Ten zastrzyk motywacji z czasem słabnie. Im dalej od kreski, tym mniej chęci.",
+   "t0": 114.859,
+   "t1": 120.79,
+   "map": [
+    [
+     0,
+     16,
+     114.85932000000011,
+     115.66032000000011
+    ],
+    [
+     17,
+     57,
+     116.01432000000011,
+     118.2483200000001
+    ],
+    [
+     58,
+     94,
+     118.5873200000001,
+     120.79032000000011
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 16,
+   "text": "Dlatego w poniedziałek wszystko idzie świetnie, a w środę już się nie chce. I wtedy pojawia się myśl: dobra, zacznę od następnego poniedziałku.",
+   "t0": 121.32,
+   "t1": 129.291,
+   "map": [
+    [
+     0,
+     75,
+     121.3203200000001,
+     124.8983200000001
+    ],
+    [
+     76,
+     101,
+     125.23432000000011,
+     126.5363200000001
+    ],
+    [
+     102,
+     143,
+     127.0893200000001,
+     129.2913200000001
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 17,
+   "text": "I tak w kółko. Kreska, start, środa, odpuszczenie. Kreska, start, środa…",
+   "t0": 130.371,
+   "t1": 136.63,
+   "map": [
+    [
+     0,
+     14,
+     130.37132000000008,
+     131.1423200000001
+    ],
+    [
+     15,
+     50,
+     131.4813200000001,
+     134.31132000000008
+    ],
+    [
+     51,
+     72,
+     134.6773200000001,
+     136.6303200000001
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 18,
+   "text": "Dobra wiadomość: skoro już wiesz, jak to działa, możesz obrócić ten mechanizm na swoją korzyść. Są na to trzy sposoby.",
+   "t0": 137.71,
+   "t1": 144.399,
+   "map": [
+    [
+     0,
+     94,
+     137.71032000000008,
+     142.83032000000009
+    ],
+    [
+     94,
+     118,
+     143.1413200000001,
+     144.39932000000007
+    ]
+   ],
+   "mode": "proporcja (3 zdań / 2 kawałków)",
+   "board_first": true
+  },
+  {
+   "id": 19,
+   "text": "Pierwszy. Zrób sobie poniedziałek dziś. Kreska nie musi być w kalendarzu. Możesz narysować ją samodzielnie.",
+   "t0": 145.479,
+   "t1": 152.056,
+   "map": [
+    [
+     0,
+     7,
+     145.47932000000006,
+     145.91032000000007
+    ],
+    [
+     7,
+     41,
+     146.30132000000006,
+     148.08932000000007
+    ],
+    [
+     41,
+     107,
+     148.50232000000005,
+     152.05632000000006
+    ]
+   ],
+   "mode": "proporcja (4 zdań / 3 kawałków)",
+   "board_first": true
+  },
+  {
+   "id": 20,
+   "text": "Ci sami badacze zrobili eksperyment. Jednym osobom opisali dwudziesty marca jako zwykły czwartek. Innym jako pierwszy dzień wiosny. Ta druga grupa częściej planowała zacząć pracę nad swoim celem właśnie tego dnia.",
+   "t0": 153.136,
+   "t1": 166.262,
+   "map": [
+    [
+     0,
+     36,
+     153.13632000000004,
+     155.13632000000004
+    ],
+    [
+     37,
+     97,
+     155.54932000000005,
+     159.01032000000004
+    ],
+    [
+     98,
+     131,
+     159.42432000000005,
+     161.38532000000004
+    ],
+    [
+     132,
+     213,
+     161.92232000000004,
+     166.26232000000005
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 21,
+   "text": "Czyli liczy się nie data, tylko znaczenie, jakie jej nadasz. Dzień, w którym oglądasz ten film, też może być takim dniem. Weź kartkę, napisz dzisiejszą datę i podpisz: dzień pierwszy.",
+   "t0": 167.342,
+   "t1": 178.231,
+   "map": [
+    [
+     0,
+     60,
+     167.34232000000003,
+     170.59632000000002
+    ],
+    [
+     61,
+     121,
+     170.96432000000004,
+     173.79232000000005
+    ],
+    [
+     122,
+     167,
+     174.18232000000003,
+     176.95032000000003
+    ],
+    [
+     168,
+     183,
+     177.29332000000002,
+     178.23132000000004
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 22,
+   "text": "Drugi. Zrób pierwszy krok tak mały, że głupio go nie zrobić. Nie godzina na siłowni, tylko założenie butów. Nie cała nowa dieta, tylko jeden porządny posiłek.",
+   "t0": 179.311,
+   "t1": 190.169,
+   "map": [
+    [
+     0,
+     6,
+     179.31132000000002,
+     179.68832000000003
+    ],
+    [
+     7,
+     60,
+     180.12132000000003,
+     183.39732000000004
+    ],
+    [
+     61,
+     107,
+     183.81632000000005,
+     186.50732000000002
+    ],
+    [
+     108,
+     158,
+     186.88032000000004,
+     190.16932000000003
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 23,
+   "text": "I zaplanuj go jednym zdaniem: jeśli wydarzy się X, to robię Y. Na przykład: jeśli wracam z pracy, to od razu zakładam buty do biegania.",
+   "t0": 191.249,
+   "t1": 199.814,
+   "map": [
+    [
+     0,
+     29,
+     191.24932,
+     192.72532000000004
+    ],
+    [
+     30,
+     62,
+     193.14332000000002,
+     195.45432000000002
+    ],
+    [
+     63,
+     75,
+     195.81932000000003,
+     196.31032000000002
+    ],
+    [
+     76,
+     135,
+     196.68132000000003,
+     199.81432000000004
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 24,
+   "text": "Psychologowie nazywają to intencjami implementacyjnymi. Przegląd dziewięćdziesięciu czterech badań pokazał, że takie plany „jeśli–to” wyraźnie zwiększają szansę, że naprawdę zrobisz to, co planujesz.",
+   "t0": 200.894,
+   "t1": 212.382,
+   "map": [
+    [
+     0,
+     55,
+     200.89432000000002,
+     204.02232
+    ],
+    [
+     56,
+     199,
+     204.44132000000002,
+     212.38232000000002
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 25,
+   "text": "Dlaczego to działa? Bo w środę, kiedy motywacja spada, nie musisz już podejmować decyzji. Decyzja zapadła wcześniej.",
+   "t0": 213.462,
+   "t1": 220.453,
+   "map": [
+    [
+     0,
+     19,
+     213.46232,
+     214.33732
+    ],
+    [
+     20,
+     89,
+     214.73632,
+     218.45032
+    ],
+    [
+     90,
+     116,
+     218.80931999999999,
+     220.45332
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 26,
+   "text": "Trzeci. Zaplanuj wpadkę. Bo ona przyjdzie. Pytanie nie brzmi, czy opuścisz jakiś dzień, tylko co zrobisz potem.",
+   "t0": 221.533,
+   "t1": 228.87,
+   "map": [
+    [
+     0,
+     7,
+     221.53331999999997,
+     221.94531999999998
+    ],
+    [
+     8,
+     24,
+     222.32631999999998,
+     223.34532
+    ],
+    [
+     25,
+     42,
+     223.67231999999998,
+     224.58131999999998
+    ],
+    [
+     43,
+     111,
+     225.02632,
+     228.87032
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 27,
+   "text": "Naukowcy z uniwersytetu w Londynie przez dwanaście tygodni obserwowali dziewięćdziesiąt sześć osób, które budowały nowy nawyk. Średnio trwało to sześćdziesiąt sześć dni. U niektórych osiemnaście, u innych ponad dwieście.",
+   "t0": 229.95,
+   "t1": 242.435,
+   "map": [
+    [
+     0,
+     126,
+     229.95031999999998,
+     236.44732
+    ],
+    [
+     127,
+     169,
+     236.84431999999998,
+     239.02132
+    ],
+    [
+     170,
+     220,
+     239.40132,
+     242.43531999999996
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 28,
+   "text": "I najważniejsze: jeden opuszczony dzień praktycznie nie zaszkodził. Problem zaczynał się dopiero wtedy, gdy przerwy się powtarzały.",
+   "t0": 243.515,
+   "t1": 250.443,
+   "map": [
+    [
+     0,
+     16,
+     243.51532,
+     244.30432000000005
+    ],
+    [
+     17,
+     67,
+     244.63632000000004,
+     247.05732000000003
+    ],
+    [
+     68,
+     131,
+     247.40832000000003,
+     250.44332
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 29,
+   "text": "Więc zasada jest prosta. Możesz wypaść raz. Nigdy dwa razy z rzędu. Nie czekasz na kolejny poniedziałek. Wracasz jutro.",
+   "t0": 251.523,
+   "t1": 258.751,
+   "map": [
+    [
+     0,
+     24,
+     251.52332000000004,
+     252.71332000000004
+    ],
+    [
+     25,
+     43,
+     253.01132000000004,
+     254.09932000000006
+    ],
+    [
+     44,
+     67,
+     254.38432000000003,
+     255.69532
+    ],
+    [
+     68,
+     104,
+     256.06732,
+     257.64332
+    ],
+    [
+     105,
+     119,
+     257.9193200000001,
+     258.7513200000001
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 30,
+   "text": "Na koniec krótka historia.",
+   "t0": 259.831,
+   "t1": 261.427,
+   "map": [
+    [
+     0,
+     26,
+     259.83132000000006,
+     261.42732000000007
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 31,
+   "text": "Był sobie ktoś, kto w każdy poniedziałek rysował na tablicy linię startu. Prostą, piękną, żółtą kredą.",
+   "t0": 261.957,
+   "t1": 268.611,
+   "map": [
+    [
+     0,
+     73,
+     261.9573200000001,
+     265.91432000000015
+    ],
+    [
+     74,
+     102,
+     266.34732000000014,
+     268.6113200000001
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 32,
+   "text": "W środę, kiedy coś nie wychodziło, ścierał ją. A w następny poniedziałek rysował nową.",
+   "t0": 269.141,
+   "t1": 274.112,
+   "map": [
+    [
+     0,
+     46,
+     269.1413200000001,
+     271.60232000000013
+    ],
+    [
+     47,
+     86,
+     271.9283200000001,
+     274.1123200000001
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 33,
+   "text": "Po roku tablica była szara od startych linii. Pięćdziesiąt dwa starty. I ani jednej mety.",
+   "t0": 274.642,
+   "t1": 280.437,
+   "map": [
+    [
+     0,
+     45,
+     274.64232000000015,
+     277.19732000000016
+    ],
+    [
+     46,
+     70,
+     277.58932000000016,
+     278.8373200000002
+    ],
+    [
+     71,
+     89,
+     279.1983200000002,
+     280.43732000000017
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 34,
+   "text": "Ukryta lekcja: nie potrzebujesz nowej kreski. Potrzebujesz przestać ścierać starą.",
+   "t0": 281.517,
+   "t1": 286.514,
+   "map": [
+    [
+     0,
+     14,
+     281.5173200000002,
+     282.3093200000002
+    ],
+    [
+     15,
+     45,
+     282.7093200000002,
+     284.1543200000002
+    ],
+    [
+     46,
+     82,
+     284.4783200000002,
+     286.5143200000002
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 35,
+   "text": "Jeśli ten odcinek coś ci dał, wyślij go komuś, kto od lat zaczyna od poniedziałku.",
+   "t0": 287.594,
+   "t1": 292.164,
+   "map": [
+    [
+     0,
+     82,
+     287.59432000000027,
+     292.16432000000026
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 36,
+   "text": "A w następnym odcinku: najsłynniejszy cytat o nawykach, który wszyscy przypisują Arystotelesowi. Problem w tym, że on nigdy go nie napisał.",
+   "t0": 293.244,
+   "t1": 301.562,
+   "map": [
+    [
+     0,
+     22,
+     293.2443200000003,
+     294.4253200000003
+    ],
+    [
+     23,
+     96,
+     294.7323200000003,
+     298.6203200000003
+    ],
+    [
+     97,
+     139,
+     299.0863200000003,
+     301.5621363265309
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  }
+ ]
+}
