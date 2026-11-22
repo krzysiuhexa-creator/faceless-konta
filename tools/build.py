@@ -43,7 +43,7 @@ def info(text, media, date, time, kind="POST", ai=False, review=False):
     if ai:
         ig["isAiGenerated"] = True
     return json.dumps({
-        "autoPublish": True, "draft": bool(review),  # pełny automat; szkic tylko przy review "descendants": [], "firstCommentText": "", "hasNotReadNotes": False,
+        "autoPublish": True, "draft": bool(review), "descendants": [], "firstCommentText": "", "hasNotReadNotes": False,  # pełny automat; szkic tylko przy review
         "media": media, "mediaAltText": [], "providers": [{"network": "instagram"}],
         "publicationDate": {"dateTime": f"{date}T{time}:00", "timezone": TZ},
         "shortener": False, "smartLinkData": {"ids": []}, "text": text, "instagramData": ig,
