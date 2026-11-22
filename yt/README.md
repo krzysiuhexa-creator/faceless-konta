@@ -1,4 +1,6 @@
-# Silniki wideo na YouTube (kopia zapasowa)
+# Silniki wideo na YouTube
+
+**Automat (od 22.11.2026):** zadania działają według `yt/PROCEDURA-YT.md`; stan w `yt/stan.json`, tematy w `yt/tematy.md`, nagrania lektora Krzysiu wrzuca do `yt-inbox/` na gałęzi `main`.
 
 Dwa silniki, które robią całe odcinki z jednego pliku MP3 z lektorem: animację, efekty, podkład, napisy, opis i Shortsy.
 

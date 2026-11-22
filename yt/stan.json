@@ -1,0 +1,40 @@
+{
+  "opis": "Stan automatu YouTube. Zmieniają go tylko zadania A (scenariusze) i B (produkcja) według PROCEDURA-YT.md.",
+  "ukryta-lekcja": {
+    "blogId": "8254291",
+    "glos": "klon „yooyo”, Eleven v4",
+    "sloty_odcinka": "czwartek lub niedziela 18:00",
+    "sloty_shortsow": "17:30",
+    "oczekuje": {
+      "odc": 2,
+      "fragmenty": 31,
+      "tytul": "dlaczego zawsze wracasz do starych nawyków",
+      "scenariusz": "yt/ukryta-lekcja/odc2/scenariusz.md",
+      "lektor": "yt/ukryta-lekcja/odc2/lektor.txt",
+      "od": "2026-11-21"
+    },
+    "odcinki": [
+      {"odc": 1, "tytul": "dlaczego zawsze zaczynasz od poniedziałku", "publikacja": "2026-11-21 (wrzucony ręcznie)",
+       "shortsy_metricool": [436876338, 436877345, 436877411]}
+    ]
+  },
+  "bangla": {
+    "blogId": "8252917",
+    "glos": "„Oscar – Energetic, Direct”, Eleven v4",
+    "sloty_odcinka": "sobota lub wtorek 18:00",
+    "sloty_shortsow": "19:00",
+    "oczekuje": {
+      "odc": 2,
+      "fragmenty": 35,
+      "tytul": "Ten facet sprzedał Wieżę Eiffla. Dwa razy.",
+      "scenariusz": "yt/bangla/odc2/scenariusz.md",
+      "lektor": "yt/bangla/odc2/lektor.txt",
+      "od": "2026-11-21"
+    },
+    "odcinki": [
+      {"odc": 1, "tytul": "Ten polski kapral pił piwo, jadł papierosy i był niedźwiedziem", "publikacja": "2026-11-21 (wrzucony ręcznie)",
+       "shortsy_metricool": [436988100, 436988147, 436988191]}
+    ]
+  },
+  "przetworzone": []
+}
