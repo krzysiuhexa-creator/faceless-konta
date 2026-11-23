@@ -81,12 +81,13 @@ sfx *= 0.32 / (np.max(np.abs(sfx)) + 1e-9)
 # tło: szum sali + zegar
 brown = np.cumsum(rng.standard_normal(N)); brown = filt(filt(brown, 25, None), None, 380); brown /= np.sqrt(np.mean(brown ** 2)) + 1e-9
 air = filt(rng.standard_normal(N), 2000, 9000); air /= np.sqrt(np.mean(air ** 2)) + 1e-9
-amb = np.stack([0.010 * brown + 0.002 * air, np.roll(0.010 * brown + 0.002 * air, 900)], axis=1)
+AMB = 0.35  # odc2: szum tła ściszony o ok. 9 dB (uwaga Krzysia 23.11)
+amb = AMB * np.stack([0.010 * brown + 0.002 * air, np.roll(0.010 * brown + 0.002 * air, 900)], axis=1)
 clock = np.zeros((N, 2))
 for s_ in range(int(total)):
     n = int(0.02 * SR); fc = 3200 if s_ % 2 == 0 else 2500
     tk = filt(rng.standard_normal(n), fc * 0.7, fc * 1.4) * np.exp(-np.arange(n) / (0.003 * SR)); i = int((s_ + 0.5) * SR)
-    if i + n < N: clock[i:i + n, 0] += tk * 0.030; clock[i:i + n, 1] += tk * 0.042
+    if i + n < N: clock[i:i + n, 0] += tk * 0.030 * AMB; clock[i:i + n, 1] += tk * 0.042 * AMB
 amb += clock
 
 # ściszanie pod głosem (sidechain)
@@ -94,7 +95,7 @@ win = int(0.03 * SR); e2 = np.sqrt(np.convolve(voice ** 2, np.ones(win) / win, m
 envv = np.zeros_like(e2); a_up, a_dn = 1 - math.exp(-1 / (0.02 * SR)), 1 - math.exp(-1 / (0.35 * SR)); cur = 0.0
 for i in range(0, N, 64):  # zgrubnie, potem interpolacja
     tgt = min(1.0, e2[i] / 0.08); cur += (tgt - cur) * (1 - (1 - (a_up if tgt > cur else a_dn)) ** 64); envv[i:i + 64] = cur
-duck_sfx = (1 - 0.45 * envv)[:, None]; duck_amb = (1 - 0.35 * envv)[:, None]
+duck_sfx = (1 - 0.45 * envv)[:, None]; duck_amb = (1 - 0.6 * envv)[:, None]
 mix = np.stack([voice, voice], axis=1) * 0.92 + sfx * duck_sfx + amb * duck_amb
 fi = int(0.4 * SR); mix[:fi] *= np.linspace(0, 1, fi)[:, None]
 fo = int(1.2 * SR); mix[N - fo:] *= np.linspace(1, 0, fo)[:, None]
