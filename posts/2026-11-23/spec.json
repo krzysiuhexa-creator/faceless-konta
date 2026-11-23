@@ -1,0 +1,682 @@
+{
+ "date": "2026-11-23",
+ "posts": [
+  {
+   "type": "mm_carousel",
+   "slug": "azja-fundusz",
+   "time": "08:30",
+   "pl": {
+    "tag": "GIEŁDA",
+    "date": "23.11.2026",
+    "mood": "down",
+    "src": "Źródła: Korea JoongAng Daily, Korea Times, KED Global, SBS, Investing.com, Al Jazeera",
+    "caption": "Czarny poniedziałek w Azji 📉\n\nKOSPI otworzył się 23.11 spadkiem o 2,77%, po piątkowym −5,2%. Korea Płd. szykuje fundusz stabilizacyjny rynku za 10,76 bln wonów, pierwszy raz od kryzysu z 2008 roku. Tajwan ma za sobą najgorszy tydzień od 1990 r. Kontrakty na S&P 500 rano szły w górę o ok. 2%.\n\nPrzesuń, żeby zobaczyć liczby 👉\n\nŹródła: Korea JoongAng Daily, Korea Times, KED Global, SBS, Investing.com, Al Jazeera\nInformacja, nie porada inwestycyjna.\n\n#gielda #korea #azja #rynki #ai",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "AZJA",
+      "title": "Czarny poniedziałek w Azji. Seul szykuje fundusz ratunkowy",
+      "big": "−2,77%",
+      "big_label": "KOSPI na otwarciu, 23.11",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "Co się stało",
+      "items": [
+       "Korea Płd. szykuje fundusz stabilizacyjny: <b>10,76&nbsp;bln&nbsp;wonów</b>.",
+       "Pierwszy raz <b>od kryzysu z 2008</b> roku.",
+       "W piątek KOSPI spadł o <b>5,2%</b>.",
+       "Firmom poluzowano limity <b>skupu własnych akcji</b> na 3&nbsp;miesiące."
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Reszta rynków",
+      "items": [
+       "Tajwan: <b>ok. −17%</b> w tydzień, najgorzej od 1990&nbsp;r.",
+       "Japonia: giełda <b>zamknięta</b> (święto).",
+       "Kontrakty na S&amp;P&nbsp;500 rano: <b>ok. +2%</b>."
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Rynki boją się <b>bańki wokół AI</b>, a w Korei i na Tajwanie notowani są wielcy producenci chipów. Fundusz ma uspokoić inwestorów."
+     }
+    ]
+   },
+   "en": {
+    "tag": "STOCKS",
+    "date": "Nov 23, 2026",
+    "mood": "down",
+    "src": "Sources: Korea JoongAng Daily, Korea Times, KED Global, SBS, Investing.com, Al Jazeera",
+    "caption": "Black Monday in Asia 📉\n\nSouth Korea's KOSPI opened 2.77% lower on Nov 23, after a 5.2% drop on Friday. Seoul is preparing a 10.76 trillion won market stabilization fund, its first use since the 2008 crisis. Taiwan just had its worst week since 1990. S&P 500 futures were up about 2% in Asian trading.\n\nSwipe for the numbers 👉\n\nSources: Korea JoongAng Daily, Korea Times, KED Global, SBS, Investing.com, Al Jazeera\nInformation, not financial advice.\n\n#stocks #korea #asia #markets #ai",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "ASIA",
+      "title": "Black Monday in Asia. Seoul readies a rescue fund",
+      "big": "−2.77%",
+      "big_label": "KOSPI at the open, Nov 23",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "What happened",
+      "items": [
+       "Seoul is preparing a market fund: <b>10.76&nbsp;trillion&nbsp;won</b>.",
+       "First use <b>since the 2008 crisis</b>.",
+       "On Friday the KOSPI fell <b>5.2%</b>.",
+       "Share buyback limits <b>eased for 3 months</b>."
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Other markets",
+      "items": [
+       "Taiwan: <b>about −17%</b> last week, worst since 1990.",
+       "Japan: market <b>closed</b> (holiday).",
+       "S&amp;P&nbsp;500 futures: <b>about +2%</b>."
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "Investors fear an <b>AI bubble</b>, and Korea and Taiwan are home to giant chipmakers. The fund is meant to calm the market."
+     }
+    ]
+   },
+   "review": true
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "gus-koniunktura",
+   "time": "12:00",
+   "pl": {
+    "tag": "GOSPODARKA",
+    "date": "23.11.2026",
+    "mood": "down",
+    "src": "Źródła: GUS via Obserwator Gospodarczy, CEO.com.pl, Goniec",
+    "caption": "Polskie firmy tracą humor i wstrzymują inwestycje 📉\n\nListopadowe badanie GUS: wskaźnik koniunktury w przetwórstwie przemysłowym spadł z −6,6 do −8,3, w budownictwie z −4,2 do −6,2. W każdej badanej branży więcej firm planuje cięcia inwestycji niż ich wzrost. Główna bariera to wysokie koszty.\n\nPrzesuń 👉\n\nŹródła: GUS via Obserwator Gospodarczy, CEO.com.pl, Goniec\nInformacja, nie porada inwestycyjna.\n\n#gospodarka #gus #polska #biznes #inwestycje",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "POLSKA",
+      "title": "Firmy w Polsce tracą humor i wstrzymują inwestycje",
+      "big": "−8,3",
+      "big_label": "koniunktura w przetwórstwie, listopad",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "Liczby GUS: X → XI",
+      "items": [
+       "Przetwórstwo: <b>−6,6 → −8,3</b>",
+       "Budownictwo: <b>−4,2 → −6,2</b>",
+       "Transport: <b>+0,7 → −0,4</b>",
+       "Finanse: <b>+29,4 → +26,7</b>"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Inwestycje",
+      "items": [
+       "W każdej branży więcej firm planuje <b>cięcia niż wzrosty</b>.",
+       "Bariera nr 1: <b>wysokie koszty</b> (ok. 51% firm w przemyśle).",
+       "Dobry klimat do inwestycji widzi tylko <b>1–6%</b> firm."
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Inwestycje firm to <b>paliwo dla wzrostu</b> gospodarki. Gdy firmy je wstrzymują, rozwój zwykle zwalnia."
+     }
+    ]
+   },
+   "en": {
+    "tag": "ECONOMY",
+    "date": "Nov 23, 2026",
+    "mood": "down",
+    "src": "Sources: Statistics Poland (GUS) via Obserwator Gospodarczy, CEO.com.pl, Goniec",
+    "caption": "Polish businesses lose confidence and hold back investment 📉\n\nNovember survey by Statistics Poland (GUS): the manufacturing business climate indicator fell from −6.6 to −8.3, construction from −4.2 to −6.2. In every surveyed sector, more firms plan to cut investment than to raise it. High costs are the main barrier.\n\nSwipe 👉\n\nSources: Statistics Poland (GUS) via Obserwator Gospodarczy, CEO.com.pl, Goniec\nInformation, not financial advice.\n\n#poland #economy #business #investment #europe",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "POLAND",
+      "title": "Polish firms lose confidence and hold back investment",
+      "big": "−8.3",
+      "big_label": "manufacturing climate, November",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "GUS data: Oct → Nov",
+      "items": [
+       "Manufacturing: <b>−6.6 → −8.3</b>",
+       "Construction: <b>−4.2 → −6.2</b>",
+       "Transport: <b>+0.7 → −0.4</b>",
+       "Finance: <b>+29.4 → +26.7</b>"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Investment",
+      "items": [
+       "In every sector, more firms plan <b>cuts than increases</b>.",
+       "Top barrier: <b>high costs</b> (about 51% of manufacturers).",
+       "Only <b>1–6%</b> of firms see a good climate to invest."
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "Business investment is <b>fuel for growth</b>. When firms hold back, the economy usually slows down."
+     }
+    ]
+   }
+  },
+  {
+   "type": "mm_numbers",
+   "slug": "btc",
+   "time": "15:30",
+   "pl": {
+    "tag": "KRYPTO",
+    "date": "23.11.2026",
+    "kicker": "BITCOIN W LICZBACH",
+    "value": "ok. 61&nbsp;000&nbsp;$",
+    "value_label": "stan na 23.11, godz. 1:00",
+    "chart": {
+     "points": [
+      126200,
+      65300,
+      55100,
+      61000
+     ],
+     "labels": [
+      "rekord, paź 2025",
+      "tydzień temu",
+      "dołek weekendu",
+      "23.11"
+     ]
+    },
+    "rows": [
+     [
+      "vs 24 h wcześniej",
+      "ok. +1,7%",
+      "upc"
+     ],
+     [
+      "Dołek weekendu",
+      "ok. 55 100 $",
+      "dn"
+     ],
+     [
+      "vs rekord",
+      "ok. −52%",
+      "dn"
+     ],
+     [
+      "Ethereum",
+      "ok. 1 720 $",
+      ""
+     ]
+    ],
+    "src": "Źródła: KuCoin, The Motley Fool, The Sunday Crypto Desk, Cryptonews, RTTNews",
+    "caption": "Bitcoin wrócił powyżej 60 000 $ 📊\n\nW nocy z niedzieli na poniedziałek (23.11, ok. 1:00) BTC kosztował ok. 61 000 $, ok. 1,7% więcej niż dobę wcześniej. W weekend zszedł do ok. 55 100 $, najniżej od września 2024. Do rekordu z października 2025 nadal brakuje ok. połowy.\n\nŚledzisz krypto czy omijasz szerokim łukiem? 👇\n\nŹródła: KuCoin, The Motley Fool, The Sunday Crypto Desk, Cryptonews, RTTNews\nInformacja, nie porada inwestycyjna.\n\n#bitcoin #btc #krypto #ethereum #rynki"
+   },
+   "en": {
+    "tag": "CRYPTO",
+    "date": "Nov 23, 2026",
+    "kicker": "BITCOIN BY THE NUMBERS",
+    "value": "$61,000",
+    "value_label": "approx., Nov 23, 00:00 UTC",
+    "chart": {
+     "points": [
+      126200,
+      65300,
+      55100,
+      61000
+     ],
+     "labels": [
+      "record, Oct 2025",
+      "a week ago",
+      "weekend low",
+      "Nov 23"
+     ]
+    },
+    "rows": [
+     [
+      "vs 24h earlier",
+      "about +1.7%",
+      "upc"
+     ],
+     [
+      "Weekend low",
+      "about $55,100",
+      "dn"
+     ],
+     [
+      "vs record",
+      "about −52%",
+      "dn"
+     ],
+     [
+      "Ethereum",
+      "about $1,720",
+      ""
+     ]
+    ],
+    "src": "Sources: KuCoin, The Motley Fool, The Sunday Crypto Desk, Cryptonews, RTTNews",
+    "caption": "Bitcoin is back above $60,000 📊\n\nAt 00:00 UTC on Nov 23, BTC traded around $61,000, about 1.7% higher than a day earlier. Over the weekend it dipped to about $55,100, its lowest since September 2024. It is still roughly half its October 2025 record.\n\nDo you follow crypto or stay away? 👇\n\nSources: KuCoin, The Motley Fool, The Sunday Crypto Desk, Cryptonews, RTTNews\nInformation, not financial advice.\n\n#bitcoin #btc #crypto #ethereum #markets"
+   }
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "gaz-magazyny",
+   "time": "19:30",
+   "pl": {
+    "tag": "ENERGIA",
+    "date": "23.11.2026",
+    "mood": "down",
+    "src": "Źródła: Trading Economics, Serbia Energy, Wisevoter, Forexclub",
+    "caption": "Zima puka, a magazyny gazu w UE są pełne tylko w 70% 🔥\n\n19.11 magazyny w Unii były zapełnione w 69,8%, rok wcześniej w 81,2%. W piątek 20.11 gaz TTF podrożał o 4,7%, do 88,45 €/MWh: rynek boi się mrozów, a w Norwegii była awaria na polu Troll.\n\nPrzesuń 👉\n\nŹródła: Trading Economics, Serbia Energy, Wisevoter, Forexclub\nInformacja, nie porada inwestycyjna.\n\n#gaz #energia #europa #rynki #zima",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "GAZ W EUROPIE",
+      "title": "Zima puka, a magazyny gazu w UE są pełne w 70%",
+      "big": "69,8%",
+      "big_label": "zapełnienie magazynów UE, 19.11",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "Co się stało",
+      "items": [
+       "Gaz TTF w piątek 20.11: <b>88,45&nbsp;€/MWh</b>, +4,7%.",
+       "Powody: <b>prognozy mrozów</b> i awaria na norweskim polu Troll.",
+       "Norwegia daje ok. <b>30%</b> importu gazu do UE."
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "Magazyny gazu w UE",
+      "a_label": "rok temu",
+      "a_value": "81,2%",
+      "a": 81.2,
+      "b_label": "19.11.2026",
+      "b_value": "69,8%",
+      "b": 69.8,
+      "note": "Średnia z 5 lat o tej porze roku to ok. 89%."
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Mniej gazu przed zimą to <b>większe ryzyko skoków cen</b>. Pod koniec października TTF na chwilę przebił 100&nbsp;€/MWh."
+     }
+    ]
+   },
+   "en": {
+    "tag": "ENERGY",
+    "date": "Nov 23, 2026",
+    "mood": "down",
+    "src": "Sources: Trading Economics, Serbia Energy, Wisevoter, Forexclub",
+    "caption": "Winter is coming, and EU gas storage is only 70% full 🔥\n\nOn Nov 19, EU storage was 69.8% full, versus 81.2% a year earlier. On Friday, Nov 20, Dutch TTF gas rose 4.7% to €88.45/MWh on cold forecasts and an outage at Norway's Troll field.\n\nSwipe 👉\n\nSources: Trading Economics, Serbia Energy, Wisevoter, Forexclub\nInformation, not financial advice.\n\n#gas #energy #europe #markets #winter",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "EUROPEAN GAS",
+      "title": "Winter is coming, and EU gas storage is 70% full",
+      "big": "69.8%",
+      "big_label": "EU storage level, Nov 19",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "What happened",
+      "items": [
+       "TTF gas on Friday, Nov 20: <b>€88.45/MWh</b>, +4.7%.",
+       "Drivers: <b>cold forecasts</b> and an outage at Norway's Troll field.",
+       "Norway supplies about <b>30%</b> of EU gas imports."
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "EU gas storage",
+      "a_label": "a year ago",
+      "a_value": "81.2%",
+      "a": 81.2,
+      "b_label": "Nov 19, 2026",
+      "b_value": "69.8%",
+      "b": 69.8,
+      "note": "The 5-year average for this time of year is about 89%."
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "Less gas before winter means <b>a higher risk of price spikes</b>. In late October TTF briefly topped €100/MWh."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "verstappen-vegas",
+   "time": "09:30",
+   "accent": "#FFD21F",
+   "src": "Formula1.com / RaceFans / GrandPrix.com",
+   "caption": "Verstappen wygrał w Las Vegas o 0,6 sekundy 🏎️\n\nNorris przyjechał +0,639 s za nim, Piastri trzeci. A mistrzem świata 2026 i tak jest już Kimi Antonelli z Mercedesa. Zostały jeszcze 2 wyścigi: Katar i Abu Zabi.\n\nWyślij to komuś, kto zarywa noce dla F1 👇\n\nŹródła: Formula1.com, RaceFans, GrandPrix.com, PlanetF1\n\n#f1 #formula1 #verstappen #lasvegas #sport",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Verstappen wygrał w Las Vegas o 0,6 sekundy",
+     "sub": "Norris był tuż za nim",
+     "emoji": "🏎️",
+     "big": "0,639 s",
+     "tags": [
+      [
+       "🎰",
+       "Las Vegas"
+      ],
+      [
+       "🥈",
+       "Norris"
+      ],
+      [
+       "🥉",
+       "Piastri"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Podium",
+     "rows": [
+      [
+       "🥇",
+       "<b>Max Verstappen</b> (Red Bull)"
+      ],
+      [
+       "🥈",
+       "<b>Lando Norris</b>, +0,639 s"
+      ],
+      [
+       "🥉",
+       "<b>Oscar Piastri</b>, +1,529 s"
+      ],
+      [
+       "🏁",
+       "<b>50 okrążeń</b> w nocy"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "A mistrz?",
+     "rows": [
+      [
+       "🏆",
+       "Mistrzem 2026 jest już <b>Kimi Antonelli</b> (Mercedes)"
+      ],
+      [
+       "📊",
+       "Ma <b>402 pkt</b>, Verstappen <b>304</b>"
+      ],
+      [
+       "🗓️",
+       "Zostały 2 wyścigi: <b>Katar 29.11</b> i Abu Zabi"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto zarywa noce dla F1",
+     "cta_small": "0,6 sekundy to wieczność. W F1 (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "kleopatra",
+   "time": "13:00",
+   "accent": "#FF4FA0",
+   "src": "WorldAtlas / IFLScience",
+   "caption": "Nie wiedziałeś, że Kleopatra żyła bliżej lądowania na Księżycu niż budowy piramid? 🔺\n\nWielka Piramida w Gizie powstała ok. 2560 r. p.n.e. Kleopatra zmarła w 30 r. p.n.e., czyli ok. 2500 lat później. Od niej do Apollo 11 (1969) minęło ok. 2000 lat.\n\nWyślij to komuś, kto wrzuca całą starożytność do jednego worka 👇\n\nŹródła: WorldAtlas, IFLScience\n\n#ciekawostki #historia #egipt #kleopatra #niewiedzialem",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Kleopatra żyła bliżej lądowania na Księżycu niż piramid",
+     "sub": "Brzmi jak bzdura, ale to matematyka",
+     "emoji": "🔺",
+     "big": "~2500 lat",
+     "tags": [
+      [
+       "🔺",
+       "ok. 2560 p.n.e."
+      ],
+      [
+       "👑",
+       "30 p.n.e."
+      ],
+      [
+       "🚀",
+       "1969"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Policzmy",
+     "rows": [
+      [
+       "🔺",
+       "Wielka Piramida w Gizie: ok. <b>2560 r. p.n.e.</b>"
+      ],
+      [
+       "👑",
+       "Kleopatra zmarła w <b>30 r. p.n.e.</b>"
+      ],
+      [
+       "⏳",
+       "Piramida → Kleopatra: <b>ok. 2500 lat</b>"
+      ],
+      [
+       "🚀",
+       "Kleopatra → Apollo 11: <b>ok. 2000 lat</b>"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Czyli",
+     "rows": [
+      [
+       "🏛️",
+       "Dla Kleopatry piramidy były <b>starożytnym zabytkiem</b>"
+      ],
+      [
+       "🌙",
+       "Do lądowania na Księżycu miała <b>bliżej</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto wrzuca starożytność do jednego worka",
+     "cta_small": "Historia to jednak długi serial (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "igrzyska-box-office",
+   "time": "17:00",
+   "accent": "#3EE6C1",
+   "src": "Yahoo Entertainment / Variety Australia",
+   "caption": "Igrzyska śmierci wróciły z przytupem 🏹\n\nNowy film „Igrzyska śmierci: Wschód słońca w dniu dożynek” zarobił w pierwszy weekend 120 mln $ w USA i 225 mln $ na całym świecie. Poprzedni film z 2023 r. otworzył się w USA na 44 mln $. Cała seria ma już 3,43 mld $, więcej niż saga Zmierzch.\n\nWidziałeś już? 👇\n\nŹródła: Yahoo Entertainment, Variety Australia\n\n#igrzyskasmierci #kino #film #boxoffice #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Igrzyska śmierci wróciły z przytupem",
+     "sub": "225 mln $ na świecie w 3 dni",
+     "emoji": "🏹",
+     "big": "225 mln $",
+     "tags": [
+      [
+       "🇺🇸",
+       "120 mln $ w USA"
+      ],
+      [
+       "🌍",
+       "105 mln $ poza USA"
+      ],
+      [
+       "🎬",
+       "84 rynki"
+      ]
+     ]
+    },
+    {
+     "kind": "bars",
+     "title": "Otwarcia w USA",
+     "sub": "pierwszy weekend",
+     "bars": [
+      [
+       "152 mln $",
+       "2012<br>część 1",
+       false
+      ],
+      [
+       "44 mln $",
+       "2023<br>prequel",
+       false
+      ],
+      [
+       "120 mln $",
+       "2026<br>nowy film",
+       true
+      ]
+     ],
+     "note": "Rekord serii dalej ma „W pierścieniu ognia”: 158 mln $."
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "💰",
+       "Cała seria zarobiła już <b>3,43 mld $</b>"
+      ],
+      [
+       "🧛",
+       "To więcej niż saga <b>Zmierzch</b> (3,3 mld $)"
+      ],
+      [
+       "⭐",
+       "Widzowie dali ocenę <b>A−</b> w CinemaScore"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto zna wszystkie części na pamięć",
+     "cta_small": "Kosogłos zadowolony (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "jednorozec-estonia",
+   "time": "20:30",
+   "accent": "#7CFF4F",
+   "src": "ERR News / VICE",
+   "caption": "W Estonii nagrano „jednorożca” 🦄\n\nFotopułapka na wyspie Sarema miała podglądać norki europejskie, a nagrała sarnę z jednym wyrostkiem na środku czoła. Co to dokładnie jest, z nagrania nie wiadomo. Fundacja Lutreola podpisała film: „Jednorożec znaleziony na Saremie!”.\n\nWyślij to komuś, kto wciąż wierzy w jednorożce 👇\n\nŹródła: ERR News, VICE\n\n#ciekawostki #zwierzeta #estonia #jednorozec #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "W Estonii nagrano „jednorożca”",
+     "sub": "To sarna z jednym wyrostkiem na czole",
+     "emoji": "🦄",
+     "tags": [
+      [
+       "🇪🇪",
+       "wyspa Sarema"
+      ],
+      [
+       "📷",
+       "fotopułapka"
+      ],
+      [
+       "🦌",
+       "sarna"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Co wiemy",
+     "rows": [
+      [
+       "📷",
+       "Kamera stała w lesie na wyspie <b>Sarema</b>"
+      ],
+      [
+       "🦦",
+       "Miała podglądać <b>norki europejskie</b>"
+      ],
+      [
+       "🦄",
+       "Nagrała sarnę z <b>jednym wyrostkiem</b> na czole"
+      ],
+      [
+       "❓",
+       "Co to jest? <b>Z nagrania nie wiadomo</b>"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "🐦",
+       "Ta sama kamera złapała rzadkiego <b>bociana czarnego</b>"
+      ],
+      [
+       "🌲",
+       "Podpis fundacji: <b>„Jednorożec znaleziony!”</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto wciąż wierzy w jednorożce",
+     "cta_small": "Estonia ma wszystko (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "bangla_photo",
+   "slug": "skyshowtime",
+   "accent": "#FF8A3D",
+   "title": "SkyShowtime znika",
+   "sub": "Platforma działa do końca 2027 r.",
+   "src": "RMF24 / GRYOnline",
+   "caption": "SkyShowtime znika z rynku 📺\n\nWłaściciele, Comcast i Paramount Skydance, zamkną platformę pod koniec 2027 r. Działa w 22 krajach Europy, w tym w Polsce, i ma ok. 9–10 mln subskrybentów. Do zamknięcia wszystko działa normalnie, nic nie trzeba robić.\n\nMasz SkyShowtime? 👇\n\nŹródła: RMF24, GRYOnline\n\n#skyshowtime #streaming #seriale #netflix #niewiemalebangla",
+   "photo_hint": "pilot od telewizora na kanapie w ciemnym pokoju, w tle rozmyty ekran TV (bez twarzy i bez logo)"
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "porownanie",
+   "time": "08:00",
+   "genre": "karta",
+   "music": [
+    "Ludovico Einaudi – Experience",
+    "Ólafur Arnalds – Saman"
+   ],
+   "caption": "Porównuj się ze sobą sprzed roku.\n\nPorównanie z innymi rzadko jest uczciwe: widzisz ich najlepsze chwile, a swoje wszystkie potknięcia. Taki rachunek zawsze wychodzi na minus.\n\nJedyna miarka, która ma sens, to ty z przeszłości. Tam widać, ile już przeszłaś albo przeszedłeś.\n\nZapisz na dzień, w którym wydaje ci się, że stoisz w miejscu.\n\n#ukrytalekcja #motywacja #psychologia #rozwojosobisty #mindset",
+   "slides": [
+    {
+     "img": "ukryta/img/okno.jpg",
+     "pos": "center 40%",
+     "fs": 72,
+     "text": [
+      "Porównuj się ze sobą sprzed roku.",
+      "Tylko tam widać <em>prawdziwy postęp.</em>"
+     ]
+    }
+   ],
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542"
+  }
+ ]
+}
