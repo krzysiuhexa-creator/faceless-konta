@@ -1,0 +1,909 @@
+{
+ "total": 306.651,
+ "frags": [
+  {
+   "id": 1,
+   "text": "„Jesteśmy tym, co wielokrotnie robimy. Doskonałość nie jest więc czynem, lecz nawykiem.” Arystoteles.",
+   "t0": 0.5,
+   "t1": 7.433,
+   "map": [
+    [
+     0,
+     40,
+     0.5,
+     2.90705
+    ],
+    [
+     40,
+     87,
+     3.26995,
+     6.11254
+    ],
+    [
+     87,
+     101,
+     6.63739,
+     7.432590000000001
+    ]
+   ],
+   "mode": "proporcja (2 zdań / 3 kawałków)",
+   "board_first": true
+  },
+  {
+   "id": 2,
+   "text": "Ten cytat jest na kubkach, plakatach i w co drugim poradniku. Jest tylko jeden problem. Arystoteles nigdy tego nie powiedział.",
+   "t0": 8.513,
+   "t1": 16.233,
+   "map": [
+    [
+     0,
+     61,
+     8.51259,
+     12.11188
+    ],
+    [
+     62,
+     87,
+     12.477179999999999,
+     13.662779999999998
+    ],
+    [
+     88,
+     126,
+     14.089979999999999,
+     16.23254
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 3,
+   "text": "Te słowa napisał w 1926 roku amerykański pisarz Will Durant, w książce o historii filozofii. Streszczał w nich myśl Arystotelesa. A internet zrobił z tego cytat.",
+   "t0": 17.313,
+   "t1": 28.713,
+   "map": [
+    [
+     0,
+     92,
+     17.31254,
+     24.008439999999997
+    ],
+    [
+     93,
+     129,
+     24.475039999999996,
+     26.41274
+    ],
+    [
+     130,
+     161,
+     26.84914,
+     28.71277
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 4,
+   "text": "Ale najciekawsze jest co innego. Arystoteles naprawdę pisał, że cnota rodzi się z nawyku. Że stajemy się odważni, robiąc odważne rzeczy.",
+   "t0": 29.793,
+   "t1": 38.162,
+   "map": [
+    [
+     0,
+     32,
+     29.792769999999997,
+     31.452869999999997
+    ],
+    [
+     33,
+     89,
+     31.833569999999998,
+     35.10186999999999
+    ],
+    [
+     90,
+     136,
+     35.47306999999999,
+     38.16153
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 5,
+   "text": "Ponad dwa tysiące lat później naukowcy zaczęli to sprawdzać. I wyszło, że miał rację bardziej, niż myślisz.",
+   "t0": 38.692,
+   "t1": 44.787,
+   "map": [
+    [
+     0,
+     60,
+     38.69152999999999,
+     41.907129999999995
+    ],
+    [
+     61,
+     107,
+     42.20862999999999,
+     44.787389999999995
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 6,
+   "text": "Dziś: dlaczego zawsze wracasz do starych nawyków. Nawet wtedy, kiedy naprawdę postanowisz inaczej.",
+   "t0": 45.867,
+   "t1": 52.076,
+   "map": [
+    [
+     0,
+     5,
+     45.86738999999999,
+     46.28299
+    ],
+    [
+     6,
+     49,
+     46.72008999999999,
+     49.005489999999995
+    ],
+    [
+     50,
+     98,
+     49.260189999999994,
+     52.075979999999994
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 7,
+   "text": "Pewnie znasz to uczucie. Postanawiasz: koniec z telefonem w łóżku. Wieczorem kładziesz się i telefon już jest w ręce. Nawet nie wiesz kiedy.",
+   "t0": 53.156,
+   "t1": 61.244,
+   "map": [
+    [
+     0,
+     24,
+     53.15597999999999,
+     54.26357999999999
+    ],
+    [
+     25,
+     38,
+     54.62367999999999,
+     55.23697999999999
+    ],
+    [
+     39,
+     66,
+     55.53567999999999,
+     56.82567999999999
+    ],
+    [
+     67,
+     117,
+     57.23707999999999,
+     60.00617999999999
+    ],
+    [
+     118,
+     140,
+     60.27387999999999,
+     61.24430999999999
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 8,
+   "text": "To nie znaczy, że masz słabą wolę. To znaczy, że ten wieczór nie był decyzją. Był nawykiem.",
+   "t0": 61.774,
+   "t1": 67.23,
+   "map": [
+    [
+     0,
+     34,
+     61.77430999999999,
+     63.335809999999995
+    ],
+    [
+     35,
+     77,
+     63.64050999999999,
+     66.15991
+    ],
+    [
+     78,
+     91,
+     66.49561,
+     67.22958
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 9,
+   "text": "Psycholożka Wendy Wood z zespołem dała studentom zegarki, które piszczały co godzinę. Na sygnał trzeba było zapisać, co się właśnie robi i o czym się myśli.",
+   "t0": 68.31,
+   "t1": 77.007,
+   "map": [
+    [
+     0,
+     85,
+     68.30958000000001,
+     72.82578000000001
+    ],
+    [
+     86,
+     156,
+     73.26078000000001,
+     77.00747
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 10,
+   "text": "Wynik? Około czterdziestu trzech procent codziennych zachowań to były nawyki. Ludzie robili je automatycznie, myśląc w tym czasie o czymś zupełnie innym.",
+   "t0": 77.537,
+   "t1": 86.276,
+   "map": [
+    [
+     0,
+     6,
+     77.53747000000001,
+     77.92117000000002
+    ],
+    [
+     7,
+     77,
+     78.40527000000002,
+     81.92087000000002
+    ],
+    [
+     78,
+     153,
+     82.29457000000002,
+     86.27601000000003
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 11,
+   "text": "Prawie połowa dnia na autopilocie. I ten autopilot nie słucha postanowień. Słucha otoczenia.",
+   "t0": 87.356,
+   "t1": 93.105,
+   "map": [
+    [
+     0,
+     34,
+     87.35601000000004,
+     89.43851000000004
+    ],
+    [
+     35,
+     74,
+     89.79431000000004,
+     91.87351000000004
+    ],
+    [
+     75,
+     92,
+     92.17341000000003,
+     93.10457000000004
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 12,
+   "text": "Nawyk to połączenie: miejsce, pora, sytuacja i ruch, który za nimi idzie. Łóżko, wieczór, telefon. Im więcej powtórzeń, tym mocniej otoczenie samo uruchamia ten ruch.",
+   "t0": 93.635,
+   "t1": 105.138,
+   "map": [
+    [
+     0,
+     20,
+     93.63457000000005,
+     94.88527000000005
+    ],
+    [
+     21,
+     73,
+     95.15007000000006,
+     98.80077000000004
+    ],
+    [
+     74,
+     98,
+     99.22777000000005,
+     101.05777000000005
+    ],
+    [
+     99,
+     166,
+     101.31777000000005,
+     105.13796500000005
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 13,
+   "text": "Wyobraź sobie trawnik. Pierwszy raz idziesz na skróty i trawa zaraz się podnosi. Ale idziesz tak codziennie. Po miesiącu jest ścieżka. I nogi same w nią skręcają.",
+   "t0": 106.218,
+   "t1": 116.122,
+   "map": [
+    [
+     0,
+     22,
+     106.21796500000006,
+     107.35196500000006
+    ],
+    [
+     23,
+     80,
+     107.72596500000006,
+     110.84596500000006
+    ],
+    [
+     81,
+     108,
+     111.22396500000006,
+     112.34996500000007
+    ],
+    [
+     109,
+     134,
+     112.73096500000007,
+     114.23896500000006
+    ],
+    [
+     135,
+     162,
+     114.55996500000006,
+     116.12219500000006
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 14,
+   "text": "Naukowcy z Uniwersytetu Południowej Kalifornii sprawdzili to w kinie. Widzom rozdawali popcorn. Część dostała świeży. Część tygodniowy, gumowaty i zimny.",
+   "t0": 117.202,
+   "t1": 126.924,
+   "map": [
+    [
+     0,
+     69,
+     117.20219500000007,
+     120.62819500000008
+    ],
+    [
+     70,
+     95,
+     120.95319500000006,
+     122.36919500000008
+    ],
+    [
+     96,
+     117,
+     122.69119500000008,
+     123.94319500000007
+    ],
+    [
+     118,
+     153,
+     124.28719500000007,
+     126.92416600000007
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 15,
+   "text": "Ludzie, którzy rzadko jedzą popcorn w kinie, starego zjedli dużo mniej. Normalne. Ale ci, którzy w kinie jedzą go zawsze? Zjedli tyle samo. Świeży czy stary, bez różnicy.",
+   "t0": 128.004,
+   "t1": 139.087,
+   "map": [
+    [
+     0,
+     70,
+     128.00416600000005,
+     132.12316600000005
+    ],
+    [
+     70,
+     78,
+     132.46016600000007,
+     132.96316600000006
+    ],
+    [
+     78,
+     112,
+     133.39716600000006,
+     135.37116600000007
+    ],
+    [
+     112,
+     170,
+     135.71316600000006,
+     139.08729300000007
+    ]
+   ],
+   "mode": "proporcja (5 zdań / 4 kawałków)",
+   "board_first": true
+  },
+  {
+   "id": 16,
+   "text": "I tu haczyk. Kiedy ten sam popcorn dostawali w zwykłej sali, a nie w kinie, nawyk znikał. Stary popcorn zostawał w kubełku. Bo nawyk nie siedział w popcornie. Siedział w kinie.",
+   "t0": 140.167,
+   "t1": 151.212,
+   "map": [
+    [
+     0,
+     12,
+     140.16729300000006,
+     140.97129300000006
+    ],
+    [
+     13,
+     89,
+     141.36629300000004,
+     145.70529300000004
+    ],
+    [
+     90,
+     123,
+     146.05929300000005,
+     148.06329300000004
+    ],
+    [
+     124,
+     158,
+     148.45429300000004,
+     150.13529300000005
+    ],
+    [
+     159,
+     176,
+     150.41629300000005,
+     151.21237700000003
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 17,
+   "text": "Jeśli nawyk siedzi w otoczeniu, to z otoczeniem trzeba pracować, a nie z sobą walczyć. Są na to trzy sposoby.",
+   "t0": 152.292,
+   "t1": 158.791,
+   "map": [
+    [
+     0,
+     86,
+     152.29237700000002,
+     157.16937700000003
+    ],
+    [
+     87,
+     109,
+     157.51037700000003,
+     158.79131100000004
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 18,
+   "text": "Sposób pierwszy: zmieniaj nawyki wtedy, kiedy zmienia się twoje otoczenie. Przeprowadzka, nowa praca, nowa szkoła, wyjazd.",
+   "t0": 159.871,
+   "t1": 167.66,
+   "map": [
+    [
+     0,
+     16,
+     159.87131100000002,
+     160.872311
+    ],
+    [
+     17,
+     74,
+     161.206311,
+     164.15031100000002
+    ],
+    [
+     75,
+     122,
+     164.468311,
+     167.660016
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 19,
+   "text": "Naukowcy z Uniwersytetu w Bath przebadali osiemset osób. Ta sama zachęta do bardziej ekologicznych nawyków lepiej działała na tych, którzy niedawno się przeprowadzili. Okno trwało mniej więcej trzy miesiące.",
+   "t0": 168.19,
+   "t1": 179.548,
+   "map": [
+    [
+     0,
+     56,
+     168.19001599999999,
+     171.506016
+    ],
+    [
+     57,
+     167,
+     171.77001599999997,
+     177.17701599999998
+    ],
+    [
+     168,
+     207,
+     177.51701599999998,
+     179.54822499999997
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": false
+  },
+  {
+   "id": 20,
+   "text": "Nowe miejsce to trawnik bez ścieżek. Zadanie na dziś: jeśli coś się u ciebie właśnie zmienia, wybierz jeden nawyk, który od razu tam wstawisz. A jeśli nic się nie zmienia, zmień coś małego sam. Na przykład połóż telefon na noc w innym pokoju.",
+   "t0": 180.628,
+   "t1": 194.8,
+   "map": [
+    [
+     0,
+     40,
+     180.62822499999996,
+     182.83822499999997
+    ],
+    [
+     40,
+     56,
+     183.32622499999997,
+     184.19022499999994
+    ],
+    [
+     56,
+     195,
+     184.53122499999995,
+     192.01422499999995
+    ],
+    [
+     195,
+     242,
+     192.27422499999994,
+     194.79997099999994
+    ]
+   ],
+   "mode": "proporcja (5 zdań / 4 kawałków)",
+   "board_first": true
+  },
+  {
+   "id": 21,
+   "text": "Sposób drugi: nie buduj nowego nawyku od zera. Doklej go do starego, który już działa.",
+   "t0": 195.88,
+   "t1": 201.296,
+   "map": [
+    [
+     0,
+     13,
+     195.87997099999993,
+     196.71597099999994
+    ],
+    [
+     14,
+     46,
+     197.08797099999992,
+     198.87397099999993
+    ],
+    [
+     47,
+     86,
+     199.16997099999995,
+     201.29631599999993
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 22,
+   "text": "W jednym badaniu ludzie mieli zacząć nitkować zęby. Połowa przed myciem zębów, połowa po. Ci, którzy nitkowali po myciu, mieli silniejszy nawyk. I nawet po ośmiu miesiącach robili to częściej.",
+   "t0": 201.826,
+   "t1": 212.695,
+   "map": [
+    [
+     0,
+     50,
+     201.8263159999999,
+     204.5483159999999
+    ],
+    [
+     50,
+     90,
+     204.81531599999988,
+     206.9393159999999
+    ],
+    [
+     90,
+     192,
+     207.2533159999999,
+     212.6948649999999
+    ]
+   ],
+   "mode": "proporcja (4 zdań / 3 kawałków)",
+   "board_first": false
+  },
+  {
+   "id": 23,
+   "text": "Mycie zębów było już ścieżką. Nitka po prostu poszła dalej tą samą drogą. Zadanie: dokończ zdanie „po tym, jak…”. Na przykład: po tym, jak zrobię kawę, przeczytam jedną stronę.",
+   "t0": 213.775,
+   "t1": 224.888,
+   "map": [
+    [
+     0,
+     29,
+     213.7748649999999,
+     215.5428649999999
+    ],
+    [
+     30,
+     73,
+     215.79486499999987,
+     218.22486499999988
+    ],
+    [
+     74,
+     82,
+     218.62886499999988,
+     219.11086499999988
+    ],
+    [
+     83,
+     113,
+     219.4288649999999,
+     221.2988649999999
+    ],
+    [
+     114,
+     126,
+     221.63486499999988,
+     222.1438649999999
+    ],
+    [
+     127,
+     176,
+     222.4548649999999,
+     224.8876159999999
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 24,
+   "text": "Sposób trzeci: żeby rozbroić stary nawyk, zrób go inaczej niż zwykle.",
+   "t0": 225.968,
+   "t1": 230.344,
+   "map": [
+    [
+     0,
+     14,
+     225.96761599999988,
+     226.8386159999999
+    ],
+    [
+     15,
+     69,
+     227.17561599999988,
+     230.3437929999999
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 25,
+   "text": "Pamiętasz kino? W drugim eksperymencie część widzów musiała jeść popcorn drugą ręką. Praworęczni lewą. I nagle zauważyli, że popcorn jest stary. Zjedli go dużo mniej. Nawet ci z najmocniejszym nawykiem.",
+   "t0": 230.874,
+   "t1": 243.212,
+   "map": [
+    [
+     0,
+     13,
+     230.87379299999986,
+     231.67479299999985
+    ],
+    [
+     13,
+     99,
+     231.96079299999985,
+     236.99179299999986
+    ],
+    [
+     99,
+     202,
+     237.25179299999985,
+     243.21155699999986
+    ]
+   ],
+   "mode": "proporcja (6 zdań / 3 kawałków)",
+   "board_first": false
+  },
+  {
+   "id": 26,
+   "text": "Inna ręka, inne miejsce, inna kolejność. Autopilot się gubi, a ty odzyskujesz wybór. Zadanie: przy swoim złym nawyku zmień jeden szczegół. Telefon do drugiej ręki albo aplikacja w inne miejsce na ekranie.",
+   "t0": 244.292,
+   "t1": 257.451,
+   "map": [
+    [
+     0,
+     94,
+     244.29155699999984,
+     250.08355699999984
+    ],
+    [
+     94,
+     103,
+     250.46355699999984,
+     250.96055699999985
+    ],
+    [
+     103,
+     204,
+     251.28655699999985,
+     257.45139799999987
+    ]
+   ],
+   "mode": "proporcja (5 zdań / 3 kawałków)",
+   "board_first": true
+  },
+  {
+   "id": 27,
+   "text": "Maskotka chodzi przez trawnik codziennie tą samą, wydeptaną ścieżką. Pewnego dnia postanawia iść inaczej.",
+   "t0": 258.531,
+   "t1": 264.675,
+   "map": [
+    [
+     0,
+     68,
+     258.53139799999985,
+     262.4343979999999
+    ],
+    [
+     69,
+     105,
+     262.6983979999999,
+     264.6749349999999
+    ]
+   ],
+   "mode": "zdania",
+   "board_first": true
+  },
+  {
+   "id": 28,
+   "text": "Pierwszy krok obok jest trudny. Trawa wysoka, a nogi same skręcają w starą stronę. Ale idzie dalej. Dzień po dniu.",
+   "t0": 265.205,
+   "t1": 272.206,
+   "map": [
+    [
+     0,
+     82,
+     265.20493499999986,
+     270.0959349999998
+    ],
+    [
+     82,
+     114,
+     270.36193499999985,
+     272.20586699999984
+    ]
+   ],
+   "mode": "proporcja (4 zdań / 2 kawałków)",
+   "board_first": false
+  },
+  {
+   "id": 29,
+   "text": "Po miesiącu są dwie ścieżki. Nowa jest już wyraźna. Stara powoli zarasta. Ale nie znika do końca. I w gorsze dni nogi wciąż ją pamiętają.",
+   "t0": 272.736,
+   "t1": 281.863,
+   "map": [
+    [
+     0,
+     137,
+     272.73586699999987,
+     281.86348799999985
+    ]
+   ],
+   "mode": "proporcja (5 zdań / 1 kawałków)",
+   "board_first": false
+  },
+  {
+   "id": 30,
+   "text": "Ukryta lekcja: nie wracasz do starych nawyków, bo jesteś słaby. Wracasz, bo tamta ścieżka wciąż tam jest. Nie musisz jej zasypywać. Wystarczy, że codziennie wydepczesz nową.",
+   "t0": 282.943,
+   "t1": 293.089,
+   "map": [
+    [
+     0,
+     14,
+     282.9434879999999,
+     283.7614879999999
+    ],
+    [
+     14,
+     57,
+     284.06448799999987,
+     286.4364879999999
+    ],
+    [
+     57,
+     173,
+     286.6884879999999,
+     293.0889049999999
+    ]
+   ],
+   "mode": "proporcja (5 zdań / 3 kawałków)",
+   "board_first": true
+  },
+  {
+   "id": 31,
+   "text": "Arystoteles nie napisał tamtego cytatu. Ale miał rację: stajesz się tym, co powtarzasz. A w następnym odcinku: dlaczego innym dajesz świetne rady, a sobie żadnych.",
+   "t0": 294.169,
+   "t1": 304.651,
+   "map": [
+    [
+     0,
+     36,
+     294.16890499999994,
+     296.2859049999999
+    ],
+    [
+     36,
+     48,
+     296.5569049999999,
+     297.30090499999994
+    ],
+    [
+     48,
+     105,
+     297.57290499999993,
+     300.93090499999994
+    ],
+    [
+     105,
+     163,
+     301.2999049999999,
+     304.6506601020407
+    ]
+   ],
+   "mode": "proporcja (5 zdań / 4 kawałków)",
+   "board_first": true
+  }
+ ]
+}

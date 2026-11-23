@@ -4,7 +4,7 @@ Automat bierze tematy po kolei, od góry. Krzysiu może skreślić temat (usuną
 
 ## Ukryta Lekcja (psychologia, „dlaczego …”)
 
-- [w toku odc2] dlaczego zawsze wracasz do starych nawyków — Durant/Arystoteles, Wood 2002, popcorn Neal i in. 2011
+- [zrobione odc2] dlaczego zawsze wracasz do starych nawyków — Durant/Arystoteles, Wood 2002, popcorn Neal i in. 2011
 - dlaczego innym dajesz świetne rady, a sobie żadnych — „paradoks Salomona”, Grossmann i Kross 2014; dystans do siebie (mówienie o sobie w 3. osobie)
 - dlaczego zapominasz, po co wszedłeś do pokoju — „efekt drzwi”, Radvansky i in. 2011
 - dlaczego wydaje ci się, że wszyscy na ciebie patrzą — efekt reflektora, Gilovich, Medvec, Savitsky 2000 (koszulka)

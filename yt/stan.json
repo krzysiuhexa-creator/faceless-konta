@@ -5,17 +5,34 @@
     "glos": "klon „yooyo”, Eleven v4",
     "sloty_odcinka": "czwartek lub niedziela 18:00",
     "sloty_shortsow": "17:30",
-    "oczekuje": {
-      "odc": 2,
-      "fragmenty": 31,
-      "tytul": "dlaczego zawsze wracasz do starych nawyków",
-      "scenariusz": "yt/ukryta-lekcja/odc2/scenariusz.md",
-      "lektor": "yt/ukryta-lekcja/odc2/lektor.txt",
-      "od": "2026-11-21"
-    },
+    "oczekuje": null,
     "odcinki": [
-      {"odc": 1, "tytul": "dlaczego zawsze zaczynasz od poniedziałku", "publikacja": "2026-11-21 (wrzucony ręcznie)",
-       "shortsy_metricool": [436876338, 436877345, 436877411]}
+      {
+        "odc": 1,
+        "tytul": "dlaczego zawsze zaczynasz od poniedziałku",
+        "publikacja": "2026-11-21 (wrzucony ręcznie)",
+        "shortsy_metricool": [
+          436876338,
+          436877345,
+          436877411
+        ]
+      },
+      {
+        "odc": 2,
+        "tytul": "dlaczego zawsze wracasz do starych nawyków",
+        "publikacja": "2026-11-26 18:00 (automat, Metricool)",
+        "odcinek_metricool": 438525199,
+        "shortsy_metricool": [
+          438525477,
+          438525497,
+          438525521
+        ],
+        "shortsy_daty": [
+          "2026-11-27 17:30",
+          "2026-11-28 17:30",
+          "2026-11-29 17:30"
+        ]
+      }
     ]
   },
   "bangla": {
@@ -32,9 +49,24 @@
       "od": "2026-11-21"
     },
     "odcinki": [
-      {"odc": 1, "tytul": "Ten polski kapral pił piwo, jadł papierosy i był niedźwiedziem", "publikacja": "2026-11-21 (wrzucony ręcznie)",
-       "shortsy_metricool": [436988100, 436988147, 436988191]}
+      {
+        "odc": 1,
+        "tytul": "Ten polski kapral pił piwo, jadł papierosy i był niedźwiedziem",
+        "publikacja": "2026-11-21 (wrzucony ręcznie)",
+        "shortsy_metricool": [
+          436988100,
+          436988147,
+          436988191
+        ]
+      }
     ]
   },
-  "przetworzone": []
+  "przetworzone": [
+    {
+      "plik": "ElevenLabs_2026-11-22T17_24_26_yooyo_ivc_s49_sim100_v4.mp3",
+      "kanal": "ukryta-lekcja",
+      "odc": 2,
+      "data": "2026-11-23"
+    }
+  ]
 }
