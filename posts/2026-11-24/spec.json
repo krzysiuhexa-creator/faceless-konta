@@ -1,0 +1,631 @@
+{
+ "date": "2026-11-24",
+ "posts": [
+  {
+   "type": "ukryta_carousel",
+   "slug": "motywacja",
+   "time": "08:00",
+   "genre": "karta",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ludovico Einaudi – Una Mattina",
+    "Ólafur Arnalds – Near Light"
+   ],
+   "caption": "Nie czekaj, aż poczujesz motywację.\n\nCzęsto myślimy, że najpierw musi przyjść chęć, a dopiero potem działanie. W praktyce bywa odwrotnie: chęć pojawia się, kiedy już jesteśmy w drodze.\n\nPierwszy krok nie musi być duży. Wystarczy, że go zrobisz.\n\nZapisz na poranek, w którym nic ci się nie chce.\n\n#ukrytalekcja #motywacja #psychologia #rozwojosobisty #mindset",
+   "slides": [
+    {
+     "img": "ukryta/img/korytarz.jpg",
+     "pos": "center 45%",
+     "fs": 72,
+     "text": [
+      "Nie czekaj, aż poczujesz motywację.",
+      "Zacznij. <em>Ona przyjdzie w trakcie.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "wall-street-rajd",
+   "time": "08:30",
+   "pl": {
+    "tag": "GIEŁDA",
+    "date": "24.11.2026",
+    "src": "Źródła: The Motley Fool, StockTitan, 24/7 Wall St, ABC News",
+    "caption": "Wall Street wystrzeliło w górę 🚀\n\nW poniedziałek 23.11 S&P 500 zyskał 4,73%, Nasdaq ok. 6,5%, a Dow Jones ok. 3%. Akcje Nvidii skoczyły o 31,5%, gdy zarząd przywrócił Jensena Huanga na stanowisko prezesa. Mocno rosły też inne spółki od chipów i AI.\n\nPrzesuń, żeby zobaczyć liczby 👉\n\nŹródła: The Motley Fool, StockTitan, 24/7 Wall St, ABC News\nInformacja, nie porada inwestycyjna.\n\n#gielda #nvidia #wallstreet #ai #rynki",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WALL STREET",
+      "title": "Wielkie odbicie. Nvidia skacze po powrocie Huanga",
+      "big": "+31,5%",
+      "big_label": "akcje Nvidii, 23.11",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Co się stało",
+      "items": [
+       "Zarząd Nvidii przywrócił <b>Jensena Huanga</b> na stanowisko prezesa.",
+       "Huang odszedł z firmy <b>w listopadzie</b>.",
+       "Akcje Nvidii: <b>165,05&nbsp;$</b> na zamknięciu.",
+       "Micron: <b>+19%</b> po umowach na dostawy pamięci."
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Indeksy w poniedziałek",
+      "items": [
+       "S&amp;P&nbsp;500: <b>+4,73%</b> (7&nbsp;237 pkt)",
+       "Nasdaq: <b>ok. +6,5%</b>",
+       "Dow Jones: <b>ok. +3,0%</b>"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Po serii spadków rynek odetchnął. Nvidia to jedna z <b>największych spółek świata</b>, więc jej ruch ciągnie cały indeks."
+     }
+    ]
+   },
+   "en": {
+    "tag": "STOCKS",
+    "date": "Nov 24, 2026",
+    "src": "Sources: The Motley Fool, StockTitan, 24/7 Wall St, ABC News",
+    "caption": "Wall Street rockets higher 🚀\n\nOn Monday, Nov 23, the S&P 500 gained 4.73%, the Nasdaq about 6.5% and the Dow about 3%. Nvidia shares jumped 31.5% after the board reinstated Jensen Huang as CEO. Other chip and AI stocks rallied hard too.\n\nSwipe for the numbers 👉\n\nSources: The Motley Fool, StockTitan, 24/7 Wall St, ABC News\nInformation, not financial advice.\n\n#stocks #nvidia #wallstreet #ai #markets",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WALL STREET",
+      "title": "Huge rebound. Nvidia soars as Huang returns",
+      "big": "+31.5%",
+      "big_label": "Nvidia shares, Nov 23",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "What happened",
+      "items": [
+       "Nvidia's board reinstated <b>Jensen Huang</b> as CEO.",
+       "Huang had left the company <b>in November</b>.",
+       "Nvidia closed at <b>$165.05</b>.",
+       "Micron: <b>+19%</b> on memory supply deals."
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Monday's indexes",
+      "items": [
+       "S&amp;P&nbsp;500: <b>+4.73%</b> (7,237)",
+       "Nasdaq: <b>about +6.5%</b>",
+       "Dow Jones: <b>about +3.0%</b>"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "After a losing streak, the market caught its breath. Nvidia is one of the <b>world's biggest companies</b>, so its moves drag the whole index."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "hera-asteroida",
+   "time": "09:30",
+   "accent": "#FFD21F",
+   "src": "ESA / Newsweek / Spider's Web",
+   "caption": "Jutro zobaczymy z bliska asteroidę, w którą NASA walnęła sondą ☄️\n\nW 2022 r. sonda DART celowo uderzyła w Dimorphos i skróciła jej orbitę o ok. 33 minuty. Teraz na miejscu jest europejska sonda Hera. Pierwsze zdjęcia ESA pokaże w środę 25.11 o 19:45.\n\nOglądasz? 👇\n\nŹródła: ESA, Newsweek, Spider's Web, SpacePolicyOnline\n\n#kosmos #esa #nasa #asteroida #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Jutro zobaczymy asteroidę, w którą NASA walnęła sondą",
+     "sub": "Europejska sonda Hera już tam jest",
+     "emoji": "☄️",
+     "big": "151 m",
+     "tags": [
+      [
+       "🇪🇺",
+       "ESA"
+      ],
+      [
+       "🛰️",
+       "sonda Hera"
+      ],
+      [
+       "📅",
+       "25.11, 19:45"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Co się stało?",
+     "rows": [
+      [
+       "💥",
+       "We wrześniu 2022 sonda NASA DART <b>celowo uderzyła</b> w asteroidę Dimorphos"
+      ],
+      [
+       "⏱️",
+       "Skróciła jej orbitę o <b>ok. 33 minuty</b>"
+      ],
+      [
+       "🛰️",
+       "Hera leciała tam <b>ok. 2 lata</b> (start 7.10.2024)"
+      ],
+      [
+       "📸",
+       "Teraz pokaże z bliska, <b>co zostało po uderzeniu</b>"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Kiedy oglądać?",
+     "rows": [
+      [
+       "📅",
+       "Środa 25.11, <b>godz. 19:45</b>"
+      ],
+      [
+       "📺",
+       "Transmisja: <b>ESA WebTV i YouTube</b>"
+      ],
+      [
+       "🛡️",
+       "Cel misji: test <b>obrony Ziemi</b> przed asteroidami"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto ogląda filmy o końcu świata",
+     "cta_small": "Armageddon, tylko na serio (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "crowdstrike-zscaler",
+   "time": "12:00",
+   "pl": {
+    "tag": "BIZNES",
+    "date": "24.11.2026",
+    "src": "Źródła: CrowdStrike/Zscaler (SEC), The Motley Fool, StockTitan",
+    "caption": "Gigant cyberbezpieczeństwa kupuje rywala 🔐\n\nCrowdStrike przejmie Zscaler w transakcji wartej ok. 43,9 mld $. Akcjonariusze Zscalera dostaną 1,135 akcji CrowdStrike za każdą swoją, czyli ok. 34% więcej niż piątkowy kurs. Inwestorzy zareagowali różnie: Zscaler +17,7%, CrowdStrike −8,9%.\n\nPrzesuń 👉\n\nŹródła: komunikat CrowdStrike/Zscaler (SEC), The Motley Fool, StockTitan\nInformacja, nie porada inwestycyjna.\n\n#biznes #cyberbezpieczenstwo #crowdstrike #przejecie #technologia",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "PRZEJĘCIE",
+      "title": "CrowdStrike kupuje Zscaler. Mega-fuzja w cyberbezpieczeństwie",
+      "big": "43,9&nbsp;mld&nbsp;$",
+      "big_label": "wartość transakcji",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Warunki",
+      "items": [
+       "Płatność <b>w akcjach</b>, bez gotówki.",
+       "<b>1,135</b> akcji CrowdStrike za 1 akcję Zscalera.",
+       "To ok. <b>260&nbsp;$</b> za akcję, <b>+34%</b> do piątku.",
+       "Finał planowany na <b>VIII 2027 – I 2028</b>."
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "Reakcja kursów, 23.11",
+      "a_label": "CrowdStrike",
+      "a_value": "−8,9%",
+      "a": 8.9,
+      "b_label": "Zscaler",
+      "b_value": "+17,7%",
+      "b": 17.7,
+      "note": "Kupujący zwykle traci na giełdzie, przejmowany zyskuje."
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Firmy chcą mieć <b>ochronę w jednym miejscu</b>. Ta fuzja łączy dwóch dużych graczy z branży cyberbezpieczeństwa."
+     }
+    ]
+   },
+   "en": {
+    "tag": "BUSINESS",
+    "date": "Nov 24, 2026",
+    "src": "Sources: CrowdStrike/Zscaler (SEC), The Motley Fool, StockTitan",
+    "caption": "A cybersecurity giant buys a rival 🔐\n\nCrowdStrike will acquire Zscaler in a deal valued at about $43.9B. Zscaler holders get 1.135 CrowdStrike shares for each share, about a 34% premium to Friday's close. Investors split: Zscaler +17.7%, CrowdStrike −8.9%.\n\nSwipe 👉\n\nSources: CrowdStrike/Zscaler release (SEC), The Motley Fool, StockTitan\nInformation, not financial advice.\n\n#business #cybersecurity #crowdstrike #mergers #tech",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "M&amp;A",
+      "title": "CrowdStrike buys Zscaler. A cybersecurity mega-deal",
+      "big": "$43.9B",
+      "big_label": "deal value",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "The terms",
+      "items": [
+       "Paid <b>in stock</b>, no cash.",
+       "<b>1.135</b> CrowdStrike shares per Zscaler share.",
+       "About <b>$260</b> a share, <b>+34%</b> vs Friday.",
+       "Expected to close <b>Aug 2027 – Jan 2028</b>."
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "Share moves, Nov 23",
+      "a_label": "CrowdStrike",
+      "a_value": "−8.9%",
+      "a": 8.9,
+      "b_label": "Zscaler",
+      "b_value": "+17.7%",
+      "b": 17.7,
+      "note": "The buyer usually dips, the target usually jumps."
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "Companies want <b>security in one place</b>. This deal combines two big players in cybersecurity."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "wenus-doba",
+   "time": "13:00",
+   "accent": "#FF4FA0",
+   "src": "NASA / Britannica",
+   "caption": "Nie wiedziałeś, że na Wenus doba trwa dłużej niż rok? 🪐\n\nJeden obrót wokół własnej osi zajmuje jej ok. 243 dni ziemskie, a okrążenie Słońca ok. 225 dni. Do tego kręci się w drugą stronę niż Ziemia, więc Słońce wschodzi tam na zachodzie.\n\nWyślij to komuś, komu dzień się dłuży 👇\n\nŹródła: NASA Space Place, Encyclopaedia Britannica\n\n#ciekawostki #kosmos #wenus #nauka #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Na Wenus doba trwa dłużej niż rok",
+     "sub": "I nie, to nie błąd w kalendarzu",
+     "big": "243 dni",
+     "hero": "WENUS",
+     "hero_size": 220
+    },
+    {
+     "kind": "bars",
+     "title": "Co trwa dłużej?",
+     "sub": "w dniach ziemskich",
+     "bars": [
+      [
+       "225 dni",
+       "rok<br>(wokół Słońca)",
+       false
+      ],
+      [
+       "243 dni",
+       "obrót<br>(wokół osi)",
+       true
+      ]
+     ],
+     "note": "Wenus szybciej okrąża Słońce, niż obraca się wokół własnej osi."
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "🌅",
+       "Kręci się w drugą stronę, więc Słońce <b>wschodzi na zachodzie</b>"
+      ],
+      [
+       "⏳",
+       "Od wschodu do wschodu Słońca mija <b>ok. 117 dni</b>"
+      ],
+      [
+       "🔥",
+       "To <b>najgorętsza planeta</b>, choć Merkury jest bliżej Słońca"
+      ]
+     ],
+     "cta": "Wyślij to komuś, komu dzień się dłuży",
+     "cta_small": "U nas poniedziałek trwa tylko 24 h (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_numbers",
+   "slug": "btc",
+   "time": "15:30",
+   "pl": {
+    "tag": "KRYPTO",
+    "date": "24.11.2026",
+    "kicker": "BITCOIN W LICZBACH",
+    "value": "ok. 61&nbsp;000&nbsp;$",
+    "value_label": "stan na 23–24.11",
+    "chart": {
+     "points": [
+      126200,
+      81350,
+      55150,
+      61200
+     ],
+     "labels": [
+      "rekord, paź 2025",
+      "miesiąc temu",
+      "dołek 21.11",
+      "23–24.11"
+     ]
+    },
+    "rows": [
+     [
+      "vs miesiąc temu",
+      "ok. −25%",
+      "dn"
+     ],
+     [
+      "Dołek roku (21.11)",
+      "ok. 55 150 $",
+      "dn"
+     ],
+     [
+      "vs rekord",
+      "ok. −51%",
+      "dn"
+     ]
+    ],
+    "src": "Źródła: Fortune, CoinGlass, Coinpaper",
+    "caption": "Bitcoin trzyma się w okolicach 61 000 $ 📊\n\nW poniedziałek rano (23.11) BTC kosztował ok. 61 100 $, a w nocy na wtorek ok. 61 300 $. W sobotę 21.11 zszedł do ok. 55 150 $, najniżej w tym roku. Miesiąc temu był ok. 25% wyżej, a do rekordu z października 2025 brakuje mu ok. połowy.\n\nŚledzisz krypto czy omijasz szerokim łukiem? 👇\n\nŹródła: Fortune, CoinGlass, Coinpaper\nInformacja, nie porada inwestycyjna.\n\n#bitcoin #btc #krypto #kryptowaluty #rynki"
+   },
+   "en": {
+    "tag": "CRYPTO",
+    "date": "Nov 24, 2026",
+    "kicker": "BITCOIN BY THE NUMBERS",
+    "value": "about $61,000",
+    "value_label": "as of Nov 23–24",
+    "chart": {
+     "points": [
+      126200,
+      81350,
+      55150,
+      61200
+     ],
+     "labels": [
+      "record, Oct 2025",
+      "a month ago",
+      "low, Nov 21",
+      "Nov 23–24"
+     ]
+    },
+    "rows": [
+     [
+      "vs a month ago",
+      "about −25%",
+      "dn"
+     ],
+     [
+      "2026 low (Nov 21)",
+      "about $55,150",
+      "dn"
+     ],
+     [
+      "vs record",
+      "about −51%",
+      "dn"
+     ]
+    ],
+    "src": "Sources: Fortune, CoinGlass, Coinpaper",
+    "caption": "Bitcoin holds around $61,000 📊\n\nOn Monday morning (Nov 23) BTC traded at about $61,100, and overnight into Tuesday at about $61,300. On Saturday, Nov 21, it hit about $55,150, its lowest level this year. It's about 25% below where it was a month ago and roughly half its October 2025 record.\n\nDo you follow crypto or avoid it? 👇\n\nSources: Fortune, CoinGlass, Coinpaper\nInformation, not financial advice.\n\n#bitcoin #btc #crypto #cryptocurrency #markets"
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "pizza-polmaraton",
+   "time": "17:00",
+   "accent": "#3EE6C1",
+   "src": "UPI / FOX23",
+   "caption": "Przebiegł półmaraton z pizzą w ręce 🍕🏃\n\nBiegacz z Teksasu niósł 16-calową pizzę przez cały półmaraton Route 66 w Tulsie (USA) i skończył w 1:44:40. Celował w rekord Guinnessa w najszybszym półmaratonie z pizzą. Rekord czeka jeszcze na weryfikację.\n\nWyślij to komuś, kto nie dzieli się pizzą 👇\n\nŹródła: UPI, FOX23\n\n#ciekawostki #pizza #bieganie #rekord #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Przebiegł półmaraton z pizzą w ręce",
+     "sub": "I chce za to rekord Guinnessa",
+     "emoji": "🍕",
+     "big": "1:44:40",
+     "tags": [
+      [
+       "🇺🇸",
+       "Tulsa, USA"
+      ],
+      [
+       "🍕",
+       "16 cali"
+      ],
+      [
+       "🏃",
+       "21,1 km"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Jak to było?",
+     "rows": [
+      [
+       "🏃",
+       "Biegacz z Teksasu niósł <b>16-calową pizzę</b> przez cały bieg"
+      ],
+      [
+       "📍",
+       "Półmaraton <b>Route 66</b> w Tulsie, 22 listopada"
+      ],
+      [
+       "⏱️",
+       "Czas: <b>1:44:40</b>, a cel to mniej niż 1:45:00"
+      ],
+      [
+       "📜",
+       "Rekord <b>czeka na weryfikację</b> Guinnessa"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto nie dzieli się pizzą",
+     "cta_small": "Pizza na mecie była już zimna (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "gus-przemysl",
+   "time": "19:30",
+   "pl": {
+    "tag": "GOSPODARKA",
+    "date": "24.11.2026",
+    "mood": "down",
+    "src": "Źródła: GUS via Parkiet, CEO.com.pl, Forex Club, 26. Piętro, Finwire",
+    "caption": "Polski przemysł prawie stanął 🏭\n\nWedług GUS produkcja przemysłowa w październiku wzrosła tylko o 0,1% rok do roku. Ekonomiści czekali na ok. 2,7–2,8%. Budownictwo spadło o 9,3%, a ceny w fabrykach (PPI) wzrosły o 8,0%. Przeciętna płaca w firmach: 9405,19 zł, +6,1%.\n\nPrzesuń 👉\n\nŹródła: GUS via Parkiet, CEO.com.pl, Forex Club, 26. Piętro, Finwire\nInformacja, nie porada inwestycyjna.\n\n#gospodarka #gus #polska #przemysl #biznes",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "POLSKA",
+      "title": "Polski przemysł prawie stanął w październiku",
+      "big": "+0,1%",
+      "big_label": "produkcja przemysłowa r/r",
+      "down": true
+     },
+     {
+      "kind": "bars",
+      "title": "Produkcja r/r",
+      "a_label": "prognoza",
+      "a_value": "ok. 2,8%",
+      "a": 2.8,
+      "b_label": "wynik",
+      "b_value": "0,1%",
+      "b": 0.1,
+      "note": "Ekonomiści spodziewali się wyraźnie więcej."
+     },
+     {
+      "kind": "bullets",
+      "title": "Inne dane GUS za październik",
+      "items": [
+       "Budownictwo: <b>−9,3%</b> r/r",
+       "Ceny w fabrykach (PPI): <b>+8,0%</b> r/r",
+       "Przeciętna płaca: <b>9405,19 zł</b>, +6,1%",
+       "Zatrudnienie: <b>−0,7%</b> r/r"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Słaby przemysł i budownictwo to sygnał, że <b>gospodarka zwalnia</b>. Ekonomiści wskazują m.in. na wygasające inwestycje z KPO."
+     }
+    ]
+   },
+   "en": {
+    "tag": "ECONOMY",
+    "date": "Nov 24, 2026",
+    "mood": "down",
+    "src": "Sources: Statistics Poland (GUS) via Parkiet, CEO.com.pl, Forex Club, 26. Piętro, Finwire",
+    "caption": "Polish industry nearly stalled 🏭\n\nAccording to Statistics Poland (GUS), industrial output rose just 0.1% year on year in October. Economists expected about 2.7–2.8%. Construction fell 9.3%, while factory-gate prices (PPI) rose 8.0%. Average corporate wage: 9,405.19 zł, +6.1%.\n\nSwipe 👉\n\nSources: GUS via Parkiet, CEO.com.pl, Forex Club, 26. Piętro, Finwire\nInformation, not financial advice.\n\n#poland #economy #industry #business #europe",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "POLAND",
+      "title": "Polish industry nearly stalled in October",
+      "big": "+0.1%",
+      "big_label": "industrial output y/y",
+      "down": true
+     },
+     {
+      "kind": "bars",
+      "title": "Output y/y",
+      "a_label": "forecast",
+      "a_value": "about 2.8%",
+      "a": 2.8,
+      "b_label": "actual",
+      "b_value": "0.1%",
+      "b": 0.1,
+      "note": "Economists expected much more."
+     },
+     {
+      "kind": "bullets",
+      "title": "Other GUS data for October",
+      "items": [
+       "Construction: <b>−9.3%</b> y/y",
+       "Factory prices (PPI): <b>+8.0%</b> y/y",
+       "Average wage: <b>9,405.19 zł</b>, +6.1%",
+       "Employment: <b>−0.7%</b> y/y"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "Weak industry and construction signal that <b>the economy is slowing</b>. Economists point to fading EU recovery fund (KPO) projects."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "kotka-pomnik",
+   "time": "20:30",
+   "accent": "#7CFF4F",
+   "src": "BBC / Egyptian Gazette",
+   "caption": "Miasto postawiło kotce pomnik z brązu. Kotka nie przyszła na odsłonięcie 🐈🗿\n\nSusie to słynna kotka-włóczykij z Dorchester w Anglii. Zagląda do pubów i sklepów, ma fanów na Facebooku i nawet własną książkę. W niedzielę odsłonięto jej pomnik naturalnej wielkości. A ona? Chowała się przed deszczem w pobliskim markecie.\n\nWyślij to komuś, kto spóźnia się na własne imprezy 👇\n\nŹródła: BBC, Egyptian Gazette\n\n#koty #ciekawostki #anglia #kot #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Miasto postawiło kotce pomnik z brązu",
+     "sub": "A ona nie przyszła na odsłonięcie",
+     "emoji": "🐈",
+     "tags": [
+      [
+       "🇬🇧",
+       "Dorchester"
+      ],
+      [
+       "🗿",
+       "brąz"
+      ],
+      [
+       "🌧️",
+       "deszcz"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Kim jest Susie?",
+     "rows": [
+      [
+       "🐈",
+       "Kotka-włóczykij z <b>Dorchester</b> w Anglii"
+      ],
+      [
+       "🍺",
+       "Zagląda do <b>pubów, sklepów i marketów</b>"
+      ],
+      [
+       "📘",
+       "Ma fanów na Facebooku i <b>własną książkę</b>"
+      ],
+      [
+       "🗿",
+       "Dostała <b>pomnik naturalnej wielkości</b>"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "A na odsłonięciu…",
+     "rows": [
+      [
+       "🌧️",
+       "Padał deszcz, a Susie <b>nie dotarła</b>"
+      ],
+      [
+       "🛒",
+       "Przeczekała go <b>w pobliskim markecie</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto spóźnia się na własne imprezy",
+     "cta_small": "Gwiazda nie musi przychodzić (chyba)"
+    }
+   ]
+  }
+ ]
+}
