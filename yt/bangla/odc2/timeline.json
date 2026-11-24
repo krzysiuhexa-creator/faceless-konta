@@ -1,0 +1,1046 @@
+{
+ "total": 319.592,
+ "frags": [
+  {
+   "id": 1,
+   "text": "W 1925 roku w Paryżu ktoś sprzedał Wieżę Eiffla. Na złom.",
+   "t0": 0.6,
+   "t1": 7.01,
+   "map": [
+    [
+     0,
+     48,
+     0.6,
+     5.97676
+    ],
+    [
+     49,
+     57,
+     6.39771,
+     7.0100299999999995
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 2,
+   "text": "Problem: wieża nie należała do niego. A człowiek, który ją sprzedał, nie był nawet urzędnikiem, za którego się podawał.",
+   "t0": 7.51,
+   "t1": 15.619,
+   "map": [
+    [
+     0,
+     9,
+     7.5100299999999995,
+     7.936829999999999
+    ],
+    [
+     9,
+     38,
+     8.43703,
+     10.47266
+    ],
+    [
+     38,
+     69,
+     10.87116,
+     12.546759999999999
+    ],
+    [
+     69,
+     119,
+     12.842659999999999,
+     15.619139999999998
+    ]
+   ],
+   "mode": "interp (3z/4k)"
+  },
+  {
+   "id": 3,
+   "text": "I to jeszcze nie koniec. Bo ten facet sprzedał wieżę dwa razy.",
+   "t0": 16.119,
+   "t1": 20.531,
+   "map": [
+    [
+     0,
+     24,
+     16.119139999999998,
+     17.40644
+    ],
+    [
+     25,
+     62,
+     17.72244,
+     20.530649999999998
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 4,
+   "text": "Dziś historia Victora Lustiga. Człowieka, którego nazywano najgładszym oszustem w historii.",
+   "t0": 21.031,
+   "t1": 27.661,
+   "map": [
+    [
+     0,
+     30,
+     21.030649999999998,
+     23.36865
+    ],
+    [
+     31,
+     91,
+     23.75295,
+     27.661279999999998
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 5,
+   "text": "Victor Lustig urodził się w 1890 roku w Austro-Węgrzech, w miasteczku, które dziś leży w Czechach. Przynajmniej tak twierdził. Bo z Lustigiem nigdy nic nie było pewne.",
+   "t0": 28.591,
+   "t1": 40.884,
+   "map": [
+    [
+     0,
+     71,
+     28.591279999999998,
+     33.436679999999996
+    ],
+    [
+     71,
+     99,
+     33.746480000000005,
+     36.00828
+    ],
+    [
+     99,
+     127,
+     36.45218,
+     37.736180000000004
+    ],
+    [
+     127,
+     167,
+     38.147279999999995,
+     40.883892
+    ]
+   ],
+   "mode": "interp (3z/4k)"
+  },
+  {
+   "id": 6,
+   "text": "Używał dziesiątek nazwisk. Kazał się nazywać hrabią. Mówił w kilku językach i ubierał się jak milioner.",
+   "t0": 41.384,
+   "t1": 48.48,
+   "map": [
+    [
+     0,
+     26,
+     41.383891999999996,
+     43.114991999999994
+    ],
+    [
+     27,
+     52,
+     43.36729199999999,
+     44.88889199999999
+    ],
+    [
+     53,
+     103,
+     45.08349199999999,
+     48.480069
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 7,
+   "text": "Policja w aktach podawała, że naprawdę nazywał się Robert Miller. Ale nawet tego do końca nie wiadomo.",
+   "t0": 48.98,
+   "t1": 55.882,
+   "map": [
+    [
+     0,
+     27,
+     48.980069,
+     50.614768999999995
+    ],
+    [
+     27,
+     66,
+     50.806369,
+     53.315469
+    ],
+    [
+     66,
+     102,
+     53.746568999999994,
+     55.881925
+    ]
+   ],
+   "mode": "interp (2z/3k)"
+  },
+  {
+   "id": 8,
+   "text": "Jest maj 1925 roku. Lustig czyta w Paryżu gazetę. Artykuł mówi, że utrzymanie Wieży Eiffla kosztuje majątek.",
+   "t0": 56.812,
+   "t1": 67.064,
+   "map": [
+    [
+     0,
+     19,
+     56.811925,
+     60.002025
+    ],
+    [
+     20,
+     49,
+     60.463825,
+     62.344525000000004
+    ],
+    [
+     50,
+     108,
+     62.86172500000001,
+     67.06422699999999
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 9,
+   "text": "I trzeba wiedzieć jedno: wieża miała stać tylko dwadzieścia lat. Uratowało ją radio. Więc w 1925 roku pomysł, że Paryż chce się jej pozbyć, wcale nie brzmiał absurdalnie.",
+   "t0": 67.564,
+   "t1": 81.324,
+   "map": [
+    [
+     0,
+     25,
+     67.564227,
+     68.85132700000001
+    ],
+    [
+     25,
+     65,
+     69.216727,
+     71.792827
+    ],
+    [
+     65,
+     85,
+     72.260727,
+     73.68082700000001
+    ],
+    [
+     85,
+     119,
+     74.09912700000001,
+     76.82132700000001
+    ],
+    [
+     119,
+     150,
+     77.02242700000001,
+     79.27352700000002
+    ],
+    [
+     150,
+     170,
+     79.60332700000001,
+     81.32353900000001
+    ]
+   ],
+   "mode": "interp (4z/6k)"
+  },
+  {
+   "id": 10,
+   "text": "Lustig zamawia u fałszerza papier firmowy z rządowymi pieczątkami. I pisze listy do sześciu największych handlarzy złomem w Paryżu.",
+   "t0": 81.824,
+   "t1": 90.542,
+   "map": [
+    [
+     0,
+     66,
+     81.82353900000003,
+     85.92113900000003
+    ],
+    [
+     67,
+     131,
+     86.36843900000002,
+     90.54180300000003
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 11,
+   "text": "Przedstawia się jako wicedyrektor w ministerstwie poczt i telegrafów. Zaprasza ich na tajne spotkanie do jednego z najdroższych hoteli w mieście, Hôtel de Crillon.",
+   "t0": 91.042,
+   "t1": 101.689,
+   "map": [
+    [
+     0,
+     70,
+     91.04180300000004,
+     95.19540300000004
+    ],
+    [
+     70,
+     146,
+     95.59360300000003,
+     100.29510300000004
+    ],
+    [
+     146,
+     163,
+     100.70610300000004,
+     101.68922100000003
+    ]
+   ],
+   "mode": "interp (2z/3k)"
+  },
+  {
+   "id": 12,
+   "text": "Na spotkaniu mówi: rząd chce sprzedać Wieżę Eiffla na złom. Ponad siedem tysięcy ton żelaza dla tego, kto da najwięcej.",
+   "t0": 102.189,
+   "t1": 110.707,
+   "map": [
+    [
+     0,
+     18,
+     102.18922100000005,
+     103.25322100000005
+    ],
+    [
+     19,
+     59,
+     103.63822100000006,
+     106.15422100000005
+    ],
+    [
+     60,
+     119,
+     106.55222100000005,
+     110.70735500000005
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 13,
+   "text": "Ale sza. Jak ludzie się dowiedzą, będzie afera. Dlatego wszystko jest tajne.",
+   "t0": 111.207,
+   "t1": 117.124,
+   "map": [
+    [
+     0,
+     8,
+     111.20735500000006,
+     112.04835500000007
+    ],
+    [
+     9,
+     47,
+     112.43735500000007,
+     114.76435500000007
+    ],
+    [
+     48,
+     76,
+     115.06135500000008,
+     117.12398100000007
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 14,
+   "text": "Potem zabiera ich limuzyną na wycieczkę po wieży. A sam patrzy, który z handlarzy połknie haczyk najmocniej.",
+   "t0": 117.624,
+   "t1": 124.821,
+   "map": [
+    [
+     0,
+     49,
+     117.62398100000009,
+     120.53498100000009
+    ],
+    [
+     50,
+     108,
+     120.85898100000009,
+     124.82060700000007
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 15,
+   "text": "Wybiera jednego: nowego w Paryżu, trochę niepewnego siebie, który bardzo chce dołączyć do wielkich graczy.",
+   "t0": 125.751,
+   "t1": 132.994,
+   "map": [
+    [
+     0,
+     16,
+     125.75060700000004,
+     126.90360700000006
+    ],
+    [
+     17,
+     106,
+     127.23860700000004,
+     132.99372300000005
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 16,
+   "text": "Handlarz zadaje dużo pytań. Coś mu nie pasuje. I tu Lustig robi najbardziej genialną rzecz w tej historii.",
+   "t0": 133.494,
+   "t1": 140.984,
+   "map": [
+    [
+     0,
+     27,
+     133.49372300000005,
+     135.31872300000003
+    ],
+    [
+     28,
+     46,
+     135.75672300000005,
+     136.81472300000004
+    ],
+    [
+     47,
+     106,
+     137.13572300000004,
+     140.98367500000003
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 17,
+   "text": "Mówi mu: wie pan, urzędnik zarabia mało, a decyzja jest bardzo duża. I czeka.",
+   "t0": 141.484,
+   "t1": 148.173,
+   "map": [
+    [
+     0,
+     9,
+     141.483675,
+     142.05767500000002
+    ],
+    [
+     9,
+     18,
+     142.47367500000001,
+     142.92167500000002
+    ],
+    [
+     18,
+     41,
+     143.29267500000003,
+     144.81967500000002
+    ],
+    [
+     41,
+     69,
+     145.04867500000003,
+     146.98267500000003
+    ],
+    [
+     69,
+     77,
+     147.61767500000002,
+     148.17304700000003
+    ]
+   ],
+   "mode": "interp (3z/5k)"
+  },
+  {
+   "id": 18,
+   "text": "Handlarz rozumie: chodzi o łapówkę. I nagle wszystko się zgadza. Bo kto prosi o łapówkę? No przecież prawdziwy urzędnik.",
+   "t0": 148.673,
+   "t1": 157.703,
+   "map": [
+    [
+     0,
+     17,
+     148.673047,
+     149.713047
+    ],
+    [
+     18,
+     35,
+     150.01504699999998,
+     151.178047
+    ],
+    [
+     36,
+     64,
+     151.567047,
+     153.502047
+    ],
+    [
+     65,
+     88,
+     153.784047,
+     155.305047
+    ],
+    [
+     89,
+     120,
+     155.641047,
+     157.702562
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 19,
+   "text": "Płaci za wieżę i daje łapówkę. Według różnych źródeł chodziło o około siedemdziesiąt tysięcy franków, czyli dziś ponad ćwierć miliona dolarów.",
+   "t0": 158.203,
+   "t1": 167.859,
+   "map": [
+    [
+     0,
+     15,
+     158.20256199999997,
+     159.193562
+    ],
+    [
+     15,
+     31,
+     159.37756199999998,
+     160.42256199999997
+    ],
+    [
+     31,
+     142,
+     160.61356199999997,
+     167.85914199999996
+    ]
+   ],
+   "mode": "interp (2z/3k)"
+  },
+  {
+   "id": 20,
+   "text": "A Lustig? Chwilę później siedzi w pociągu do Wiednia. Z walizką pełną gotówki.",
+   "t0": 168.359,
+   "t1": 173.842,
+   "map": [
+    [
+     0,
+     9,
+     168.35914199999993,
+     168.97614199999995
+    ],
+    [
+     10,
+     53,
+     169.37414199999995,
+     171.76514199999994
+    ],
+    [
+     54,
+     78,
+     172.01514199999994,
+     173.84224199999997
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 21,
+   "text": "Teraz czeka. Codziennie czyta gazety. Nic. Ani słowa.",
+   "t0": 174.772,
+   "t1": 179.461,
+   "map": [
+    [
+     0,
+     12,
+     174.77224199999995,
+     175.63624199999995
+    ],
+    [
+     13,
+     37,
+     176.09424199999995,
+     177.46824199999995
+    ],
+    [
+     38,
+     42,
+     177.95624199999995,
+     178.39924199999993
+    ],
+    [
+     43,
+     53,
+     178.78024199999993,
+     179.46065199999993
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 22,
+   "text": "Bo oszukany handlarz woli milczeć, niż przyznać się, że kupił Wieżę Eiffla od faceta z hotelu.",
+   "t0": 179.961,
+   "t1": 186.106,
+   "map": [
+    [
+     0,
+     53,
+     179.9606519999999,
+     183.2016519999999
+    ],
+    [
+     53,
+     94,
+     183.46565199999992,
+     186.1064219999999
+    ]
+   ],
+   "mode": "interp (1z/2k)"
+  },
+  {
+   "id": 23,
+   "text": "Więc Lustig robi coś, czego normalny człowiek by nie zrobił: wraca do Paryża. I sprzedaje wieżę jeszcze raz.",
+   "t0": 186.606,
+   "t1": 193.997,
+   "map": [
+    [
+     0,
+     60,
+     186.60642199999987,
+     190.01742199999987
+    ],
+    [
+     61,
+     77,
+     190.43142199999988,
+     191.5464219999999
+    ],
+    [
+     78,
+     108,
+     191.9024219999999,
+     193.99699199999986
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 24,
+   "text": "Nowi handlarze, ten sam hotel, ta sama bajka. Tym razem jednak kupujący idzie na policję. Lustig ucieka w ostatniej chwili. Za ocean, do Ameryki.",
+   "t0": 194.497,
+   "t1": 205.016,
+   "map": [
+    [
+     0,
+     16,
+     194.49699199999984,
+     195.48799199999985
+    ],
+    [
+     16,
+     31,
+     195.67199199999985,
+     196.52599199999983
+    ],
+    [
+     31,
+     46,
+     196.72299199999983,
+     197.63099199999985
+    ],
+    [
+     46,
+     90,
+     197.91799199999986,
+     200.68199199999984
+    ],
+    [
+     90,
+     124,
+     201.10299199999986,
+     202.97399199999984
+    ],
+    [
+     124,
+     134,
+     203.26799199999985,
+     203.95499199999983
+    ],
+    [
+     134,
+     145,
+     204.28399199999984,
+     205.01576199999985
+    ]
+   ],
+   "mode": "interp (4z/7k)"
+  },
+  {
+   "id": 25,
+   "text": "Dla uczciwości: źródła nie zgadzają się, czy wrócił po miesiącu, czy po pół roku, i czy druga sprzedaż w ogóle doszła do skutku. Ale z Francji musiał zwiewać.",
+   "t0": 205.516,
+   "t1": 215.93,
+   "map": [
+    [
+     0,
+     15,
+     205.51576199999982,
+     206.40576199999984
+    ],
+    [
+     16,
+     128,
+     206.77676199999982,
+     213.38376199999982
+    ],
+    [
+     129,
+     158,
+     213.83976199999984,
+     215.9296619999998
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 26,
+   "text": "W zapowiedzi mówiliśmy, że wieża to nie jest najdziwniejsze w tej historii. No to proszę.",
+   "t0": 216.86,
+   "t1": 222.192,
+   "map": [
+    [
+     0,
+     75,
+     216.8596619999998,
+     221.0046619999998
+    ],
+    [
+     76,
+     89,
+     221.5146619999998,
+     222.1916919999998
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 27,
+   "text": "W Ameryce Lustig sprzedaje bogaczom skrzynkę, która podobno drukuje studolarówki. Naprawdę w środku czekały schowane prawdziwe banknoty. Zanim klient się zorientował, Lustig był daleko.",
+   "t0": 222.692,
+   "t1": 235.088,
+   "map": [
+    [
+     0,
+     82,
+     222.69169199999976,
+     227.78169199999977
+    ],
+    [
+     82,
+     137,
+     228.20969199999976,
+     231.51569199999977
+    ],
+    [
+     137,
+     167,
+     231.97869199999977,
+     233.62369199999978
+    ],
+    [
+     167,
+     185,
+     233.92769199999978,
+     235.08809199999976
+    ]
+   ],
+   "mode": "interp (3z/4k)"
+  },
+  {
+   "id": 28,
+   "text": "Potem idzie do Ala Capone. Tak, tego Ala Capone. Pożycza od niego pięćdziesiąt tysięcy dolarów. Obiecuje, że za dwa miesiące odda podwójnie.",
+   "t0": 235.588,
+   "t1": 245.437,
+   "map": [
+    [
+     0,
+     27,
+     235.58809199999973,
+     237.34509199999974
+    ],
+    [
+     27,
+     32,
+     237.65509199999974,
+     237.89409199999974
+    ],
+    [
+     32,
+     49,
+     238.21209199999973,
+     239.25409199999973
+    ],
+    [
+     49,
+     96,
+     239.56309199999973,
+     242.21609199999975
+    ],
+    [
+     96,
+     140,
+     242.53609199999974,
+     245.43678199999977
+    ]
+   ],
+   "mode": "interp (4z/5k)"
+  },
+  {
+   "id": 29,
+   "text": "Według relacji pieniędzy w ogóle nie rusza. Po dwóch miesiącach oddaje całe pięćdziesiąt tysięcy i mówi: interes nie wyszedł, przepraszam. Capone jest tak zaskoczony tą uczciwością, że daje mu pięć tysięcy. I o to właśnie chodziło.",
+   "t0": 245.937,
+   "t1": 261.459,
+   "map": [
+    [
+     0,
+     43,
+     245.9367819999998,
+     248.4797819999998
+    ],
+    [
+     44,
+     104,
+     248.81278199999977,
+     252.47178199999976
+    ],
+    [
+     105,
+     138,
+     252.8477819999998,
+     254.54378199999977
+    ],
+    [
+     139,
+     206,
+     254.9847819999998,
+     259.51878199999976
+    ],
+    [
+     207,
+     231,
+     259.91378199999974,
+     261.45921199999975
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 30,
+   "text": "Potem Lustig zaczyna podrabiać dolary. Tak dobre, że Secret Service nazywa je „pieniędzmi Lustiga”.",
+   "t0": 261.959,
+   "t1": 268.565,
+   "map": [
+    [
+     0,
+     38,
+     261.95921199999975,
+     264.2602119999998
+    ],
+    [
+     39,
+     99,
+     264.63921199999976,
+     268.5653319999998
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 31,
+   "text": "W 1935 roku wpada w Nowym Jorku. Dzień przed procesem robi linę z prześcieradeł, wychodzi przez okno aresztu i udaje, że myje okna. Przechodnie patrzą i nic.",
+   "t0": 269.065,
+   "t1": 281.582,
+   "map": [
+    [
+     0,
+     45,
+     269.06533199999984,
+     272.5143319999998
+    ],
+    [
+     45,
+     109,
+     272.8043319999998,
+     277.3813319999998
+    ],
+    [
+     109,
+     132,
+     277.6103319999998,
+     279.21233199999983
+    ],
+    [
+     132,
+     151,
+     279.66633199999984,
+     280.7203319999998
+    ],
+    [
+     151,
+     157,
+     281.0643319999998,
+     281.58240199999983
+    ]
+   ],
+   "mode": "interp (3z/5k)"
+  },
+  {
+   "id": 32,
+   "text": "Łapią go miesiąc później w Pittsburghu. Dostaje dwadzieścia lat. Trafia na Alcatraz.",
+   "t0": 282.082,
+   "t1": 287.71,
+   "map": [
+    [
+     0,
+     39,
+     282.0824019999999,
+     284.2404019999999
+    ],
+    [
+     40,
+     64,
+     284.5544019999999,
+     285.9634019999999
+    ],
+    [
+     65,
+     84,
+     286.2604019999999,
+     287.7097219999999
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 33,
+   "text": "Umiera w 1947 roku. I tu najlepsze. Podobno w jego akcie zgonu, w rubryce zawód, wpisano: praktykant sprzedawcy.",
+   "t0": 288.21,
+   "t1": 298.3,
+   "map": [
+    [
+     0,
+     19,
+     288.20972199999994,
+     291.09372199999996
+    ],
+    [
+     20,
+     35,
+     291.53672199999994,
+     292.51272199999994
+    ],
+    [
+     36,
+     89,
+     292.753722,
+     296.48372199999994
+    ],
+    [
+     90,
+     112,
+     296.779722,
+     298.29951199999994
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 34,
+   "text": "Człowiek, który dwa razy sprzedał Wieżę Eiffla. Praktykant sprzedawcy. Dziwna historia? Nie wiem. Ale bangla.",
+   "t0": 299.23,
+   "t1": 307.494,
+   "map": [
+    [
+     0,
+     47,
+     299.229512,
+     302.029512
+    ],
+    [
+     48,
+     70,
+     302.38451200000003,
+     303.909512
+    ],
+    [
+     71,
+     87,
+     304.419512,
+     305.382512
+    ],
+    [
+     88,
+     97,
+     305.767512,
+     306.14651200000003
+    ],
+    [
+     98,
+     109,
+     306.589512,
+     307.494262
+    ]
+   ],
+   "mode": "zdania"
+  },
+  {
+   "id": 35,
+   "text": "Wyślij to komuś, kto zawsze mówi, że jego nikt nie oszuka. A w następnym odcinku: armia, która wypowiedziała wojnę ptakom. I przegrała.",
+   "t0": 307.994,
+   "t1": 318.352,
+   "map": [
+    [
+     0,
+     58,
+     307.99426200000005,
+     311.97526200000004
+    ],
+    [
+     59,
+     81,
+     312.9522620000001,
+     314.34826200000003
+    ],
+    [
+     82,
+     122,
+     314.7382620000001,
+     317.17226200000005
+    ],
+    [
+     123,
+     135,
+     317.59326200000004,
+     318.35226200000005
+    ]
+   ],
+   "mode": "zdania"
+  }
+ ]
+}

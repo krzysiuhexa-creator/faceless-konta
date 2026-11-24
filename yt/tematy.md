@@ -21,7 +21,7 @@ Automat bierze tematy po kolei, od góry. Krzysiu może skreślić temat (usuną
 ## Nie wiem ale bangla — „Dziwne historie”
 
 - [zrobione odc1] niedźwiedź Wojtek
-- [w toku odc2] Victor Lustig, facet, który sprzedał Wieżę Eiffla
+- [zrobione odc2] Victor Lustig, facet, który sprzedał Wieżę Eiffla
 - armia, która wypowiedziała wojnę ptakom i przegrała — Emu War, Australia 1932 (Britannica, National Geographic)
 - wojna, w której zginęła tylko świnia — Pig War, wyspa San Juan 1859
 - jak ukradziono Mona Lisę i dlaczego dzięki temu stała się sławna — Vincenzo Peruggia, 1911

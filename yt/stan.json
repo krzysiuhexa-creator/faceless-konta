@@ -40,14 +40,7 @@
     "glos": "„Oscar – Energetic, Direct”, Eleven v4",
     "sloty_odcinka": "sobota lub wtorek 18:00",
     "sloty_shortsow": "19:00",
-    "oczekuje": {
-      "odc": 2,
-      "fragmenty": 35,
-      "tytul": "Ten facet sprzedał Wieżę Eiffla. Dwa razy.",
-      "scenariusz": "yt/bangla/odc2/scenariusz.md",
-      "lektor": "yt/bangla/odc2/lektor.txt",
-      "od": "2026-11-21"
-    },
+    "oczekuje": null,
     "odcinki": [
       {
         "odc": 1,
@@ -58,6 +51,23 @@
           436988147,
           436988191
         ]
+      },
+      {
+        "odc": 2,
+        "tytul": "Ten facet sprzedał Wieżę Eiffla. Dwa razy.",
+        "publikacja": "2026-11-28 18:00 (automat, Metricool) – SZKIC do akceptacji: niepewna kwota w F19",
+        "odcinek_metricool": 440034780,
+        "shortsy_metricool": [
+          440035021,
+          440035035,
+          440035058
+        ],
+        "shortsy_daty": [
+          "2026-11-29 19:00",
+          "2026-11-30 19:00",
+          "2026-12-01 19:00"
+        ],
+        "szkic_powod": "F19: '~70 000 franków, dziś ponad ćwierć miliona dolarów' – kwota w źródłach różna (Smithsonian 70 000 $ łącznie, The Hustle 70 000 fr. sama łapówka ≈ 200 tys. €), przelicznika na dolary nie potwierdzono w 2 źródłach"
       }
     ]
   },
@@ -67,6 +77,12 @@
       "kanal": "ukryta-lekcja",
       "odc": 2,
       "data": "2026-11-23"
+    },
+    {
+      "plik": "ElevenLabs_2026-11-22T17_27_35_Oscar - Energetic & Direct_pvc_s49_sim100_v4.mp3",
+      "kanal": "bangla",
+      "odc": 2,
+      "data": "2026-11-24"
     }
   ]
 }
