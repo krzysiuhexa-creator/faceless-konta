@@ -1,0 +1,887 @@
+{
+ "date": "2026-11-25",
+ "posts": [
+  {
+   "type": "ukryta_carousel",
+   "slug": "granice",
+   "time": "08:00",
+   "genre": "karta",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ludovico Einaudi – Una Mattina",
+    "Ólafur Arnalds – Saman"
+   ],
+   "caption": "Każde „tak”, którego nie chcesz, to ciche „nie” dla siebie.\n\nZgadzamy się, bo nie chcemy nikogo zawieść. A potem brakuje nam czasu, sił i miejsca na własne plany.\n\nOdmowa nie jest egoizmem. To szczera informacja o tym, gdzie są twoje granice. Ludzie, którym na tobie zależy, zwykle ją uszanują.\n\nZapisz na dzień, w którym znowu zechcesz powiedzieć „tak” wbrew sobie.\n\n#ukrytalekcja #granice #psychologia #rozwojosobisty #asertywnosc",
+   "slides": [
+    {
+     "img": "ukryta/img/drzwi.jpg",
+     "pos": "center 45%",
+     "fs": 70,
+     "text": [
+      "Każde „tak”, którego nie chcesz,",
+      "to ciche <em>„nie” dla siebie.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "dow-50000",
+   "time": "08:30",
+   "pl": {
+    "tag": "GIEŁDA",
+    "date": "25.11.2026",
+    "src": "Źródła: VistaPGlobal, BigGo Finance, Journalarta, Investrade",
+    "caption": "Dow znów powyżej 50 000 pkt, a Nasdaq w dół 📉📈\n\nWe wtorek 24.11 Dow Jones zyskał 0,85% i zamknął się na 50 018,70 pkt. S&P 500 stracił 0,50%, a Nasdaq 1,48%. Po poniedziałkowym rajdzie spółki od AI i chipów oddały część zysków. Indeks zaufania konsumentów Conference Board wzrósł w listopadzie do 103,3 pkt z 91,9.\n\nPrzesuń 👉\n\nŹródła: VistaPGlobal, BigGo Finance, Journalarta, Investrade\nInformacja, nie porada inwestycyjna.\n\n#gielda #wallstreet #dowjones #nasdaq #rynki",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WALL STREET",
+      "title": "Dow znów powyżej 50&nbsp;000&nbsp;pkt, Nasdaq w dół",
+      "big": "+0,85%",
+      "big_label": "Dow Jones, wtorek 24.11",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Wtorek na Wall Street",
+      "items": [
+       "Dow Jones: <b>50&nbsp;018,70 pkt</b>, +0,85%",
+       "S&P 500: <b>7201,09 pkt</b>, −0,50%",
+       "Nasdaq: <b>23&nbsp;733,54 pkt</b>, −1,48%",
+       "Russell 2000: <b>+0,57%</b>"
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "Zaufanie konsumentów USA",
+      "a_label": "październik",
+      "a_value": "91,9 pkt",
+      "a": 91.9,
+      "b_label": "listopad",
+      "b_value": "103,3 pkt",
+      "b": 103.3,
+      "note": "Indeks Conference Board. Nastroje wyraźnie lepsze."
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Po poniedziałkowym rajdzie spółki od AI i chipów <b>oddały część zysków</b>. Dlatego Nasdaq spadł, a Dow Jones wzrósł."
+     }
+    ]
+   },
+   "en": {
+    "tag": "MARKETS",
+    "date": "Nov 25, 2026",
+    "src": "Sources: VistaPGlobal, BigGo Finance, Journalarta, Investrade",
+    "caption": "The Dow is back above 50,000 while the Nasdaq slips 📉📈\n\nOn Tuesday, Nov 24, the Dow Jones rose 0.85% to close at 50,018.70. The S&P 500 fell 0.50% and the Nasdaq dropped 1.48%. After Monday's rally, AI and chip stocks gave back some of their gains. The Conference Board's consumer confidence index rose to 103.3 in November from 91.9.\n\nSwipe 👉\n\nSources: VistaPGlobal, BigGo Finance, Journalarta, Investrade\nInformation, not financial advice.\n\n#stocks #wallstreet #dowjones #nasdaq #markets",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WALL STREET",
+      "title": "The Dow is back above 50,000 as the Nasdaq slips",
+      "big": "+0.85%",
+      "big_label": "Dow Jones, Tuesday Nov 24",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Tuesday on Wall Street",
+      "items": [
+       "Dow Jones: <b>50,018.70</b>, +0.85%",
+       "S&P 500: <b>7,201.09</b>, −0.50%",
+       "Nasdaq: <b>23,733.54</b>, −1.48%",
+       "Russell 2000: <b>+0.57%</b>"
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "US consumer confidence",
+      "a_label": "October",
+      "a_value": "91.9",
+      "a": 91.9,
+      "b_label": "November",
+      "b_value": "103.3",
+      "b": 103.3,
+      "note": "Conference Board index. A clear jump in mood."
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "After Monday's rally, AI and chip stocks <b>gave back some gains</b>. That's why the Nasdaq fell while the Dow rose."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "shenzhou-24",
+   "time": "09:30",
+   "accent": "#3EE6C1",
+   "src": "AP / Reuters / CBS News / RTÉ",
+   "caption": "Pierwszy zagraniczny astronauta leci na chińską stację kosmiczną 🚀\n\nMisja Shenzhou-24 wystartowała z kosmodromu Jiuquan. Na pokładzie Tang Hongbo i Wu Yi z Chin oraz Muhammad Zeeshan Ali z Pakistanu. Ali będzie pierwszym obcokrajowcem na stacji Tiangong. Tang Hongbo będzie tam już trzeci raz, jako pierwszy w historii.\n\nTeż chcesz polecieć? 👇\n\nŹródła: AP (CBS News, KSAT), Reuters (RTÉ)\n\n#kosmos #chiny #astronauta #nauka #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Pierwszy obcokrajowiec leci na chińską stację",
+     "sub": "Misja Shenzhou-24 już w drodze",
+     "emoji": "🚀",
+     "big": "3 osoby",
+     "tags": [
+      [
+       "🇵🇰",
+       "Pakistan"
+      ],
+      [
+       "🇨🇳",
+       "Chiny"
+      ],
+      [
+       "🛰️",
+       "stacja Tiangong"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Kto leci?",
+     "rows": [
+      [
+       "🇵🇰",
+       "Muhammad Zeeshan Ali, 40 lat, z <b>Pakistanu</b>, pierwszy lot"
+      ],
+      [
+       "🇨🇳",
+       "Tang Hongbo i Wu Yi z <b>Chin</b>"
+      ],
+      [
+       "🥇",
+       "Tang Hongbo jako pierwszy będzie na Tiangong <b>3. raz</b>"
+      ],
+      [
+       "🦠",
+       "Ali zbada m.in. <b>sinice</b>, mikroby z fotosyntezą"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "🤝",
+       "To efekt umowy Chin i Pakistanu z <b>lutego 2025</b>"
+      ],
+      [
+       "↩️",
+       "Ali wróci szybciej, na pokładzie <b>Shenzhou-23</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto chce lecieć w kosmos",
+     "cta_small": "Bilet w kosmos, ale z powrotem (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "dell-ai",
+   "time": "12:00",
+   "pl": {
+    "tag": "BIZNES",
+    "date": "25.11.2026",
+    "src": "Źródła: Dell via FinanceFeeds, Investing.com",
+    "caption": "Dell podwoił przychody dzięki serwerom AI 🖥️\n\nW III kwartale roku finansowego 2027 Dell miał 54,94 mld $ przychodów, o 103% więcej niż rok wcześniej. Zamówienia na serwery AI wyniosły w kwartale 60,2 mld $, a portfel zamówień AI urósł do rekordowych 132,3 mld $. Firma podniosła prognozę rocznych przychodów do 202 mld $ (wcześniej 192 mld $). W samej sesji przed wynikami akcje spadły o ok. 11,8%, po publikacji rosły w handlu posesyjnym.\n\nPrzesuń 👉\n\nŹródła: Dell via FinanceFeeds, Investing.com\nInformacja, nie porada inwestycyjna.\n\n#dell #ai #biznes #gielda #technologia",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "DELL",
+      "title": "Dell podwoił przychody dzięki serwerom AI",
+      "big": "+103%",
+      "big_label": "przychody r/r w kwartale",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Wyniki za III kwartał",
+      "items": [
+       "Przychody: <b>54,94&nbsp;mld&nbsp;$</b>, +103% r/r",
+       "Zysk na akcję (non-GAAP): <b>9,45&nbsp;$</b>",
+       "Zamówienia na serwery AI: <b>60,2&nbsp;mld&nbsp;$</b>",
+       "Portfel zamówień AI: rekordowe <b>132,3&nbsp;mld&nbsp;$</b>"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Co dalej",
+      "items": [
+       "Prognoza na cały rok: <b>202&nbsp;mld&nbsp;$</b> (było 192&nbsp;mld&nbsp;$)",
+       "Prognoza na IV kwartał: ok. <b>56,3&nbsp;mld&nbsp;$</b>"
+      ],
+      "stat": "+10&nbsp;mld&nbsp;$",
+      "stat_label": "wyższa prognoza roczna"
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Wyniki Della pokazują, że firmy wciąż <b>kupują bardzo dużo sprzętu do AI</b>. To sygnał dla całej branży serwerów i chipów."
+     }
+    ]
+   },
+   "en": {
+    "tag": "BUSINESS",
+    "date": "Nov 25, 2026",
+    "src": "Sources: Dell via FinanceFeeds, Investing.com",
+    "caption": "Dell doubled its revenue thanks to AI servers 🖥️\n\nIn Q3 of fiscal 2027, Dell posted $54.94B in revenue, up 103% year on year. AI server orders reached $60.2B in the quarter, and the AI backlog hit a record $132.3B. The company raised its full-year revenue outlook to $202B from $192B. Shares fell about 11.8% in the regular session before the report and rose after hours.\n\nSwipe 👉\n\nSources: Dell via FinanceFeeds, Investing.com\nInformation, not financial advice.\n\n#dell #ai #business #stocks #tech",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "DELL",
+      "title": "Dell doubled its revenue thanks to AI servers",
+      "big": "+103%",
+      "big_label": "quarterly revenue y/y",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Q3 results",
+      "items": [
+       "Revenue: <b>$54.94B</b>, +103% y/y",
+       "EPS (non-GAAP): <b>$9.45</b>",
+       "AI server orders: <b>$60.2B</b>",
+       "AI backlog: a record <b>$132.3B</b>"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "What's next",
+      "items": [
+       "Full-year outlook: <b>$202B</b> (was $192B)",
+       "Q4 outlook: about <b>$56.3B</b>"
+      ],
+      "stat": "+$10B",
+      "stat_label": "higher full-year outlook"
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "Dell's results show companies are still <b>buying huge amounts of AI hardware</b>. That's a signal for the whole server and chip industry."
+     }
+    ]
+   }
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "efekt-reflektora",
+   "time": "12:30",
+   "genre": "historia",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Max Richter – On the Nature of Daylight",
+    "Ludovico Einaudi – Experience"
+   ],
+   "caption": "Myślisz, że wszyscy widzieli twoją wpadkę? Badanie z Cornell mówi coś innego.\n\nW badaniu opublikowanym w 2000 r. Thomas Gilovich i jego zespół prosili studentów, by weszli do sali w koszulce z twarzą piosenkarza Barry'ego Manilowa. Dla ówczesnych studentów był to wstydliwy strój. Uczestnicy szacowali, że koszulkę zauważyła mniej więcej połowa osób. W rzeczywistości zauważyło ją ok. 23%.\n\nPodobnie było z koszulkami, które nikogo nie zawstydzały, np. z Bobem Marleyem. Chodzi więc nie tylko o wstyd, ale o to, jak bardzo skupiamy się na sobie. Znamy każdy swój szczegół, więc zakładamy, że inni też go widzą.\n\nPsychologowie nazwali to efektem reflektora. Inni ludzie zwykle stoją w swoim własnym świetle i myślą o sobie.\n\nWyślij to komuś, kto ciągle myśli, co inni powiedzą.\n\nŹródła: Gilovich, Medvec, Savitsky (2000), Journal of Personality and Social Psychology; Cornell Alumni Magazine; Kellogg School of Management; Psychology Today\n\n#ukrytalekcja #psychologia #efektreflektora #pewnosc #rozwojosobisty",
+   "slides": [
+    {
+     "img": "ukryta/img/koszulka.jpg",
+     "pos": "center 40%",
+     "fs": 70,
+     "text": [
+      "Badacze dali studentowi bardzo wstydliwą koszulkę.",
+      "I kazali w niej <em>wejść do sali.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/koszulka.jpg",
+     "pos": "50% 30%",
+     "zoom": 1.6,
+     "dark": 0.3,
+     "text": [
+      "Na koszulce była wielka twarz Barry'ego Manilowa.",
+      "Dla ówczesnych studentów: wstydliwy wybór."
+     ]
+    },
+    {
+     "img": "ukryta/img/sala.jpg",
+     "pos": "center 50%",
+     "dark": 0.3,
+     "text": [
+      "W sali siedzieli inni studenci i wypełniali ankiety.",
+      "Posiedział chwilę i wyszedł."
+     ]
+    },
+    {
+     "img": "ukryta/img/sala.jpg",
+     "pos": "30% 70%",
+     "zoom": 1.7,
+     "dark": 0.4,
+     "text": [
+      "Potem badacze zapytali:",
+      "„Ile osób zauważyło twoją koszulkę?”"
+     ]
+    },
+    {
+     "img": "ukryta/img/sala.jpg",
+     "pos": "70% 40%",
+     "zoom": 1.4,
+     "dark": 0.5,
+     "fs": 54,
+     "big": "50%",
+     "label": "mniej więcej tyle zgadywał",
+     "big2": "23%",
+     "label2": "tyle naprawdę ją zauważyło",
+     "text": [
+      "Zgadywał, że mniej więcej połowa sali."
+     ]
+    },
+    {
+     "img": "ukryta/img/reflektor.jpg",
+     "pos": "center 40%",
+     "dark": 0.3,
+     "fs": 58,
+     "text": [
+      "Potem sprawdzili koszulki, które nikogo nie zawstydzały, np. z Bobem Marleyem.",
+      "Wynik był podobny."
+     ]
+    },
+    {
+     "img": "ukryta/img/reflektor.jpg",
+     "pos": "50% 15%",
+     "zoom": 1.8,
+     "dark": 0.45,
+     "fs": 58,
+     "text": [
+      "Psychologowie nazwali to <em>efektem reflektora.</em>",
+      "Czujemy, że świeci na nas światło."
+     ]
+    },
+    {
+     "img": "ukryta/img/koszulka.jpg",
+     "pos": "40% 70%",
+     "zoom": 2.0,
+     "dark": 0.5,
+     "fs": 58,
+     "text": [
+      "Tymczasem inni ludzie stoją we własnym świetle.",
+      "I myślą głównie o sobie."
+     ]
+    },
+    {
+     "noimg": true,
+     "fs": 62,
+     "text": [
+      "Ludzie widzą cię dużo mniej, niż myślisz. Twoje wpadki też.",
+      "<em>Wyślij to komuś, kto ciągle myśli, co inni powiedzą.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "voyager-doba",
+   "time": "13:00",
+   "accent": "#FF4FA0",
+   "src": "NASA / ABC News Australia",
+   "caption": "Voyager 1 jest już dobę świetlną od Ziemi 🛰️\n\n18 listopada sonda wystrzelona w 1977 r. przekroczyła granicę jednej doby świetlnej, czyli ok. 25,9 mld km. Sygnał radiowy z Ziemi leci do niej teraz ok. 24 godziny w jedną stronę.\n\nKto odpisuje wolniej niż Voyager? 👇\n\nŹródła: NASA, ABC News Australia\n\n#kosmos #nasa #voyager #ciekawostki #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Voyager 1 jest już dobę świetlną od Ziemi",
+     "sub": "Wiadomość leci do niego cały dzień",
+     "emoji": "🛰️",
+     "big": "24 h",
+     "tags": [
+      [
+       "🚀",
+       "start 1977"
+      ],
+      [
+       "📏",
+       "ok. 25,9 mld km"
+      ],
+      [
+       "⚡",
+       "ok. 61 tys. km/h"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Co to znaczy?",
+     "rows": [
+      [
+       "💡",
+       "Doba świetlna to dystans, który światło pokonuje w <b>24 godziny</b>"
+      ],
+      [
+       "📏",
+       "To ok. <b>25,9 mld km</b>"
+      ],
+      [
+       "📡",
+       "Sygnał z Ziemi leci do sondy <b>ok. doby</b> w jedną stronę"
+      ],
+      [
+       "📅",
+       "Tę granicę Voyager 1 przekroczył <b>18.11.2026</b>"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "🚀",
+       "Leci od <b>1977</b> roku, czyli prawie 50 lat"
+      ],
+      [
+       "⚡",
+       "Porusza się z prędkością ok. <b>61&nbsp;tys.&nbsp;km/h</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto odpisuje wolniej niż Voyager",
+     "cta_small": "Ty też odpisujesz po 24 h (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_numbers",
+   "slug": "btc",
+   "time": "15:30",
+   "pl": {
+    "tag": "KRYPTO",
+    "date": "25.11.2026",
+    "kicker": "BITCOIN W LICZBACH",
+    "value": "ok. 59&nbsp;800&nbsp;$",
+    "value_label": "stan na wieczór 24.11",
+    "chart": {
+     "points": [
+      55150,
+      61300,
+      59800
+     ],
+     "labels": [
+      "dołek 21.11",
+      "noc 23/24.11",
+      "wieczór 24.11"
+     ]
+    },
+    "rows": [
+     [
+      "vs dzień wcześniej",
+      "ok. −2,4%",
+      "dn"
+     ],
+     [
+      "Ethereum",
+      "ok. 1670 $",
+      "dn"
+     ],
+     [
+      "Odpływ z ETF-ów BTC (XI)",
+      "rekord 4,71 mld $",
+      "dn"
+     ]
+    ],
+    "src": "Źródła: Motley Fool, VistaPGlobal, Bitcoin.com News",
+    "caption": "Bitcoin znów poniżej 60 000 $ 📊\n\nWe wtorek wieczorem (24.11) BTC kosztował ok. 59 700–59 900 $, ok. 2,3–2,4% mniej niż dzień wcześniej. Ethereum: ok. 1670 $. Z funduszy ETF na bitcoina odpłynęło w listopadzie już rekordowe 4,71 mld $.\n\nŚledzisz krypto czy omijasz szerokim łukiem? 👇\n\nŹródła: Motley Fool, VistaPGlobal, Bitcoin.com News, Fortune, CoinGlass\nInformacja, nie porada inwestycyjna.\n\n#bitcoin #btc #krypto #kryptowaluty #rynki"
+   },
+   "en": {
+    "tag": "CRYPTO",
+    "date": "Nov 25, 2026",
+    "kicker": "BITCOIN BY THE NUMBERS",
+    "value": "about $59,800",
+    "value_label": "as of Nov 24, evening",
+    "chart": {
+     "points": [
+      55150,
+      61300,
+      59800
+     ],
+     "labels": [
+      "low, Nov 21",
+      "Nov 23/24 night",
+      "Nov 24 evening"
+     ]
+    },
+    "rows": [
+     [
+      "vs a day earlier",
+      "about −2.4%",
+      "dn"
+     ],
+     [
+      "Ethereum",
+      "about $1,670",
+      "dn"
+     ],
+     [
+      "BTC ETF outflows (Nov)",
+      "record $4.71B",
+      "dn"
+     ]
+    ],
+    "src": "Sources: Motley Fool, VistaPGlobal, Bitcoin.com News",
+    "caption": "Bitcoin is back below $60,000 📊\n\nOn Tuesday evening (Nov 24) BTC traded at about $59,700–59,900, roughly 2.3–2.4% lower than a day earlier. Ethereum: about $1,670. Spot bitcoin ETFs have seen a record $4.71B in net outflows so far in November.\n\nDo you follow crypto or avoid it? 👇\n\nSources: Motley Fool, VistaPGlobal, Bitcoin.com News, Fortune, CoinGlass\nInformation, not financial advice.\n\n#bitcoin #btc #crypto #cryptocurrency #markets"
+   }
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "prosba-o-pomoc",
+   "time": "16:30",
+   "genre": "karta",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ólafur Arnalds – Near Light",
+    "Nils Frahm – Says"
+   ],
+   "caption": "Prośba o pomoc to nie słabość.\n\nKiedy sami prosimy, boimy się, że ktoś pomyśli o nas gorzej. A kiedy ktoś prosi nas, zwykle czujemy coś innego: że nam ufa.\n\nPozwól komuś poczuć się potrzebnym. Czasem to dla obu stron najlepsza część dnia.\n\nWyślij to komuś, kto wszystko dźwiga sam.\n\n#ukrytalekcja #psychologia #relacje #rozwojosobisty #zaufanie",
+   "slides": [
+    {
+     "img": "ukryta/img/dlonie.jpg",
+     "pos": "center 50%",
+     "fs": 70,
+     "text": [
+      "Prośba o pomoc to nie słabość.",
+      "To <em>zaufanie</em>, które ktoś może przyjąć."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "avengers-zwiastun",
+   "time": "17:00",
+   "accent": "#FFD21F",
+   "src": "Deadline / Screen Rant / Dark Horizons",
+   "caption": "Finałowy zwiastun Avengers: Doomsday rozbił rekord Disneya 🎬\n\n563 mln wyświetleń w pierwsze 24 godziny. To najchętniej oglądany zwiastun Disneya w historii (poprzedni rekord: 503 mln, wcześniejszy zwiastun tego samego filmu). Na świecie wyżej jest tylko Spider-Man: Brand New Day z 718,6 mln.\n\nJuż widziane? 👇\n\nŹródła: Deadline (via Screen Rant, Dark Horizons, Netflix Junkie)\n\n#avengers #marvel #film #kino #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Zwiastun Avengers: Doomsday pobił rekord Disneya",
+     "sub": "Tyle wyświetleń w 24 godziny",
+     "emoji": "🎬",
+     "big": "563 mln",
+     "tags": [
+      [
+       "🎥",
+       "finałowy zwiastun"
+      ],
+      [
+       "🏆",
+       "rekord Disneya"
+      ],
+      [
+       "🥈",
+       "2. miejsce na świecie"
+      ]
+     ]
+    },
+    {
+     "kind": "bars",
+     "title": "W 24 godziny",
+     "sub": "zwiastuny filmowe",
+     "bars": [
+      [
+       "503 mln",
+       "poprzedni<br>zwiastun",
+       false
+      ],
+      [
+       "563 mln",
+       "finałowy<br>zwiastun",
+       true
+      ],
+      [
+       "718,6 mln",
+       "Spider-Man:<br>Brand New Day",
+       false
+      ]
+     ],
+     "note": "Spider-Man wciąż jest numerem 1 na świecie."
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "📊",
+       "Liczby podał serwis <b>Deadline</b>"
+      ],
+      [
+       "🔁",
+       "Poprzedni rekord Disneya też należał do <b>Doomsday</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto obejrzał go 10 razy",
+     "cta_small": "Część z tych 563 mln to ty (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "gpw-wyprzedaz",
+   "time": "19:30",
+   "pl": {
+    "tag": "GIEŁDA",
+    "date": "25.11.2026",
+    "mood": "down",
+    "src": "Źródła: XYZ.pl, Inwestycje.pl",
+    "caption": "Koniec euforii na GPW 📉\n\nWe wtorek 24.11 WIG20 spadł o 2,74% do 4056,67 pkt, a WIG o 2,41%. Najmocniej tracił KGHM, ok. 9,1%. W dół szły też PGE, Alior i Orlen. Na plusie w WIG20 skończyły tylko CD Projekt i Kruk.\n\nPrzesuń 👉\n\nŹródła: XYZ.pl, Inwestycje.pl\nInformacja, nie porada inwestycyjna.\n\n#gpw #wig20 #gielda #kghm #inwestowanie",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "GPW",
+      "title": "Koniec euforii: WIG20 traci 2,7%, KGHM ok. −9%",
+      "big": "−2,74%",
+      "big_label": "WIG20, wtorek 24.11",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "Najmocniej w dół w WIG20",
+      "items": [
+       "KGHM: <b>ok. −9,1%</b>",
+       "PGE: <b>−6,3%</b>",
+       "Alior: <b>−4,6%</b>",
+       "Orlen: <b>−3,8%</b>"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Cały rynek",
+      "items": [
+       "WIG: <b>152&nbsp;740 pkt</b>, −2,41%",
+       "mWIG40: <b>−1,63%</b>, sWIG80: <b>−1,32%</b>",
+       "Na plusie w WIG20 tylko <b>CD Projekt</b> (+1,5%) i Kruk"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Po poniedziałkowym odbiciu przyszła <b>mocna wyprzedaż</b>, głównie spółek surowcowych, energetycznych i banków."
+     }
+    ]
+   },
+   "en": {
+    "tag": "MARKETS",
+    "date": "Nov 25, 2026",
+    "mood": "down",
+    "src": "Sources: XYZ.pl, Inwestycje.pl",
+    "caption": "The party's over on the Warsaw Stock Exchange 📉\n\nOn Tuesday, Nov 24, the WIG20 fell 2.74% to 4,056.67 and the broad WIG lost 2.41%. Copper miner KGHM dropped about 9.1%, the biggest fall. PGE, Alior and Orlen also slid. Only CD Projekt and Kruk ended higher in the WIG20.\n\nSwipe 👉\n\nSources: XYZ.pl, Inwestycje.pl\nInformation, not financial advice.\n\n#poland #stocks #wig20 #markets #europe",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "POLAND",
+      "title": "Warsaw sell-off: WIG20 −2.7%, KGHM about −9%",
+      "big": "−2.74%",
+      "big_label": "WIG20, Tuesday Nov 24",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "Biggest WIG20 losers",
+      "items": [
+       "KGHM: <b>about −9.1%</b>",
+       "PGE: <b>−6.3%</b>",
+       "Alior: <b>−4.6%</b>",
+       "Orlen: <b>−3.8%</b>"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "The whole market",
+      "items": [
+       "WIG: <b>152,740</b>, −2.41%",
+       "mWIG40: <b>−1.63%</b>, sWIG80: <b>−1.32%</b>",
+       "Only <b>CD Projekt</b> (+1.5%) and Kruk rose in the WIG20"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "After Monday's rebound came a <b>sharp sell-off</b>, led by mining, energy and bank stocks."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "indyki-poscig",
+   "time": "20:30",
+   "accent": "#7CFF4F",
+   "src": "WBTV / NBC Boston",
+   "caption": "Indyki goniły kobietę po osiedlu 🦃\n\nW Newton w stanie Massachusetts kobieta wyszła na spacer i nagle zaczęły ją gonić dzikie indyki. Uciekła do auta przejeżdżającego nieznajomego, który krzyknął „wsiadaj!” i nagrał całą akcję. Według WBTV wygląda na to, że nikt nie ucierpiał. A wszystko tuż przed Świętem Dziękczynienia.\n\nBoisz się bardziej indyków czy gęsi? 👇\n\nŹródła: WBTV, NBC Boston\n\n#indyki #usa #zwierzeta #viral #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Indyki goniły kobietę po osiedlu w USA",
+     "sub": "Uratował ją przypadkowy kierowca",
+     "emoji": "🦃",
+     "tags": [
+      [
+       "📍",
+       "Massachusetts"
+      ],
+      [
+       "🚗",
+       "ucieczka do auta"
+      ],
+      [
+       "📱",
+       "wszystko nagrane"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Co się stało?",
+     "rows": [
+      [
+       "🚶",
+       "Kobieta wyszła na <b>spacer po osiedlu</b> w Newton"
+      ],
+      [
+       "🦃",
+       "Zaczęły ją gonić <b>dzikie indyki</b>"
+      ],
+      [
+       "🚗",
+       "Nieznajomy kierowca krzyknął „wsiadaj!” i <b>nagrał całą akcję</b>"
+      ],
+      [
+       "✅",
+       "Wygląda na to, że <b>nikt nie ucierpiał</b>, ani ludzie, ani indyki"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "🦃",
+       "Wszystko <b>tuż przed Świętem Dziękczynienia</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto boi się gęsi",
+     "cta_small": "Indyki wiedzą, co je czeka w czwartek (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "glaz-na-drodze",
+   "time": "21:00",
+   "genre": "przypowiesc",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ludovico Einaudi – Nuvole Bianche",
+    "Max Richter – Dream 3"
+   ],
+   "caption": "Przypowieść.\n\nPrzeszkody łatwo traktować jak dowód, że świat jest przeciwko nam. Narzekamy, obchodzimy problem dookoła i czekamy, aż ktoś inny go rozwiąże.\n\nAle czasem to właśnie w miejscu największego oporu jest coś, czego szukamy: nowa umiejętność, odwaga, szansa, której nikt inny nie chciał podjąć.\n\nNarzekanie nic nie przesuwa. Działanie, nawet powolne i ciężkie, tak.\n\nWyślij to komuś, kto właśnie pcha swój głaz.\n\n#ukrytalekcja #przypowiesc #psychologia #rozwojosobisty #dzialanie",
+   "slides": [
+    {
+     "img": "ukryta/img/glaz.jpg",
+     "pos": "center 50%",
+     "fs": 70,
+     "text": [
+      "Ktoś położył na drodze ogromny głaz.",
+      "I ukrył się, <em>żeby patrzeć.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/glaz.jpg",
+     "pos": "50% 30%",
+     "zoom": 1.5,
+     "dark": 0.3,
+     "text": [
+      "Według starej opowieści był to król.",
+      "Chciał zobaczyć, kto usunie przeszkodę."
+     ]
+    },
+    {
+     "img": "ukryta/img/glaz.jpg",
+     "pos": "30% 70%",
+     "zoom": 1.9,
+     "dark": 0.4,
+     "text": [
+      "Pierwsi nadjechali bogaci kupcy.",
+      "Ominęli głaz i pojechali dalej."
+     ]
+    },
+    {
+     "img": "ukryta/img/glaz.jpg",
+     "pos": "70% 60%",
+     "zoom": 1.4,
+     "dark": 0.45,
+     "fs": 58,
+     "text": [
+      "Potem dworzanie.",
+      "Głośno narzekali, że król nie dba o drogi. I też go ominęli."
+     ]
+    },
+    {
+     "img": "ukryta/img/pchanie.jpg",
+     "pos": "center 50%",
+     "dark": 0.3,
+     "text": [
+      "Wreszcie szedł chłop z warzywami na targ.",
+      "Odłożył swój ciężar."
+     ]
+    },
+    {
+     "img": "ukryta/img/pchanie.jpg",
+     "pos": "45% 45%",
+     "zoom": 1.7,
+     "dark": 0.4,
+     "text": [
+      "Długo pchał, aż zepchnął głaz na pobocze.",
+      "<em>Nikt mu nie pomógł.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/sakiewka.jpg",
+     "pos": "center 55%",
+     "dark": 0.3,
+     "text": [
+      "Tam, gdzie leżał kamień, znalazł sakiewkę ze złotem."
+     ]
+    },
+    {
+     "img": "ukryta/img/sakiewka.jpg",
+     "pos": "45% 70%",
+     "zoom": 1.8,
+     "dark": 0.5,
+     "text": [
+      "W środku był liścik od króla:",
+      "„Dla tego, kto usunie głaz z drogi”."
+     ]
+    },
+    {
+     "noimg": true,
+     "fs": 60,
+     "text": [
+      "Każda przeszkoda może być szansą.",
+      "Ale tylko dla tych, którzy zamiast narzekać, działają.",
+      "<em>Wyślij to komuś, kto właśnie pcha swój głaz.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bangla_photo",
+   "slug": "pierwsza-zima",
+   "accent": "#FF8A3D",
+   "title": "Zima przyszła na serio",
+   "sub": "W górach do 20 cm śniegu, nocą mróz",
+   "src": "IMGW via Trybuna Polska, wBieszczady, Super Express",
+   "caption": "No i jest. Pierwsza prawdziwa zima ❄️\n\nIMGW ostrzegało przed intensywnymi opadami śniegu w Beskidach, Tatrach i Bieszczadach: 10–15 cm, lokalnie do 20 cm. Do tego oblodzenie, a w nocy na Podhalu i pogórzu mróz do ok. −8°C.\n\nU ciebie już biało? 👇\n\nŹródła: IMGW via Trybuna Polska, wBieszczady, Super Express, Warszawa w Pigułce\n\n#zima #snieg #pogoda #polska #niewiemalebangla",
+   "photo_hint": "Twoje własne zdjęcie śniegu: zaśnieżona ulica, auto pod czapą śniegu, szron na szybie albo widok z okna. Bez rozpoznawalnych twarzy."
+  }
+ ]
+}
