@@ -1,0 +1,718 @@
+{
+ "date": "2026-11-26",
+ "posts": [
+  {
+   "type": "ukryta_carousel",
+   "slug": "pod-gore",
+   "time": "08:00",
+   "genre": "karta",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ludovico Einaudi – Experience",
+    "Ólafur Arnalds – Saman"
+   ],
+   "caption": "To, że jest trudno, nie znaczy, że idziesz złą drogą.\n\nŁatwo pomylić wysiłek z błędem. Kiedy coś idzie ciężko, pierwsza myśl brzmi: „może to nie dla mnie”.\n\nA przecież pod górę zawsze idzie się wolniej. Zmęczenie często oznacza tylko, że wchodzisz wyżej niż wczoraj.\n\nZapisz na dzień, w którym zechcesz zawrócić w połowie drogi.\n\n#ukrytalekcja #psychologia #rozwojosobisty #motywacja #wytrwalosc",
+   "slides": [
+    {
+     "img": "ukryta/img/gora.jpg",
+     "pos": "center 50%",
+     "fs": 70,
+     "text": [
+      "To, że jest trudno,",
+      "nie znaczy, że idziesz <em>złą drogą.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "wall-street-zwrot",
+   "time": "08:30",
+   "pl": {
+    "tag": "GIEŁDA",
+    "date": "26.11.2026",
+    "src": "Źródła: AP, Motley Fool, KuCoin News, Benzinga",
+    "caption": "Dow tracił ponad 1100 pkt, a zamknął się na plusie 📈\n\nW środę 25.11 Dow Jones w ciągu dnia spadał o ponad 1100 pkt. Na zamknięciu: +0,33%, 50 182,95 pkt. S&P 500 stracił 0,25%, Nasdaq 0,62%. Inflacja PCE w październiku: 3,8% r/r, bazowa 3,3%. PKB USA za III kwartał zrewidowano w górę do 4,3%. W czwartek giełdy w USA są zamknięte (Święto Dziękczynienia).\n\nPrzesuń 👉\n\nŹródła: AP, Motley Fool, KuCoin News, Benzinga, Boston Report, SMM\nInformacja, nie porada inwestycyjna.\n\n#gielda #wallstreet #dowjones #inflacja #rynki",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WALL STREET",
+      "title": "Dow tracił ponad 1100&nbsp;pkt, a skończył na plusie",
+      "big": "+0,33%",
+      "big_label": "Dow Jones, środa 25.11",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Środa na Wall Street",
+      "items": [
+       "Dow Jones: <b>50&nbsp;182,95 pkt</b>, +0,33%",
+       "S&P 500: <b>7182,78 pkt</b>, −0,25%",
+       "Nasdaq: <b>23&nbsp;585,80 pkt</b>, −0,62%",
+       "W ciągu dnia Dow tracił <b>ponad 1100 pkt</b>"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Dane z USA",
+      "items": [
+       "Inflacja PCE (X): <b>3,8% r/r</b>",
+       "Bazowa PCE: <b>3,3% r/r</b>",
+       "PKB za III kw.: <b>4,3%</b> (wcześniej 3,4%)",
+       "Wnioski o zasiłek: <b>189 tys.</b>"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Rynek bał się <b>gorącej inflacji</b> i wycen spółek AI, ale przed świętem odkupił spadki. W czwartek giełdy w USA są zamknięte."
+     }
+    ]
+   },
+   "en": {
+    "tag": "MARKETS",
+    "date": "Nov 26, 2026",
+    "src": "Sources: AP, Motley Fool, KuCoin News, Benzinga",
+    "caption": "The Dow was down over 1,100 points, then closed higher 📈\n\nOn Wednesday, Nov 25, the Dow Jones fell more than 1,100 points intraday. At the close: +0.33% to 50,182.95. The S&P 500 lost 0.25% and the Nasdaq 0.62%. October PCE inflation came in at 3.8% y/y, core at 3.3%. Q3 US GDP was revised up to 4.3%. US markets are closed on Thursday for Thanksgiving.\n\nSwipe 👉\n\nSources: AP, Motley Fool, KuCoin News, Benzinga, Boston Report, SMM\nInformation, not financial advice.\n\n#stocks #wallstreet #dowjones #inflation #markets",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WALL STREET",
+      "title": "The Dow erased a 1,100-point drop and closed higher",
+      "big": "+0.33%",
+      "big_label": "Dow Jones, Wednesday Nov 25",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Wednesday on Wall Street",
+      "items": [
+       "Dow Jones: <b>50,182.95</b>, +0.33%",
+       "S&P 500: <b>7,182.78</b>, −0.25%",
+       "Nasdaq: <b>23,585.80</b>, −0.62%",
+       "Intraday, the Dow was down <b>over 1,100 pts</b>"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "US data",
+      "items": [
+       "PCE inflation (Oct): <b>3.8% y/y</b>",
+       "Core PCE: <b>3.3% y/y</b>",
+       "Q3 GDP: <b>4.3%</b> (was 3.4%)",
+       "Jobless claims: <b>189K</b>"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "Markets feared <b>hot inflation</b> and AI valuations, but bought the dip before the holiday. US markets are closed on Thursday."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "parada-macys",
+   "time": "09:30",
+   "accent": "#FFD21F",
+   "src": "CBS New York / KOMO / Yahoo News / PopCulture",
+   "caption": "Najsłynniejsza parada w USA przełożona przez pogodę 🎈\n\n100. parada Macy's na Święto Dziękczynienia miała przejść przez Nowy Jork dziś, w czwartek. Przez sztorm przeniesiono ją na sobotę 28.11. To pierwszy raz w historii, gdy paradę przełożono z powodu pogody. Odbywa się od 1924 r., a przerwę miała tylko w latach 1942–1944.\n\nOglądałeś kiedyś tę paradę? 👇\n\nŹródła: CBS New York, KOMO, Yahoo News, PopCulture, SecretNYC\n\n#nowyjork #parada #usa #ciekawostki #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Słynna parada w Nowym Jorku przełożona przez pogodę",
+     "sub": "100. parada Macy's dopiero w sobotę",
+     "emoji": "🎈",
+     "big": "100.",
+     "tags": [
+      [
+       "🌧️",
+       "sztorm"
+      ],
+      [
+       "🗽",
+       "Nowy Jork"
+      ],
+      [
+       "🦃",
+       "Święto Dziękczynienia"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Co się stało?",
+     "rows": [
+      [
+       "📅",
+       "Parada miała iść w czwartek 26.11, przeniesiono ją na <b>sobotę 28.11</b>"
+      ],
+      [
+       "🌧️",
+       "Powód: sztorm. <b>Pierwszy raz</b> w historii przez pogodę"
+      ],
+      [
+       "🕰️",
+       "Idzie co roku od <b>1924</b>, przerwa tylko w latach 1942–1944"
+      ],
+      [
+       "🎈",
+       "W tym roku rekordowe <b>100</b> balonów i platform"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "💨",
+       "Wielkie balony nie lecą, gdy wiatr ma ponad <b>37 km/h</b> albo porywy ponad <b>55 km/h</b>"
+      ],
+      [
+       "🐶",
+       "Nowe balony to m.in. <b>Bluey</b> i <b>Hello Kitty</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto ogląda paradę co roku",
+     "cta_small": "Balony też mają wolne w czwartek (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "hp-wyniki",
+   "time": "12:00",
+   "pl": {
+    "tag": "BIZNES",
+    "date": "26.11.2026",
+    "src": "Źródła: QuantisNow, StartupFortune, Motley Fool, KuCoin News",
+    "caption": "Akcje HP w górę o ponad 11% po wynikach 🖨️\n\nHP Inc. pokazało kwartalne przychody 16,0 mld $ (+9,3% r/r) i skorygowany zysk na akcję 0,83 $. To więcej, niż firma sama zapowiadała (0,69–0,79 $). Na rok finansowy 2027 HP prognozuje zysk 3,15–3,45 $ na akcję. W środę akcje zyskały ok. 11,4%.\n\nPrzesuń 👉\n\nŹródła: QuantisNow, StartupFortune, Motley Fool, KuCoin News\nInformacja, nie porada inwestycyjna.\n\n#hp #biznes #gielda #wyniki #technologia",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "HP INC.",
+      "title": "Akcje HP w górę po lepszych wynikach",
+      "big": "+11,4%",
+      "big_label": "akcje HP w środę 25.11",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Wyniki za kwartał",
+      "items": [
+       "Przychody: <b>16,0&nbsp;mld&nbsp;$</b>, +9,3% r/r",
+       "Zysk na akcję (skoryg.): <b>0,83&nbsp;$</b>",
+       "Zapowiedź firmy: było <b>0,69–0,79&nbsp;$</b>"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Co dalej",
+      "items": [
+       "Prognoza zysku na rok fin. 2027: <b>3,15–3,45&nbsp;$</b> na akcję"
+      ],
+      "stat": "0,83&nbsp;$",
+      "stat_label": "zysk na akcję w kwartale"
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "HP pobiło <b>własne zapowiedzi</b>. W tygodniu, gdy rynek boi się o wyceny technologii, to rzadka dobra wiadomość."
+     }
+    ]
+   },
+   "en": {
+    "tag": "BUSINESS",
+    "date": "Nov 26, 2026",
+    "src": "Sources: QuantisNow, StartupFortune, Motley Fool, KuCoin News",
+    "caption": "HP shares jump over 11% after earnings 🖨️\n\nHP Inc. reported quarterly revenue of $16.0B (+9.3% y/y) and adjusted EPS of $0.83, above its own guidance of $0.69–0.79. For fiscal 2027, HP guides EPS of $3.15–3.45. The stock rose about 11.4% on Wednesday.\n\nSwipe 👉\n\nSources: QuantisNow, StartupFortune, Motley Fool, KuCoin News\nInformation, not financial advice.\n\n#hp #business #stocks #earnings #tech",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "HP INC.",
+      "title": "HP shares jump after a strong quarter",
+      "big": "+11.4%",
+      "big_label": "HP stock, Wednesday Nov 25",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Quarterly results",
+      "items": [
+       "Revenue: <b>$16.0B</b>, +9.3% y/y",
+       "Adjusted EPS: <b>$0.83</b>",
+       "Company guidance was <b>$0.69–0.79</b>"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "What's next",
+      "items": [
+       "Fiscal 2027 EPS outlook: <b>$3.15–3.45</b>"
+      ],
+      "stat": "$0.83",
+      "stat_label": "EPS in the quarter"
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "HP beat <b>its own guidance</b>. In a week when markets worry about tech valuations, that's rare good news."
+     }
+    ]
+   }
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "efekt-zeigarnik",
+   "time": "12:30",
+   "genre": "historia",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Max Richter – On the Nature of Daylight",
+    "Nils Frahm – Says"
+   ],
+   "caption": "Dlaczego niedokończone sprawy nie dają nam spokoju?\n\nWedług popularnej anegdoty psycholog Kurt Lewin zauważył, że kelner pamięta zamówienia, dopóki nie zostaną zapłacone. Potem szybko o nich zapomina. Jego studentka Bluma Zeigarnik sprawdziła to w badaniu opublikowanym w 1927 r. Uczestnicy wykonywali proste zadania, a część z nich była przerywana. Przerwane zadania pamiętali mniej więcej dwa razy lepiej.\n\nPóźniejsze badania nie potwierdzają tego wyniku jednoznacznie. Częściej powtarza się co innego: ludzie chętnie wracają do zadań, które zostały przerwane. Coś zaczętego domaga się końca.\n\nDlatego czasem nie trzeba wielkiej motywacji. Wystarczy zacząć.\n\nWyślij to komuś, kto ciągle odkłada start.\n\nŹródła: Zeigarnik (1927), Psychologische Forschung; MacLeod (2020), Memory & Cognition; Ghibellini i Meier (2025), Humanities and Social Sciences Communications; Simply Psychology; Psychology Today\n\n#ukrytalekcja #psychologia #efektzeigarnik #motywacja #rozwojosobisty",
+   "slides": [
+    {
+     "img": "ukryta/img/kawiarnia.jpg",
+     "pos": "center 40%",
+     "fs": 70,
+     "text": [
+      "Kelner pamiętał każde zamówienie.",
+      "Dopóki ktoś <em>nie zapłacił.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/kawiarnia.jpg",
+     "pos": "50% 25%",
+     "zoom": 1.6,
+     "dark": 0.3,
+     "text": [
+      "Tak brzmi znana anegdota o psychologu Kurcie Lewinie.",
+      "Zauważył to w restauracji."
+     ]
+    },
+    {
+     "img": "ukryta/img/notes.jpg",
+     "pos": "center 50%",
+     "dark": 0.3,
+     "text": [
+      "Niezapłacone rachunki kelner miał w głowie.",
+      "Zapłacone szybko wylatywały mu z pamięci."
+     ]
+    },
+    {
+     "img": "ukryta/img/notes.jpg",
+     "pos": "60% 35%",
+     "zoom": 1.8,
+     "dark": 0.4,
+     "text": [
+      "Jego studentka, Bluma Zeigarnik,",
+      "postanowiła to sprawdzić."
+     ]
+    },
+    {
+     "img": "ukryta/img/kawiarnia.jpg",
+     "pos": "40% 75%",
+     "zoom": 2.0,
+     "dark": 0.45,
+     "fs": 58,
+     "text": [
+      "Dała ludziom około 20 prostych zadań: składanie papieru, liczenie, rysunki.",
+      "Część przerywała w połowie."
+     ]
+    },
+    {
+     "img": "ukryta/img/notes.jpg",
+     "pos": "30% 70%",
+     "zoom": 1.5,
+     "dark": 0.5,
+     "fs": 54,
+     "big": "2×",
+     "label": "tyle lepiej pamiętali przerwane zadania",
+     "text": [
+      "Tak wynikało z jej badania z 1927 roku."
+     ]
+    },
+    {
+     "img": "ukryta/img/kawiarnia.jpg",
+     "pos": "70% 50%",
+     "dark": 0.5,
+     "fs": 58,
+     "text": [
+      "Późniejsze badania nie zawsze to potwierdzały.",
+      "Ale jedno się powtarza: <em>do przerwanych zadań wracamy.</em>"
+     ],
+     "zoom": 1.4
+    },
+    {
+     "img": "ukryta/img/notes.jpg",
+     "pos": "45% 20%",
+     "zoom": 2.2,
+     "dark": 0.5,
+     "text": [
+      "Coś zaczętego nie daje spokoju.",
+      "Domaga się końca."
+     ]
+    },
+    {
+     "noimg": true,
+     "fs": 62,
+     "text": [
+      "Nie czekaj na idealny moment. Zacznij choćby na 5 minut.",
+      "<em>Wyślij to komuś, kto ciągle odkłada start.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "gatunki-w-domach",
+   "time": "13:00",
+   "accent": "#FF4FA0",
+   "src": "NC State University / Gizmodo",
+   "caption": "Nie wiedziałeś, że w domach mieszka tyle dzikich zwierząt? 🕷️\n\nNaukowcy z NC State i Colorado State zebrali 23 782 obserwacje zwierząt w domach w USA i Kanadzie, od ok. 3000 osób. Wyszło prawie 2100 gatunków. Najczęściej: biedronka azjatycka, pluskwiak Halyomorpha halys i strzępiel. Wyniki opisano w czasopiśmie Ecology.\n\nKto mieszka u ciebie? 👇\n\nŹródła: NC State University, Gizmodo, Earth.com\n\n#nauka #zwierzeta #pajaki #ciekawostki #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "W domach znaleziono prawie 2100 gatunków zwierząt",
+     "sub": "Badanie z USA i Kanady",
+     "emoji": "🕷️",
+     "big": "~2100",
+     "tags": [
+      [
+       "🐞",
+       "biedronki"
+      ],
+      [
+       "🕷️",
+       "pająki"
+      ],
+      [
+       "🐊",
+       "aligator?!"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Skąd te dane?",
+     "rows": [
+      [
+       "📸",
+       "<b>23&nbsp;782</b> obserwacje od ok. 3000 osób, z lat 1996–2024"
+      ],
+      [
+       "🐞",
+       "Najczęściej: biedronka azjatycka, pluskwiak i <b>strzępiel</b>"
+      ],
+      [
+       "🕷️",
+       "Pająki to ok. <b>30%</b> wszystkich obserwacji"
+      ],
+      [
+       "🦗",
+       "Ok. <b>95%</b> to owady, pająki i podobne"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "🐊",
+       "Jeden „współlokator” to <b>aligator w garażu</b>"
+      ],
+      [
+       "❓",
+       "<b>44%</b> znalezisk nie dało się oznaczyć, więc gatunków może być więcej"
+      ]
+     ],
+     "cta": "Wyślij to współlokatorowi",
+     "cta_small": "Ten pająk w rogu płaci czynsz (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_numbers",
+   "slug": "btc",
+   "time": "15:30",
+   "pl": {
+    "tag": "KRYPTO",
+    "date": "26.11.2026",
+    "kicker": "BITCOIN W LICZBACH",
+    "value": "ok. 60&nbsp;500&nbsp;$",
+    "value_label": "stan na noc 25/26.11",
+    "chart": {
+     "points": [
+      59800,
+      58000,
+      60500
+     ],
+     "labels": [
+      "wieczór 24.11",
+      "dołek 25.11",
+      "noc 25/26.11"
+     ]
+    },
+    "rows": [
+     [
+      "vs dzień wcześniej",
+      "ok. +1%",
+      "upc"
+     ],
+     [
+      "Ethereum",
+      "ok. 1700 $",
+      ""
+     ],
+     [
+      "Odpływ z ETF-ów BTC (XI, do 24.11)",
+      "ok. 4,94 mld $",
+      "dn"
+     ]
+    ],
+    "src": "Źródła: KuCoin News, Benzinga, Forbes, CoinDesk",
+    "caption": "Bitcoin znów powyżej 60 000 $ 📊\n\nW środę rano 25.11 BTC spadł tuż poniżej 58 000 $. W nocy na czwartek kosztował już ok. 60 500–60 700 $, ok. 1% więcej niż dobę wcześniej. Ethereum: ok. 1700 $. Z funduszy ETF na bitcoina odpłynęło w listopadzie (do 24.11) ok. 4,94 mld $.\n\nŚledzisz krypto czy omijasz szerokim łukiem? 👇\n\nŹródła: KuCoin News, Benzinga, Forbes, CoinDesk, BusinessToday\nInformacja, nie porada inwestycyjna.\n\n#bitcoin #btc #krypto #kryptowaluty #rynki"
+   },
+   "en": {
+    "tag": "CRYPTO",
+    "date": "Nov 26, 2026",
+    "kicker": "BITCOIN BY THE NUMBERS",
+    "value": "about $60,500",
+    "value_label": "as of Nov 25/26 night",
+    "chart": {
+     "points": [
+      59800,
+      58000,
+      60500
+     ],
+     "labels": [
+      "Nov 24 evening",
+      "Nov 25 low",
+      "Nov 25/26 night"
+     ]
+    },
+    "rows": [
+     [
+      "vs a day earlier",
+      "about +1%",
+      "upc"
+     ],
+     [
+      "Ethereum",
+      "about $1,700",
+      ""
+     ],
+     [
+      "BTC ETF outflows (Nov, to Nov 24)",
+      "about $4.94B",
+      "dn"
+     ]
+    ],
+    "src": "Sources: KuCoin News, Benzinga, Forbes, CoinDesk",
+    "caption": "Bitcoin is back above $60,000 📊\n\nOn Wednesday morning, Nov 25, BTC dipped just below $58,000. By the night into Thursday it traded at about $60,500–60,700, roughly 1% higher than a day earlier. Ethereum: about $1,700. Spot bitcoin ETFs have seen about $4.94B in net outflows in November (through Nov 24).\n\nDo you follow crypto or avoid it? 👇\n\nSources: KuCoin News, Benzinga, Forbes, CoinDesk, BusinessToday\nInformation, not financial advice.\n\n#bitcoin #btc #crypto #cryptocurrency #markets"
+   }
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "mysl-to-nie-fakt",
+   "time": "16:30",
+   "genre": "karta",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ólafur Arnalds – Near Light",
+    "Max Richter – Dream 3"
+   ],
+   "caption": "Nie każda myśl jest prawdą.\n\nGłowa podsuwa nam różne scenariusze: „nie dam rady”, „pomyślą, że jestem głupi”, „to się źle skończy”. Brzmią przekonująco, bo słyszymy je własnym głosem.\n\nAle myśl to tylko propozycja. Możesz ją wysłuchać i sprawdzić, zanim w nią uwierzysz.\n\nWyślij to komuś, kto za bardzo wierzy swoim czarnym scenariuszom.\n\n#ukrytalekcja #psychologia #mysli #rozwojosobisty #spokoj",
+   "slides": [
+    {
+     "img": "ukryta/img/okno.jpg",
+     "pos": "center 50%",
+     "fs": 70,
+     "text": [
+      "Nie każda myśl, którą słyszysz w głowie,",
+      "<em>jest prawdą.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "silksong-stream",
+   "time": "17:00",
+   "accent": "#3EE6C1",
+   "src": "FullCleared / Final Weapon",
+   "caption": "Fani Silksonga, jutro wielki dzień 🎮\n\nTeam Cherry, twórcy Hollow Knight: Silksong, zapowiedzieli stream „Cherry Time!” na piątek 27.11. Pokażą nowości o Sea of Sorrow, pierwszym dużym dodatku do gry. Dodatek będzie darmowy. Start o 16:00 polskiego czasu na YouTube.\n\nCzekasz? 👇\n\nŹródła: FullCleared, Final Weapon\n\n#silksong #hollowknight #gry #gaming #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Silksong: w piątek pokaz dodatku Sea of Sorrow",
+     "sub": "Stream Team Cherry o 16:00 naszego czasu",
+     "emoji": "🎮",
+     "big": "16:00",
+     "tags": [
+      [
+       "📺",
+       "YouTube"
+      ],
+      [
+       "🆓",
+       "za darmo"
+      ],
+      [
+       "🌊",
+       "Sea of Sorrow"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Co wiemy?",
+     "rows": [
+      [
+       "📅",
+       "Stream „Cherry Time!”: <b>piątek 27.11, 16:00</b> polskiego czasu"
+      ],
+      [
+       "🌊",
+       "Temat: <b>Sea of Sorrow</b>, pierwszy duży dodatek do Silksonga"
+      ],
+      [
+       "🆓",
+       "Dodatek będzie <b>darmowy</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto gra w Silksonga",
+     "cta_small": "Piątek wolny od pracy? (chyba nie)"
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "wig20-ponizej-4000",
+   "time": "19:30",
+   "pl": {
+    "tag": "GPW",
+    "date": "26.11.2026",
+    "src": "Źródła: wnp.pl, gospodarka.sos.pl, Forsal, Comparic",
+    "mood": "down",
+    "caption": "WIG20 poniżej 4000 pkt, a złoty słabnie 📉\n\nW środę 25.11 WIG20 spadł o 1,87% i zamknął się na 3980,69 pkt. To pierwsze zamknięcie poniżej 4000 pkt od początku września. Złoty też tracił: euro kosztowało ok. 4,48 zł, a dolar ponad 4,09 zł.\n\nPrzesuń 👉\n\nŹródła: wnp.pl, gospodarka.sos.pl, Forsal, Comparic\nInformacja, nie porada inwestycyjna.\n\n#gpw #wig20 #gielda #zloty #rynki",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "GPW",
+      "title": "WIG20 poniżej 4000&nbsp;pkt pierwszy raz od września",
+      "big": "−1,87%",
+      "big_label": "WIG20, środa 25.11",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "Środa w Warszawie",
+      "items": [
+       "WIG20: <b>3980,69 pkt</b>, −1,87%",
+       "Pierwsze zamknięcie poniżej 4000 pkt <b>od początku września</b>",
+       "Euro: ok. <b>4,48 zł</b>",
+       "Dolar: ponad <b>4,09 zł</b>"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Spadki na giełdzie i <b>słabszy złoty</b> naraz to sygnał, że inwestorzy ostrożniej patrzą na polski rynek."
+     }
+    ]
+   },
+   "en": {
+    "tag": "POLAND",
+    "date": "Nov 26, 2026",
+    "src": "Sources: wnp.pl, gospodarka.sos.pl, Forsal, Comparic",
+    "mood": "down",
+    "caption": "Poland's WIG20 falls below 4,000 as the zloty weakens 📉\n\nOn Wednesday, Nov 25, the WIG20 fell 1.87% to close at 3,980.69. It's the first close below 4,000 since early September. The zloty weakened too: the euro cost about 4.48 PLN and the dollar over 4.09 PLN.\n\nSwipe 👉\n\nSources: wnp.pl, gospodarka.sos.pl, Forsal, Comparic\nInformation, not financial advice.\n\n#poland #wig20 #stocks #zloty #markets",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WARSAW",
+      "title": "Poland's WIG20 falls below 4,000 for the first time since September",
+      "big": "−1.87%",
+      "big_label": "WIG20, Wednesday Nov 25",
+      "down": true
+     },
+     {
+      "kind": "bullets",
+      "title": "Wednesday in Warsaw",
+      "items": [
+       "WIG20: <b>3,980.69</b>, −1.87%",
+       "First close below 4,000 <b>since early September</b>",
+       "Euro: about <b>4.48 PLN</b>",
+       "US dollar: over <b>4.09 PLN</b>"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "Falling stocks and a <b>weaker zloty</b> at the same time signal that investors are more cautious about Poland."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "mario-aukcja",
+   "time": "20:30",
+   "accent": "#7CFF4F",
+   "src": "Pro-Gamer.gg / Wisevoter / UPI",
+   "caption": "Używany Mario za prawie 100 tys. dolarów 🍄\n\nOtwarty egzemplarz Super Mario Bros. z 1985 r., z pudełkiem i instrukcją, poszedł na aukcji Heritage Auctions w Dallas za 96 875 $ (ok. 400 tys. zł). To kopia z pierwszej partii, z testowej premiery w Nowym Jorku. Padły dwa rekordy: najwyższa cena za kopię z pierwszej partii i za grę kompletną w pudełku.\n\nSprawdzasz już strych? 👇\n\nŹródła: Pro-Gamer.gg, Wisevoter, UPI\n\n#mario #nintendo #retrogaming #aukcja #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Otwarty Super Mario z 1985 r. poszedł za fortunę",
+     "sub": "Aukcja Heritage Auctions w Dallas",
+     "emoji": "🍄",
+     "big": "96&nbsp;875&nbsp;$",
+     "tags": [
+      [
+       "🎮",
+       "NES"
+      ],
+      [
+       "📦",
+       "z pudełkiem"
+      ],
+      [
+       "🏆",
+       "2 rekordy"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Co to za kopia?",
+     "rows": [
+      [
+       "📦",
+       "Otwarta, ale <b>kompletna</b>: pudełko, kartridż i instrukcja"
+      ],
+      [
+       "🗽",
+       "Z <b>pierwszej partii</b>, z testowej premiery w Nowym Jorku w 1985 r."
+      ],
+      [
+       "🏆",
+       "Rekord dla kopii z 1. partii i dla gry <b>kompletnej w pudełku</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto ma stare gry na strychu",
+     "cta_small": "Mój Pegasus też jest coś wart (chyba)"
+    }
+   ]
+  }
+ ]
+}
