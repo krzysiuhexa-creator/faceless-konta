@@ -1,0 +1,889 @@
+{
+ "date": "2026-11-27",
+ "posts": [
+  {
+   "type": "ukryta_carousel",
+   "slug": "kropla",
+   "time": "08:00",
+   "genre": "karta",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ludovico Einaudi – Nuvole Bianche",
+    "Ólafur Arnalds – Near Light"
+   ],
+   "caption": "Kropla nie przebija kamienia siłą.\n\nCzekamy na wielki zryw: nowy początek, idealny poniedziałek, przypływ energii. A zmiany najczęściej robią rzeczy małe i nudne, powtarzane dzień po dniu.\n\nJedna strona dziennie. Dziesięć minut ruchu. Jedna rozmowa, której unikasz. Z bliska nic się nie dzieje. Z daleka widać, że wszystko się zmieniło.\n\nZapisz na dzień, w którym pomyślisz, że to, co robisz, jest za małe, żeby miało znaczenie.\n\n#ukrytalekcja #psychologia #rozwojosobisty #nawyki #cierpliwosc",
+   "slides": [
+    {
+     "img": "ukryta/img/kropla.jpg",
+     "pos": "center 50%",
+     "fs": 70,
+     "text": [
+      "Kropla nie przebija kamienia siłą.",
+      "Przebija go tym, że <em>spada codziennie.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "black-friday-usa",
+   "time": "08:30",
+   "pl": {
+    "tag": "BIZNES",
+    "date": "27.11.2026",
+    "src": "Źródła: Adobe, Digital Commerce 360, US Brief, Salesforce",
+    "caption": "Amerykanie wydali już online 82,5 mld $ w listopadzie 🛒\n\nWedług Adobe Analytics od 1 do 22 listopada wydatki online w USA wyniosły ponad 82,5 mld $, o 9,1% więcej niż rok temu. Adobe szacuje, że dziś, w Black Friday, Amerykanie wydadzą online 12,9 mld $ (+9,2% r/r), a w Cyber Monday 15,1 mld $. Cały sezon (1.11–31.12) ma przynieść rekordowe 275,1 mld $. Ruch kierowany do sklepów przez narzędzia AI urósł o 127% r/r.\n\nPrzesuń 👉\n\nŹródła: Adobe, Digital Commerce 360, US Brief, Salesforce\nInformacja, nie porada inwestycyjna.\n\n#blackfriday #zakupy #ecommerce #usa #biznes",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "BLACK FRIDAY",
+      "title": "Amerykanie wydali już online 82,5&nbsp;mld&nbsp;$ w listopadzie",
+      "big": "+9,1%",
+      "big_label": "r/r, dane Adobe za 1–22.11",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Co pokazują dane",
+      "items": [
+       "Od 1 do 22.11: ponad <b>82,5&nbsp;mld&nbsp;$</b> online",
+       "Każdego dnia ponad <b>3&nbsp;mld&nbsp;$</b>, dwa dni ponad 4&nbsp;mld&nbsp;$",
+       "Smartfony: <b>53%</b> wszystkich wydatków",
+       "Ruch ze strony narzędzi AI do sklepów: <b>+127%</b> r/r"
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "Prognoza Adobe na wielkie dni",
+      "a_label": "Black Friday",
+      "a_value": "12,9 mld $",
+      "a": 12.9,
+      "b_label": "Cyber Monday",
+      "b_value": "15,1 mld $",
+      "b": 15.1,
+      "note": "Cyber Monday ma być największym dniem roku."
+     },
+     {
+      "kind": "bullets",
+      "title": "Cały sezon",
+      "items": [
+       "Prognoza na 1.11–31.12: <b>+6,7%</b> r/r",
+       "„Cyber 5” (Thanksgiving–Cyber Monday): <b>47,5&nbsp;mld&nbsp;$</b>"
+      ],
+      "stat": "275,1&nbsp;mld&nbsp;$",
+      "stat_label": "prognoza Adobe na sezon, rekord"
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Konsument w USA wciąż wydaje, mimo wysokiej inflacji. Wyniki Thanksgiving i Black Friday poznamy w <b>najbliższych dniach</b>."
+     }
+    ]
+   },
+   "en": {
+    "tag": "BUSINESS",
+    "date": "Nov 27, 2026",
+    "src": "Sources: Adobe, Digital Commerce 360, US Brief, Salesforce",
+    "caption": "Americans have already spent $82.5B online this November 🛒\n\nAccording to Adobe Analytics, US online spending from Nov 1 to Nov 22 topped $82.5B, up 9.1% from last year. Adobe expects shoppers to spend $12.9B online today, on Black Friday (+9.2% y/y), and $15.1B on Cyber Monday. The full season (Nov 1–Dec 31) is forecast at a record $275.1B. Traffic sent to stores by AI tools is up 127% y/y.\n\nSwipe 👉\n\nSources: Adobe, Digital Commerce 360, US Brief, Salesforce\nInformation, not financial advice.\n\n#blackfriday #shopping #ecommerce #usa #business",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "BLACK FRIDAY",
+      "title": "Americans have already spent $82.5B online in November",
+      "big": "+9.1%",
+      "big_label": "y/y, Adobe data for Nov 1–22",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "What the data shows",
+      "items": [
+       "Nov 1–22: over <b>$82.5B</b> spent online",
+       "Over <b>$3B</b> every day, two days above $4B",
+       "Smartphones: <b>53%</b> of all spending",
+       "Traffic from AI tools to stores: <b>+127%</b> y/y"
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "Adobe forecast for the big days",
+      "a_label": "Black Friday",
+      "a_value": "$12.9B",
+      "a": 12.9,
+      "b_label": "Cyber Monday",
+      "b_value": "$15.1B",
+      "b": 15.1,
+      "note": "Cyber Monday should be the year's top day."
+     },
+     {
+      "kind": "bullets",
+      "title": "The whole season",
+      "items": [
+       "Nov 1–Dec 31 forecast: <b>+6.7%</b> y/y",
+       "“Cyber 5” (Thanksgiving–Cyber Monday): <b>$47.5B</b>"
+      ],
+      "stat": "$275.1B",
+      "stat_label": "Adobe season forecast, a record"
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "US consumers keep spending despite high inflation. Actual Thanksgiving and Black Friday results come out in the <b>next few days</b>."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "europa-clipper",
+   "time": "09:30",
+   "accent": "#FFD21F",
+   "src": "Tech Times / Universe Today",
+   "caption": "Sonda NASA wpada do nas na chwilę w drodze do Jowisza 🛰️\n\nEuropa Clipper przeleci obok Ziemi w czwartek 3 grudnia, ok. 21:15 polskiego czasu. Minie nas w odległości ok. 3,1–3,5 tys. km, nad Afryką Zachodnią. Ziemia rozpędzi ją jak proca, a sonda przy okazji przetestuje swoje instrumenty. Na orbitę Jowisza ma dotrzeć w kwietniu 2030 r.\n\nMasz teleskop? 👇\n\nŹródła: Tech Times, Universe Today\n\n#nasa #kosmos #jowisz #astronomia #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Sonda NASA wraca na chwilę do Ziemi",
+     "sub": "Europa Clipper przeleci obok nas 3 grudnia",
+     "emoji": "🛰️",
+     "big": "3.12",
+     "tags": [
+      [
+       "🪐",
+       "Jowisz"
+      ],
+      [
+       "🔭",
+       "teleskopy"
+      ],
+      [
+       "🚀",
+       "proca"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Co się stanie?",
+     "rows": [
+      [
+       "📅",
+       "<b>3 grudnia</b>, ok. 21:15 polskiego czasu, sonda minie Ziemię"
+      ],
+      [
+       "📏",
+       "Przeleci ok. <b>3,1–3,5 tys. km</b> nad Afryką Zachodnią"
+      ],
+      [
+       "🚀",
+       "Ziemia ją <b>rozpędzi</b> w stronę Jowisza, jak proca"
+      ],
+      [
+       "🔭",
+       "Większe amatorskie teleskopy mogą ją złapać, głównie z <b>południa Europy</b> i Afryki"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "🗓️",
+       "Start: <b>październik 2024</b>, przelot obok Marsa: <b>marzec 2025</b>"
+      ],
+      [
+       "🪐",
+       "Na orbitę Jowisza ma wejść w <b>kwietniu 2030</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto ma teleskop",
+     "cta_small": "Pomachamy jej z balkonu (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "wig20-nad-4000",
+   "time": "12:00",
+   "pl": {
+    "tag": "GIEŁDA",
+    "date": "26.11.2026",
+    "src": "Źródła: GPW, Strefa Inwestorów, XYZ, sos.pl, BNN Bloomberg",
+    "caption": "WIG20 znowu powyżej 4000 pkt 📈\n\nW czwartek 26.11 WIG20 urósł o 1,59% i zamknął się na poziomie 4043,87 pkt. Dzień wcześniej spadł o 1,87%, do 3980,69 pkt. Rosły też mniejsze spółki: mWIG40 +2,33%, sWIG80 +1,88%. Najmocniej zyskały Text (+16,5%) i Grupa Azoty (+11,5%). Europa też poszła w górę, STOXX 600 +1,8%. Michał Stajniak z XTB ocenia odbicie jako głównie techniczne.\n\nPrzesuń 👉\n\nŹródła: GPW, Strefa Inwestorów, XYZ, sos.pl, FXMAG, BNN Bloomberg, Yahoo Finance\nInformacja, nie porada inwestycyjna.\n\n#gpw #wig20 #gielda #akcje #rynki",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "GPW",
+      "title": "WIG20 w czwartek wrócił powyżej 4000&nbsp;pkt",
+      "big": "+1,59%",
+      "big_label": "WIG20, czwartek 26.11",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Czwartek na GPW",
+      "items": [
+       "WIG20: <b>4043,87 pkt</b> (w środę 3980,69)",
+       "mWIG40: <b>+2,33%</b>, sWIG80: <b>+1,88%</b>",
+       "Liderzy: Text <b>+16,5%</b>, Grupa Azoty <b>+11,5%</b>",
+       "Europa też w górę: STOXX 600 <b>+1,8%</b>"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Według XTB to odbicie głównie <b>techniczne</b>. Przyczyny wcześniejszej wyprzedaży, m.in. obawy o spółki AI i cła, nie zniknęły."
+     }
+    ]
+   },
+   "en": {
+    "tag": "MARKETS",
+    "date": "Nov 26, 2026",
+    "src": "Sources: WSE, Strefa Inwestorów, XYZ, sos.pl, BNN Bloomberg",
+    "caption": "Poland's WIG20 is back above 4,000 📈\n\nOn Thursday, Nov 26, the WIG20 index rose 1.59% to close at 4,043.87. A day earlier it had dropped 1.87% to 3,980.69. Smaller companies rallied too: mWIG40 +2.33%, sWIG80 +1.88%. Top gainers were Text (+16.5%) and Grupa Azoty (+11.5%). Europe also rose, with the STOXX 600 up 1.8%. Michał Stajniak of XTB calls the rebound mostly technical.\n\nSwipe 👉\n\nSources: WSE, Strefa Inwestorów, XYZ, sos.pl, FXMAG, BNN Bloomberg, Yahoo Finance\nInformation, not financial advice.\n\n#wse #wig20 #stocks #poland #markets",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WARSAW STOCK EXCHANGE",
+      "title": "Poland's WIG20 climbed back above 4,000 on Thursday",
+      "big": "+1.59%",
+      "big_label": "WIG20, Thursday Nov 26",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Thursday in Warsaw",
+      "items": [
+       "WIG20: <b>4,043.87</b> (3,980.69 on Wednesday)",
+       "mWIG40: <b>+2.33%</b>, sWIG80: <b>+1.88%</b>",
+       "Top gainers: Text <b>+16.5%</b>, Grupa Azoty <b>+11.5%</b>",
+       "Europe rose too: STOXX 600 <b>+1.8%</b>"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "XTB calls it a mostly <b>technical</b> rebound. The reasons behind the earlier sell-off, including AI valuation worries and tariffs, haven't gone away."
+     }
+    ]
+   }
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "slowo-bo",
+   "time": "12:30",
+   "genre": "historia",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Max Richter – Infra 5",
+    "Nils Frahm – Ambre"
+   ],
+   "caption": "Dlaczego czasem mówimy „tak”, zanim w ogóle usłyszymy, o co chodzi?\n\nW badaniu opublikowanym w 1978 r. zespół Ellen Langer prosił ludzi, którzy mieli robić kopie na uczelni CUNY w Nowym Jorku, o przepuszczenie. Gdy chodziło o 5 stron, bez powodu zgodziło się 60% osób. Z prawdziwym powodem („bo się spieszę”) 94%. A z powodem, który nic nie mówił („bo muszę zrobić kopie”), aż 93%.\n\nPrzy 20 stronach puste „bo” przestało działać: zgodziło się 24%, tyle samo co bez powodu. Badacze uznali, że przy drobnych sprawach często reagujemy na formę prośby, a nie na jej treść. Gdy stawka rośnie, zaczynamy słuchać.\n\nTo było małe badanie, ok. 15–25 osób w grupie. Późniejsza próba powtórzenia (Folkes, lata 80.) nie potwierdziła wyników, a statystycy przestrzegają przed robieniem z „bo” magicznego słowa. Jedno zostaje: warto zauważyć, kiedy mówimy „tak” na autopilocie.\n\nWyślij to komuś, kto zawsze się zgadza.\n\nŹródła: Langer, Blank i Chanowitz (1978), Journal of Personality and Social Psychology; Psychology Today; Folkes, Journal of Personality and Social Psychology; Andrew Gelman, Statistical Modeling blog (2024)\n\n#ukrytalekcja #psychologia #ellenlanger #autopilot #rozwojosobisty",
+   "slides": [
+    {
+     "img": "ukryta/img/ksero.jpg",
+     "pos": "center 40%",
+     "fs": 70,
+     "text": [
+      "Ludzie czekali, żeby skorzystać z ksero.",
+      "Wystarczyło dodać <em>jedno słowo.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/biblioteka.jpg",
+     "pos": "center 50%",
+     "dark": 0.3,
+     "text": [
+      "Lata 70., uczelnia CUNY w Nowym Jorku.",
+      "Psycholożka Ellen Langer i jej zespół robią eksperyment."
+     ]
+    },
+    {
+     "img": "ukryta/img/dlonie.jpg",
+     "pos": "center 45%",
+     "dark": 0.35,
+     "fs": 58,
+     "text": [
+      "Ktoś z zespołu podchodzi do osoby przy ksero.",
+      "„Mam 5 stron. Mogę skorzystać z ksero przed tobą?”"
+     ]
+    },
+    {
+     "img": "ukryta/img/ksero.jpg",
+     "pos": "60% 30%",
+     "zoom": 1.7,
+     "dark": 0.5,
+     "fs": 54,
+     "big": "60%",
+     "label": "się zgodziło",
+     "text": [
+      "Bez podania żadnego powodu."
+     ]
+    },
+    {
+     "img": "ukryta/img/dlonie.jpg",
+     "pos": "40% 70%",
+     "zoom": 1.6,
+     "dark": 0.5,
+     "fs": 54,
+     "big": "94%",
+     "label": "się zgodziło",
+     "text": [
+      "Z prawdziwym powodem: „…bo się spieszę”."
+     ]
+    },
+    {
+     "img": "ukryta/img/biblioteka.jpg",
+     "pos": "30% 70%",
+     "zoom": 1.5,
+     "dark": 0.45,
+     "fs": 58,
+     "text": [
+      "A potem z powodem, który nic nie znaczy:",
+      "„…bo muszę zrobić kopie”. <em>Jak każdy przy ksero.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/ksero.jpg",
+     "pos": "35% 75%",
+     "zoom": 2.0,
+     "dark": 0.5,
+     "fs": 54,
+     "big": "93%",
+     "label": "się zgodziło",
+     "text": [
+      "Puste „bo” zadziałało prawie jak prawdziwy powód."
+     ]
+    },
+    {
+     "img": "ukryta/img/dlonie.jpg",
+     "pos": "65% 25%",
+     "zoom": 2.1,
+     "dark": 0.5,
+     "fs": 58,
+     "text": [
+      "Ale przy 20 stronach puste „bo” <em>przestało działać.</em>",
+      "Zgodziło się 24%, tyle co bez powodu."
+     ]
+    },
+    {
+     "img": "ukryta/img/biblioteka.jpg",
+     "pos": "70% 30%",
+     "zoom": 1.9,
+     "dark": 0.55,
+     "fs": 56,
+     "text": [
+      "To było małe badanie, ok. 15 osób w grupie.",
+      "Późniejsza próba powtórzenia <em>nie potwierdziła</em> wyników."
+     ]
+    },
+    {
+     "noimg": true,
+     "fs": 60,
+     "text": [
+      "Na drobne prośby często mówimy „tak” bez słuchania. Zauważ, kiedy robisz to ty.",
+      "<em>Wyślij to komuś, kto zawsze się zgadza.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "wombat-kostki",
+   "time": "13:00",
+   "accent": "#FF4FA0",
+   "src": "University of Tasmania / Smithsonian / PBS",
+   "caption": "Nie wiedziałeś, że wombaty robią kupę w kształcie kostek? 🎲\n\nTo nie żart. Kostki formują się w końcowym odcinku jelita: jego ściany mają sztywniejsze i bardziej elastyczne fragmenty, które kurczą się inaczej i tworzą rogi. Jedna kostka ma ok. 2 cm, a wombat robi ich dziennie nawet ok. 100. Badacze, którzy to wyjaśnili, dostali w 2019 r. Ig Nobla.\n\nWyślij to komuś, kto lubi dziwne fakty 👇\n\nŹródła: University of Tasmania, Smithsonian Magazine, PBS NOVA, Earth.com\n\n#wombat #zwierzeta #australia #ciekawostki #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Wombaty robią kupę w kształcie kostek",
+     "sub": "Serio. Naukowcy to zbadali",
+     "emoji": "🎲",
+     "big": "~100",
+     "tags": [
+      [
+       "🇦🇺",
+       "Australia"
+      ],
+      [
+       "🧊",
+       "kostki"
+      ],
+      [
+       "🏆",
+       "Ig Nobel"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Jak to możliwe?",
+     "rows": [
+      [
+       "🌀",
+       "Kostki powstają w <b>końcowym odcinku jelita</b>"
+      ],
+      [
+       "💪",
+       "Ściany jelita mają sztywne i elastyczne fragmenty, które <b>tworzą rogi</b>"
+      ],
+      [
+       "📏",
+       "Jelito ma ok. <b>10 m</b>, ok. 10 razy dłuższe niż sam wombat"
+      ],
+      [
+       "🎲",
+       "Kostka ma ok. <b>2 cm</b>, a dziennie jest ich nawet ok. <b>100</b>"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "🏆",
+       "Za wyjaśnienie zagadki badacze dostali <b>Ig Nobla w 2019 r.</b>"
+      ],
+      [
+       "🤔",
+       "Po co kostki? Jedna z hipotez: <b>nie toczą się</b> i lepiej znaczą teren"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto lubi dziwne fakty",
+     "cta_small": "Lego natury (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_numbers",
+   "slug": "btc",
+   "time": "15:30",
+   "review": true,
+   "pl": {
+    "tag": "KRYPTO",
+    "date": "27.11.2026",
+    "kicker": "BITCOIN W LICZBACH",
+    "value": "ok. 61&nbsp;400&nbsp;$",
+    "value_label": "stan na 26.11 wieczorem",
+    "chart": {
+     "points": [
+      91324,
+      79700,
+      61400
+     ],
+     "labels": [
+      "rok temu",
+      "miesiąc temu",
+      "26.11"
+     ]
+    },
+    "rows": [
+     [
+      "vs miesiąc temu",
+      "ok. −23%",
+      "dn"
+     ],
+     [
+      "vs rok temu",
+      "ok. −33%",
+      "dn"
+     ],
+     [
+      "Odpływ z ETF-ów BTC (XI, do 25.11)",
+      "5,39 mld $",
+      "dn"
+     ],
+     [
+      "Ethereum",
+      "ok. 1700 $",
+      ""
+     ]
+    ],
+    "src": "Źródła: CoinDesk, CoinMarketCap, Bitcoin.com, 24/7 Wall St",
+    "caption": "Bitcoin o jedną trzecią tańszy niż rok temu 📊\n\nW czwartek 26.11 wieczorem BTC kosztował ok. 61 400 $, po odbiciu ze środowego dołka ok. 57 500 $. Miesiąc temu, 27.10, było to ok. 79 700 $ (−23%), a rok temu ok. 91 300 $ (−33%). Z amerykańskich funduszy ETF na bitcoina odpłynęło w listopadzie (do 25.11) 5,39 mld $, najwięcej w jednym miesiącu od ich startu. Ethereum: ok. 1700 $.\n\nŚledzisz krypto czy omijasz szerokim łukiem? 👇\n\nŹródła: CoinDesk, CoinMarketCap, Bitcoin.com, 24/7 Wall St, The Defiant\nInformacja, nie porada inwestycyjna.\n\n#bitcoin #btc #krypto #kryptowaluty #rynki"
+   },
+   "en": {
+    "tag": "CRYPTO",
+    "date": "Nov 27, 2026",
+    "kicker": "BITCOIN BY THE NUMBERS",
+    "value": "~$61,400",
+    "value_label": "approx., as of Nov 26 evening",
+    "chart": {
+     "points": [
+      91324,
+      79700,
+      61400
+     ],
+     "labels": [
+      "a year ago",
+      "a month ago",
+      "Nov 26"
+     ]
+    },
+    "rows": [
+     [
+      "vs a month ago",
+      "about −23%",
+      "dn"
+     ],
+     [
+      "vs a year ago",
+      "about −33%",
+      "dn"
+     ],
+     [
+      "BTC ETF outflows (Nov, to Nov 25)",
+      "$5.39B",
+      "dn"
+     ],
+     [
+      "Ethereum",
+      "about $1,700",
+      ""
+     ]
+    ],
+    "src": "Sources: CoinDesk, CoinMarketCap, Bitcoin.com, 24/7 Wall St",
+    "caption": "Bitcoin is a third cheaper than a year ago 📊\n\nOn Thursday evening, Nov 26, BTC traded at about $61,400 after bouncing from Wednesday's low near $57,500. A month ago, on Oct 27, it was about $79,700 (−23%), and a year ago about $91,300 (−33%). US spot bitcoin ETFs saw $5.39B in net outflows in November (through Nov 25), their biggest monthly outflow since launch. Ethereum: about $1,700.\n\nDo you follow crypto or avoid it? 👇\n\nSources: CoinDesk, CoinMarketCap, Bitcoin.com, 24/7 Wall St, The Defiant\nInformation, not financial advice.\n\n#bitcoin #btc #crypto #cryptocurrency #markets"
+   }
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "cudze-zdanie",
+   "time": "16:30",
+   "genre": "karta",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ólafur Arnalds – Saman",
+    "Hania Rani – Eden"
+   ],
+   "caption": "Czyjaś opinia o tobie to jego zdanie, nie twój wyrok.\n\nLudzie oceniają nas przez swoje doświadczenia, humory i lęki. Ta sama rzecz jednemu się spodoba, innego zirytuje.\n\nWarto słuchać, bo czasem ktoś widzi coś, czego my nie widzimy. Ale słuchać to nie to samo, co oddać komuś pióro, którym piszesz swoją historię.\n\nZapisz na dzień, w którym czyjaś jedna uwaga zepsuje ci cały wieczór.\n\n#ukrytalekcja #psychologia #rozwojosobisty #pewnosc #spokoj",
+   "slides": [
+    {
+     "img": "ukryta/img/molo.jpg",
+     "pos": "center 50%",
+     "fs": 70,
+     "text": [
+      "Czyjaś opinia o tobie",
+      "to jego zdanie, <em>nie twój wyrok.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "gta6-rekord",
+   "time": "17:00",
+   "accent": "#3EE6C1",
+   "src": "Sony / Take-Two / Fox Business / Beebom",
+   "caption": "GTA VI rozbiło PlayStation 🎮\n\nSony podało, że w pierwszych 4 dniach (19–22.11) w GTA VI na PS5 zagrało ponad 39 mln osób. Razem spędzili w grze 683 mln godzin, średnio ok. 17 godzin na osobę. To największa premiera w historii PlayStation. Według Take-Two pierwszy dzień sprzedaży przyniósł ok. 3,79 mld $, prawie 5 razy więcej niż GTA V w 2013 r.\n\nGrasz już czy czekasz na wersję na PC? 👇\n\nŹródła: Fox Business, Beebom, GeekTyrant, iTech Post\n\n#gta6 #gtavi #gry #playstation #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "GTA VI to największa premiera w historii PlayStation",
+     "sub": "Dane Sony z pierwszych 4 dni",
+     "hero": "GTA VI",
+     "hero_size": 220
+    },
+    {
+     "kind": "rows",
+     "title": "Liczby",
+     "rows": [
+      [
+       "🎮",
+       "Ponad <b>39 mln</b> graczy na PS5 w 4 dni (19–22.11)"
+      ],
+      [
+       "⏱️",
+       "Razem <b>683 mln godzin</b> grania"
+      ],
+      [
+       "💰",
+       "Pierwszy dzień: ok. <b>3,79 mld $</b> sprzedaży wg Take-Two"
+      ],
+      [
+       "📈",
+       "GTA V w 2013 r.: ok. <b>800 mln $</b> pierwszego dnia"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "🆕",
+       "Dla <b>70%</b> nowo podłączonych PS5 to była pierwsza gra"
+      ],
+      [
+       "💻",
+       "Wersji na PC na razie <b>nie ma</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto zniknął 19 listopada",
+     "cta_small": "Wróci na święta (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "bezrobocie-pazdziernik",
+   "time": "19:30",
+   "pl": {
+    "tag": "GOSPODARKA",
+    "date": "27.11.2026",
+    "src": "Źródła: GUS, Forsal, Finwire",
+    "caption": "Bezrobocie w Polsce stoi w miejscu od czerwca 📊\n\nWedług GUS stopa bezrobocia rejestrowanego w październiku wyniosła 5,8%, tyle samo co we wrześniu. Rok temu było to 5,6%. Bezrobotnych było 905,3 tys., a nowych rejestracji 102,8 tys. (we wrześniu 108,9 tys.). Wynik zgadza się z wcześniejszym szacunkiem ministerstwa pracy.\n\nPrzesuń 👉\n\nŹródła: GUS, Forsal, Finwire\nInformacja, nie porada inwestycyjna.\n\n#gospodarka #polska #bezrobocie #gus #rynekpracy",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "POLSKA",
+      "title": "Bezrobocie w Polsce stoi w miejscu od czerwca",
+      "big": "5,8%",
+      "big_label": "stopa bezrobocia, październik (GUS)",
+      "down": false
+     },
+     {
+      "kind": "bars",
+      "title": "Stopa bezrobocia",
+      "a_label": "X 2025",
+      "a_value": "5,6%",
+      "a": 5.6,
+      "b_label": "X 2026",
+      "b_value": "5,8%",
+      "b": 5.8,
+      "note": "Od czerwca wskaźnik się nie zmienia."
+     },
+     {
+      "kind": "bullets",
+      "title": "Co jeszcze podał GUS",
+      "items": [
+       "Bezrobotni: <b>905,3 tys.</b> (we wrześniu 907,0 tys.)",
+       "Nowe rejestracje: <b>102,8 tys.</b> (we wrześniu 108,9 tys.)",
+       "Wynik zgodny z szacunkiem ministerstwa pracy"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Rynek pracy się <b>nie pogarsza</b>, ale jest luźniejszy niż rok temu. To ważny sygnał dla płac i konsumpcji."
+     }
+    ]
+   },
+   "en": {
+    "tag": "ECONOMY",
+    "date": "Nov 27, 2026",
+    "src": "Sources: GUS (Statistics Poland), Forsal, Finwire",
+    "caption": "Poland's unemployment rate hasn't moved since June 📊\n\nAccording to Statistics Poland (GUS), the registered unemployment rate was 5.8% in October, the same as in September. A year ago it was 5.6%. There were 905,300 unemployed people and 102,800 new registrations (108,900 in September). The figure matches the labour ministry's earlier estimate.\n\nSwipe 👉\n\nSources: GUS, Forsal, Finwire\nInformation, not financial advice.\n\n#economy #poland #unemployment #jobs #markets",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "POLAND",
+      "title": "Poland's unemployment rate hasn't moved since June",
+      "big": "5.8%",
+      "big_label": "unemployment rate, October (GUS)",
+      "down": false
+     },
+     {
+      "kind": "bars",
+      "title": "Unemployment rate",
+      "a_label": "Oct 2025",
+      "a_value": "5.6%",
+      "a": 5.6,
+      "b_label": "Oct 2026",
+      "b_value": "5.8%",
+      "b": 5.8,
+      "note": "The rate has been flat since June."
+     },
+     {
+      "kind": "bullets",
+      "title": "Other GUS figures",
+      "items": [
+       "Unemployed: <b>905,300</b> (907,000 in September)",
+       "New registrations: <b>102,800</b> (108,900 in September)",
+       "In line with the labour ministry's estimate"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "The job market <b>isn't getting worse</b>, but it's looser than a year ago. That matters for wages and consumer spending."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "katapulta-komin",
+   "time": "20:30",
+   "accent": "#7CFF4F",
+   "src": "Red Bull / Africanews / Wisevoter",
+   "caption": "Ludzka katapulta w środku najwyższego komina Europy 🚀\n\nW Trbovlje w Słowenii stoi komin o wysokości 360 m. W środku zbudowano 60-metrową katapultę. Hiszpański pilot wingsuit Dani Román poleciał nią 100,36 m w górę, rozpędzając się od 0 do 180 km/h w 2,15 s. W duecie z Francuzem Fredem Fugenem uzyskali łącznie 151,72 m. Oba wyniki trafiły do Księgi Rekordów Guinnessa.\n\nWsiadłbyś? 👇\n\nŹródła: Red Bull, Africanews, Wisevoter\n\n#rekord #guinness #slowenia #adrenalina #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Wystrzelili ludzi w górę w środku komina",
+     "sub": "Dwa rekordy Guinnessa w Słowenii",
+     "emoji": "🚀",
+     "big": "100,36 m",
+     "tags": [
+      [
+       "🏭",
+       "komin 360 m"
+      ],
+      [
+       "⚡",
+       "180 km/h"
+      ],
+      [
+       "🏆",
+       "2 rekordy"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Jak to wyglądało?",
+     "rows": [
+      [
+       "🏭",
+       "Komin w <b>Trbovlje</b> ma 360 m, najwyższy w Europie"
+      ],
+      [
+       "🎯",
+       "Katapulta 60 m wyrzuciła Daniego Romána <b>100,36 m</b> w górę"
+      ],
+      [
+       "⚡",
+       "Od 0 do <b>180 km/h w 2,15 s</b>, przeciążenie do 4,2 G"
+      ],
+      [
+       "👯",
+       "W duecie z Fredem Fugenem: łącznie <b>151,72 m</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto boi się wind",
+     "cta_small": "Winda ekspresowa (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "tepa-siekiera",
+   "time": "21:00",
+   "genre": "przypowiesc",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ludovico Einaudi – Experience",
+    "Hania Rani – Glass"
+   ],
+   "caption": "Przypowieść.\n\nDrwal pracował coraz dłużej i ścinał coraz mniej. Nie dlatego, że był słaby. Dlatego, że nie zatrzymał się ani na chwilę, żeby naostrzyć siekierę.\n\nZnamy to dobrze. Kiedy coś nie wychodzi, dokładamy wysiłku: siedzimy dłużej, śpimy krócej, odkładamy odpoczynek na „potem”. A czasem problemem nie jest za mało pracy, tylko tępe narzędzie: zmęczona głowa, brak planu, brak przerwy.\n\nZatrzymanie się nie zawsze jest stratą czasu. Czasem to najlepiej wykorzystana godzina w całym tygodniu.\n\nWyślij to komuś, kto nie umie odpuścić.\n\n#ukrytalekcja #przypowiesc #psychologia #odpoczynek #rozwojosobisty",
+   "slides": [
+    {
+     "img": "ukryta/img/drwal.jpg",
+     "pos": "center 40%",
+     "fs": 70,
+     "text": [
+      "Drwal pracował coraz dłużej.",
+      "A każdego dnia <em>ścinał mniej drzew.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/drwal.jpg",
+     "pos": "40% 70%",
+     "zoom": 1.6,
+     "dark": 0.3,
+     "text": [
+      "Pierwszego dnia powalił osiemnaście.",
+      "Był z siebie dumny."
+     ]
+    },
+    {
+     "img": "ukryta/img/siekiera.jpg",
+     "pos": "center 50%",
+     "dark": 0.35,
+     "text": [
+      "Następnego dnia piętnaście. Potem dziesięć.",
+      "Wstawał coraz wcześniej."
+     ]
+    },
+    {
+     "img": "ukryta/img/drwal.jpg",
+     "pos": "65% 30%",
+     "zoom": 2.0,
+     "dark": 0.45,
+     "fs": 58,
+     "text": [
+      "Im gorzej mu szło, tym mocniej się zmuszał.",
+      "Przerwa wydawała mu się <em>stratą czasu.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/siekiera.jpg",
+     "pos": "30% 60%",
+     "zoom": 1.7,
+     "dark": 0.45,
+     "text": [
+      "W końcu ledwo dawał radę jednemu drzewu.",
+      "Usiadł na pniu, zły na siebie."
+     ]
+    },
+    {
+     "img": "ukryta/img/siekiera.jpg",
+     "pos": "60% 30%",
+     "dark": 0.4,
+     "text": [
+      "Obok przechodził starszy człowiek.",
+      "„Kiedy ostatnio ostrzyłeś siekierę?”"
+     ],
+     "zoom": 1.5
+    },
+    {
+     "img": "ukryta/img/drwal.jpg",
+     "pos": "30% 25%",
+     "zoom": 2.2,
+     "dark": 0.5,
+     "text": [
+      "„Nie mam na to czasu” – odpowiedział drwal.",
+      "„Muszę <em>ścinać drzewa.</em>”"
+     ]
+    },
+    {
+     "img": "ukryta/img/siekiera.jpg",
+     "pos": "45% 75%",
+     "zoom": 2.1,
+     "dark": 0.5,
+     "fs": 58,
+     "text": [
+      "Następnego ranka przez godzinę ostrzył siekierę.",
+      "Tego dnia ściął więcej niż <em>przez trzy poprzednie.</em>"
+     ]
+    },
+    {
+     "noimg": true,
+     "fs": 60,
+     "text": [
+      "Czasem nie potrzebujesz więcej wysiłku. Potrzebujesz chwili, żeby naostrzyć siekierę.",
+      "<em>Wyślij to komuś, kto nie umie odpuścić.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bangla_photo",
+   "slug": "black-friday",
+   "accent": "#FF8A3D",
+   "title": "Dziś Black Friday",
+   "sub": "73,8% Polaków planuje łapać promocje",
+   "src": "UCE Research i Shopfully / PAP",
+   "caption": "Dziś Black Friday 🛍️\n\nWedług badania UCE Research i Shopfully z promocji chce skorzystać 73,8% Polaków (rok temu 66,5%). Najczęściej planujemy wydać ok. 400–600 zł. Najpopularniejsze są ubrania i buty, elektronika oraz kosmetyki.\n\nPamiętaj: sklep musi pokazać najniższą cenę z 30 dni przed obniżką. Sprawdzaj, zanim klikniesz „kup” 😉\n\nPolujesz dziś na coś? 👇\n\nŹródła: UCE Research i Shopfully, PAP, Infotuba\n\n#blackfriday #promocje #zakupy #polska #niewiemalebangla",
+   "photo_hint": "zakupy bez twarzy: torby z zakupami, stos paczek pod drzwiami albo koszyk w sklepie internetowym na ekranie telefonu"
+  }
+ ]
+}
