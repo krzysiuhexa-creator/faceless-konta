@@ -1,0 +1,823 @@
+{
+ "date": "2026-11-28",
+ "posts": [
+  {
+   "type": "ukryta_carousel",
+   "slug": "rozstaje",
+   "time": "08:00",
+   "genre": "karta",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ólafur Arnalds – Saman",
+    "Max Richter – On the Nature of Daylight"
+   ],
+   "caption": "Każda decyzja coś zamyka.\n\nDlatego tak łatwo ją odkładać. Czekamy na pewność, na znak, na idealny moment. Wydaje się, że dopóki nie wybierzemy, wszystkie drzwi zostają otwarte.\n\nAle czas też wybiera. Oferta wygasa, rozmowa się nie odbywa, ochota mija. Niezdecydowanie to też decyzja, tylko podjęta za nas.\n\nZapisz na dzień, w którym znowu powiesz „jeszcze się zastanowię”.\n\n#ukrytalekcja #psychologia #rozwojosobisty #decyzje #mindset",
+   "slides": [
+    {
+     "img": "ukryta/img/rozstaje.jpg",
+     "pos": "center 45%",
+     "fs": 70,
+     "text": [
+      "Każda decyzja coś zamyka.",
+      "Brak decyzji zamyka <em>wszystko po trochu.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "wall-street-tydzien",
+   "time": "08:30",
+   "pl": {
+    "tag": "GIEŁDA",
+    "date": "28.11.2026",
+    "src": "Źródła: AP, The Rio Times, Chip Dispatch",
+    "caption": "Wall Street ma za sobą najlepszy tydzień od kwietnia 2025 📈\n\nS&P 500 urósł w tym tygodniu o 5,6%. W piątek 27.11 (krótsza sesja po Święcie Dziękczynienia) indeks dodał 1,6% i zamknął się na 7297,49 pkt. Nasdaq zyskał 2,3%. Wzrosty ciągnęły spółki technologiczne. Rentowność 10-letnich obligacji USA wzrosła do 4,94%.\n\nPrzesuń 👉\n\nŹródła: AP, The Rio Times, Chip Dispatch\nInformacja, nie porada inwestycyjna.\n\n#wallstreet #sp500 #nasdaq #gielda #rynki",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WALL STREET",
+      "title": "Najlepszy tydzień S&P&nbsp;500 od kwietnia 2025",
+      "big": "+5,6%",
+      "big_label": "S&P 500 w tym tygodniu",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Piątek, 27.11",
+      "items": [
+       "S&P 500: <b>+1,6%</b>, do 7297,49 pkt",
+       "Nasdaq: <b>+2,3%</b>",
+       "Sesja krótsza po Święcie Dziękczynienia"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "Skąd te wzrosty",
+      "items": [
+       "Rynek odbijał po mocnej przecenie",
+       "Prowadziły spółki technologiczne i AI"
+      ],
+      "stat": "4,94%",
+      "stat_label": "rentowność 10-letnich obligacji USA"
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "Po ostrej przecenie inwestorzy wrócili do akcji, ale wciąż pytają, czy wydatki na AI dadzą <b>wystarczające zyski</b>."
+     }
+    ]
+   },
+   "en": {
+    "tag": "STOCKS",
+    "date": "Nov 28, 2026",
+    "src": "Sources: AP, The Rio Times, Chip Dispatch",
+    "caption": "Wall Street just had its best week since April 2025 📈\n\nThe S&P 500 gained 5.6% this week. On Friday, Nov 27 (a shortened session after Thanksgiving), the index rose 1.6% to close at 7,297.49. The Nasdaq added 2.3%. Tech stocks led the way. The 10-year Treasury yield rose to 4.94%.\n\nSwipe 👉\n\nSources: AP, The Rio Times, Chip Dispatch\nInformation, not financial advice.\n\n#wallstreet #sp500 #nasdaq #stocks #markets",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WALL STREET",
+      "title": "S&P&nbsp;500's best week since April 2025",
+      "big": "+5.6%",
+      "big_label": "S&P 500 this week",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Friday, Nov 27",
+      "items": [
+       "S&P 500: <b>+1.6%</b> to 7,297.49",
+       "Nasdaq: <b>+2.3%</b>",
+       "Shortened session after Thanksgiving"
+      ]
+     },
+     {
+      "kind": "bullets",
+      "title": "What drove it",
+      "items": [
+       "A rebound after a sharp sell-off",
+       "Tech and AI stocks led the gains"
+      ],
+      "stat": "4.94%",
+      "stat_label": "10-year Treasury yield"
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "After a sharp drop, investors came back to stocks, but they still ask whether AI spending will deliver <b>enough profit</b>."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "szachy-chimborazo",
+   "time": "09:30",
+   "accent": "#3EE6C1",
+   "src": "Dunya News / Infobae / Guinness World Records",
+   "caption": "Partia szachów na 6277 metrach ♟️🏔️\n\nDwóch kumpli z USA, Adam Wininger i Joshua Host, weszło na szczyt wulkanu Chimborazo w Ekwadorze i rozegrało tam całą partię szachów. Guinness potwierdził: to najwyżej rozegrana gra planszowa na świecie. Grali w rękawicach, bo było zimno i brakowało tlenu. Poprzedni rekord pobili o ok. 60 m.\n\nKto z twoich znajomych dałby radę? 👇\n\nŹródła: Dunya News, Infobae, Guinness World Records\n\n#szachy #rekord #guinness #gory #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Zagrali w szachy na szczycie wulkanu",
+     "sub": "Nowy rekord Guinnessa z Ekwadoru",
+     "emoji": "♟️",
+     "big": "6277 m",
+     "tags": [
+      [
+       "🏔️",
+       "Chimborazo"
+      ],
+      [
+       "🧤",
+       "w rękawicach"
+      ],
+      [
+       "🏆",
+       "Guinness"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Co się stało?",
+     "rows": [
+      [
+       "🇺🇸",
+       "Dwóch kumpli z USA: <b>Adam Wininger</b> (32 l.) i <b>Joshua Host</b> (44 l.)"
+      ],
+      [
+       "🌋",
+       "Weszli na <b>Chimborazo</b> w Ekwadorze i rozegrali tam całą partię"
+      ],
+      [
+       "🧤",
+       "Grali w rękawicach: mróz i <b>mało tlenu</b>"
+      ],
+      [
+       "🏆",
+       "Guinness uznał to za najwyżej rozegraną grę planszową"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "🌍",
+       "Szczyt Chimborazo to punkt na Ziemi <b>najdalej od jej środka</b>"
+      ],
+      [
+       "📏",
+       "Poprzedni rekord pobili o ok. <b>60 m</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto zawsze przegrywa w szachy",
+     "cta_small": "Tam przynajmniej ma wymówkę (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "anthropic-ipo",
+   "time": "12:00",
+   "pl": {
+    "tag": "AI",
+    "date": "28.11.2026",
+    "src": "Źródła: Motley Fool, FinanceFeeds, Chip Dispatch, Bloomberg",
+    "caption": "Anthropic znów powyżej ceny z debiutu 🤖\n\nAkcje Anthropic (Nasdaq: ANT) wzrosły w piątek 27.11 o 11% i zamknęły się na 91,88 $. Spółka weszła na giełdę po 83 $ za akcję. Pierwszego dnia (19.11) kurs otworzył się na 111,50 $, a zamknął na 97,17 $. Potem przyszła przecena: 24.11 akcje pierwszy raz zamknęły się poniżej ceny z IPO, a 25.11 spadły w trakcie sesji do 73,85 $. Piątkowe odbicie było częścią szerszych wzrostów spółek AI, bez nowych informacji od samej firmy.\n\nPrzesuń 👉\n\nŹródła: Motley Fool, FinanceFeeds, Chip Dispatch, Bloomberg\nInformacja, nie porada inwestycyjna.\n\n#anthropic #ai #ipo #nasdaq #gielda",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "ANTHROPIC",
+      "title": "Akcje Anthropic wróciły nad cenę z debiutu",
+      "big": "+11%",
+      "big_label": "piątek 27.11, zamknięcie 91,88&nbsp;$",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Pierwszy tydzień na giełdzie",
+      "items": [
+       "Cena w IPO: <b>83&nbsp;$</b> za akcję",
+       "19.11 otwarcie: <b>111,50&nbsp;$</b>, zamknięcie 97,17&nbsp;$",
+       "24.11 pierwsze zamknięcie poniżej 83&nbsp;$",
+       "25.11 dołek w trakcie sesji: <b>73,85&nbsp;$</b>"
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "Cena akcji",
+      "a_label": "IPO",
+      "a_value": "83,00 $",
+      "a": 83.0,
+      "b_label": "27.11",
+      "b_value": "91,88 $",
+      "b": 91.88,
+      "note": "Odbicie przyszło razem z całym sektorem AI."
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "To jeden z największych debiutów w historii. Jego kurs pokazuje, jak rynek wycenia dziś <b>firmy od AI</b>."
+     }
+    ]
+   },
+   "en": {
+    "tag": "AI",
+    "date": "Nov 28, 2026",
+    "src": "Sources: Motley Fool, FinanceFeeds, Chip Dispatch, Bloomberg",
+    "caption": "Anthropic is back above its IPO price 🤖\n\nAnthropic shares (Nasdaq: ANT) rose 11% on Friday, Nov 27, closing at $91.88. The company went public at $83 a share. On day one (Nov 19), the stock opened at $111.50 and closed at $97.17. Then came the slide: on Nov 24 it closed below its IPO price for the first time, and on Nov 25 it fell as low as $73.85 intraday. Friday's rebound came with a broader AI rally, with no new company news.\n\nSwipe 👉\n\nSources: Motley Fool, FinanceFeeds, Chip Dispatch, Bloomberg\nInformation, not financial advice.\n\n#anthropic #ai #ipo #nasdaq #stocks",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "ANTHROPIC",
+      "title": "Anthropic shares are back above the IPO price",
+      "big": "+11%",
+      "big_label": "Friday Nov 27, closed at $91.88",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "First week on the market",
+      "items": [
+       "IPO price: <b>$83</b> a share",
+       "Nov 19 open: <b>$111.50</b>, close $97.17",
+       "Nov 24: first close below $83",
+       "Nov 25 intraday low: <b>$73.85</b>"
+      ]
+     },
+     {
+      "kind": "bars",
+      "title": "Share price",
+      "a_label": "IPO",
+      "a_value": "$83.00",
+      "a": 83.0,
+      "b_label": "Nov 27",
+      "b_value": "$91.88",
+      "b": 91.88,
+      "note": "The rebound came with the whole AI sector."
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "It is one of the biggest listings ever. Its price shows how the market values <b>AI companies</b> right now."
+     }
+    ]
+   }
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "efekt-franklina",
+   "time": "12:30",
+   "genre": "historia",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Ludovico Einaudi – Una Mattina",
+    "Yann Tiersen – Comptine d'un autre été"
+   ],
+   "caption": "Wróg Franklina zmienił zdanie przez jedną książkę.\n\nBenjamin Franklin miał w zgromadzeniu Pensylwanii rywala, który nie zamieniał z nim słowa. Zamiast mu się podlizywać, Franklin poprosił go o pożyczenie rzadkiej książki. Oddał ją po około tygodniu z podziękowaniem. Przy następnym spotkaniu rywal pierwszy raz odezwał się do niego uprzejmie, a według Franklina przyjaźnili się potem do końca życia tamtego.\n\nPsychologowie nazwali to efektem Franklina. W badaniu Jeckera i Landy'ego z 1969 r. osoby, które oddały wygrane pieniądze na osobistą prośbę badacza, lubiły go potem bardziej niż te, które o zwrot poprosiła sekretarka. Jedno z wyjaśnień: skoro komuś pomogłem, mój umysł dopowiada sobie, że musi być w porządku.\n\nTo nie sztuczka na wszystkich. Ale czasem najkrótsza droga do drugiego człowieka to nie dawać, tylko pozwolić mu coś dać.\n\nŹródła: B. Franklin, „Autobiografia”; J. Jecker, D. Landy, Human Relations (1969)\n\n#ukrytalekcja #psychologia #relacje #benjaminfranklin #rozwojosobisty",
+   "slides": [
+    {
+     "img": "ukryta/img/franklin-ksiazka.jpg",
+     "pos": "center 40%",
+     "fs": 70,
+     "text": [
+      "Franklin miał wroga, który nie chciał z nim rozmawiać.",
+      "Pokonała go <em>jedna pożyczona książka.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/franklin-ksiazka.jpg",
+     "pos": "20% 30%",
+     "dark": 0.35,
+     "text": [
+      "Obaj zasiadali w zgromadzeniu Pensylwanii.",
+      "Rywal nie odzywał się do niego ani słowem."
+     ],
+     "zoom": 1.5
+    },
+    {
+     "img": "ukryta/img/franklin-ksiazka.jpg",
+     "pos": "15% 20%",
+     "zoom": 1.3,
+     "dark": 0.45,
+     "text": [
+      "Franklin nie zabiegał o jego sympatię.",
+      "Zrobił coś <em>odwrotnego.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/franklin-ksiazka.jpg",
+     "pos": "35% 80%",
+     "zoom": 1.6,
+     "dark": 0.35,
+     "text": [
+      "Napisał do niego z prośbą o pożyczenie bardzo rzadkiej książki."
+     ]
+    },
+    {
+     "img": "ukryta/img/franklin-ksiazka.jpg",
+     "pos": "20% 40%",
+     "dark": 0.35,
+     "text": [
+      "Rywal ją pożyczył.",
+      "Franklin oddał ją po około tygodniu, z liścikiem z podziękowaniem."
+     ],
+     "zoom": 1.4
+    },
+    {
+     "img": "ukryta/img/franklin-ksiazka.jpg",
+     "pos": "40% 75%",
+     "zoom": 1.3,
+     "dark": 0.4,
+     "text": [
+      "Przy kolejnym spotkaniu rywal <em>sam się odezwał.</em>",
+      "Uprzejmie. Pierwszy raz."
+     ]
+    },
+    {
+     "img": "ukryta/img/franklin-ksiazka.jpg",
+     "pos": "25% 55%",
+     "zoom": 1.2,
+     "dark": 0.45,
+     "text": [
+      "Według Franklina zostali przyjaciółmi.",
+      "Do końca życia tamtego."
+     ]
+    },
+    {
+     "img": "ukryta/img/franklin-ksiazka.jpg",
+     "pos": "45% 80%",
+     "zoom": 1.9,
+     "dark": 0.55,
+     "fs": 56,
+     "big": "1969",
+     "label": "badanie Jeckera i Landy'ego",
+     "text": [
+      "Ludzie bardziej lubili badacza, gdy to on sam poprosił ich o przysługę."
+     ]
+    },
+    {
+     "noimg": true,
+     "fs": 60,
+     "text": [
+      "Czasem, żeby ktoś cię polubił, nie musisz nic dawać.",
+      "<em>Wyślij to komuś, kto boi się prosić.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "malz-w-gardle",
+   "time": "13:00",
+   "accent": "#FF8A3D",
+   "src": "ZooKeys / EurekAlert / Oceanographic",
+   "caption": "Nie wiedziałeś, że jest małż, który mieszka w gardle jeżowca? 🦪\n\nNaukowcy z USA, Kanady i Japonii opisali nowy gatunek: Vaticinaria gulicola. Żyje w przełyku głębinowego jeżowca, 4–5 km pod powierzchnią oceanu, u południowych wybrzeży Australii. Ma do 19 mm. Co je? Badacze podejrzewają, że to, co połyka jeżowiec, ale tego jeszcze nie sprawdzono. Krewnego tego małża znaleziono w jeżowcu z wyprawy statku Challenger sprzed ok. 150 lat i nikt tego nie zauważył.\n\nOznacz kogoś, kto też lubi mieszkać na cudzy koszt 👇\n\nŹródła: ZooKeys, EurekAlert, Oceanographic\n\n#ocean #nauka #ciekawostki #zwierzeta #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Ten małż mieszka w gardle jeżowca",
+     "sub": "Nowy gatunek z dna oceanu",
+     "emoji": "🦪",
+     "big": "19 mm",
+     "tags": [
+      [
+       "🌊",
+       "4–5 km głębokości"
+      ],
+      [
+       "🇦🇺",
+       "Australia"
+      ],
+      [
+       "🔬",
+       "nowy gatunek"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Co to za lokator?",
+     "rows": [
+      [
+       "🦪",
+       "Nazywa się <b>Vaticinaria gulicola</b>, czyli mniej więcej „mieszkaniec gardła”"
+      ],
+      [
+       "🌊",
+       "Żyje w <b>przełyku jeżowca</b>, 4–5 km pod powierzchnią"
+      ],
+      [
+       "🇦🇺",
+       "Znaleziony na dnie oceanu u <b>południowych wybrzeży Australii</b>"
+      ],
+      [
+       "🍽️",
+       "Co je? Pewnie to, co połyka jeżowiec, ale <b>jeszcze nikt nie wie</b>"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "⛵",
+       "Krewniaka tego małża znaleziono w jeżowcu z wyprawy <b>Challengera</b> sprzed ok. 150 lat"
+      ],
+      [
+       "🙈",
+       "Przez półtora wieku <b>nikt tego nie zauważył</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto mieszka u rodziców",
+     "cta_small": "Też lokator z wyboru (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_numbers",
+   "slug": "btc",
+   "time": "15:30",
+   "review": true,
+   "pl": {
+    "tag": "KRYPTO",
+    "date": "28.11.2026",
+    "kicker": "BITCOIN W LICZBACH",
+    "value": "≈61&#8239;500&nbsp;$",
+    "value_label": "piątek 27.11, wieczór (Rio Times, Coinbase)",
+    "rows": [
+     [
+      "vs czwartek",
+      "≈ +1,2–1,6%",
+      "upc"
+     ],
+     [
+      "Ethereum",
+      "≈1&#8239;700–1&#8239;740 $",
+      ""
+     ],
+     [
+      "Solana",
+      "≈71–73 $",
+      ""
+     ]
+    ],
+    "src": "Źródła: The Rio Times, The Company Chronicle (Coinbase), FinFly (CoinGecko)",
+    "caption": "Bitcoin w liczbach 🪙\n\nW piątek 27.11 bitcoin kosztował ok. 61,5 tys. $, o ok. 1,2–1,6% więcej niż dzień wcześniej (dane z różnych godzin, The Rio Times i Coinbase). Ethereum: ok. 1700–1740 $, Solana: ok. 71–73 $. Mimo najlepszego tygodnia na Wall Street od ponad roku kryptowaluty poruszały się w wąskim zakresie, przy niskiej płynności po Święcie Dziękczynienia.\n\nCo myślisz o krypto w tym miesiącu? 👇\n\nŹródła: The Rio Times, The Company Chronicle (Coinbase), FinFly (CoinGecko)\nInformacja, nie porada inwestycyjna.\n\n#bitcoin #btc #ethereum #krypto #rynki"
+   },
+   "en": {
+    "tag": "CRYPTO",
+    "date": "Nov 28, 2026",
+    "kicker": "BITCOIN IN NUMBERS",
+    "value": "≈$61,500",
+    "value_label": "Friday Nov 27, evening (Rio Times, Coinbase)",
+    "rows": [
+     [
+      "vs Thursday",
+      "≈ +1.2–1.6%",
+      "upc"
+     ],
+     [
+      "Ethereum",
+      "≈$1,700–1,740",
+      ""
+     ],
+     [
+      "Solana",
+      "≈$71–73",
+      ""
+     ]
+    ],
+    "src": "Sources: The Rio Times, The Company Chronicle (Coinbase), FinFly (CoinGecko)",
+    "caption": "Bitcoin in numbers 🪙\n\nOn Friday, Nov 27, bitcoin traded around $61.5K, up about 1.2–1.6% from the day before (data from different times, The Rio Times and Coinbase). Ethereum: about $1,700–1,740, Solana: about $71–73. Despite Wall Street's best week in over a year, crypto moved in a narrow range amid thin post-Thanksgiving liquidity.\n\nHow do you see crypto this month? 👇\n\nSources: The Rio Times, The Company Chronicle (Coinbase), FinFly (CoinGecko)\nInformation, not financial advice.\n\n#bitcoin #btc #ethereum #crypto #markets"
+   }
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "jezioro",
+   "time": "16:30",
+   "genre": "karta",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Brian Eno – An Ending (Ascent)",
+    "Ludovico Einaudi – Le Onde"
+   ],
+   "caption": "Spokój nie przychodzi, kiedy wszystko się ułoży.\n\nCzekamy na niego jak na nagrodę: po egzaminie, po projekcie, po trudnym miesiącu. Tylko że zawsze pojawia się coś następnego.\n\nSpokój zaczyna się wcześniej. W chwili, w której przestajesz zużywać siły na to, na co nie masz wpływu, i zostawiasz je dla tego, na co masz.\n\nZapisz na wieczór, w którym myśli nie dają ci zasnąć.\n\n#ukrytalekcja #psychologia #spokoj #rozwojosobisty #mindset",
+   "slides": [
+    {
+     "img": "ukryta/img/jezioro.jpg",
+     "pos": "center 50%",
+     "fs": 66,
+     "text": [
+      "Spokój nie przychodzi, gdy wszystko się ułoży.",
+      "Przychodzi, gdy przestajesz walczyć z tym, <em>czego nie zmienisz.</em>"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "futa-panda",
+   "time": "17:00",
+   "accent": "#FF4FA0",
+   "src": "Jiji Press / nippon.com / 3News / Guinness",
+   "caption": "Najstarsza żyjąca panda mała na świecie ma 23 lata 🐾\n\nFuta z zoo w Chibie w Japonii dostał w listopadzie oficjalny tytuł Guinnessa: najstarsza żyjąca panda mała (czerwona) w niewoli. Urodził się w lipcu 2003 r. Sławny zrobił się ok. 2005 r., bo potrafił stać prosto na tylnych łapach jak człowiek. Dziś już tak nie staje, ale tytuł ma zasłużony.\n\nWyślij to komuś, kto też już nie wstaje tak szybko jak kiedyś 👇\n\nŹródła: Jiji Press (nippon.com), 3News, Guinness World Records\n\n#pandaczerwona #zwierzeta #japonia #guinness #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Ta panda stała jak człowiek. Ma już 23 lata",
+     "sub": "Futa z Japonii ma rekord Guinnessa",
+     "emoji": "🐾",
+     "big": "23 lata",
+     "tags": [
+      [
+       "🇯🇵",
+       "zoo w Chibie"
+      ],
+      [
+       "🏆",
+       "Guinness"
+      ],
+      [
+       "🎂",
+       "rocznik 2003"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Kim jest Futa?",
+     "rows": [
+      [
+       "🐾",
+       "Samiec <b>pandy małej</b> (czerwonej) z zoo w Chibie w Japonii"
+      ],
+      [
+       "🎂",
+       "Urodził się w <b>lipcu 2003</b> r."
+      ],
+      [
+       "🧍",
+       "Ok. 2005 r. zasłynął tym, że <b>stał prosto na tylnych łapach</b>"
+      ],
+      [
+       "🏆",
+       "W listopadzie dostał tytuł <b>najstarszej żyjącej pandy małej</b> w niewoli"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "👴",
+       "Dziś już <b>nie staje</b> na dwóch łapach"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto rano wstaje jak Futa",
+     "cta_small": "Czyli powoli (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "mm_carousel",
+   "slug": "gpw-piatek",
+   "time": "19:30",
+   "pl": {
+    "tag": "GIEŁDA",
+    "date": "27.11.2026",
+    "src": "Źródła: Parkiet, S.O.S. dla gospodarki",
+    "caption": "WIG20 zakończył tydzień na plusie 📈\n\nW piątek 27.11 WIG20 urósł o 1,15% i zamknął się na 4090,19 pkt. W ciągu dnia był nawet powyżej 4100 pkt, ale tego poziomu nie utrzymał. WIG zyskał 1,08%, mWIG40 0,82%, sWIG80 1,26%. Najmocniej rosły Modivo (po wynikach kwartalnych) i KGHM (po wzroście cen miedzi). To był drugi dzień odbicia po środowej przecenie.\n\nPrzesuń 👉\n\nŹródła: Parkiet, S.O.S. dla gospodarki\nInformacja, nie porada inwestycyjna.\n\n#gpw #wig20 #gielda #akcje #rynki",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "GPW",
+      "title": "WIG20 drugi dzień w górę, ale bez 4100&nbsp;pkt",
+      "big": "+1,15%",
+      "big_label": "WIG20, piątek 27.11",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Piątek na GPW",
+      "items": [
+       "WIG20: <b>4090,19 pkt</b>, w ciągu dnia ponad 4100",
+       "WIG: <b>+1,08%</b>",
+       "mWIG40: <b>+0,82%</b>, sWIG80: <b>+1,26%</b>",
+       "Liderzy: <b>Modivo</b> (wyniki) i <b>KGHM</b> (miedź)"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Dlaczego to ważne",
+      "text": "To drugi dzień odbicia po środowej przecenie. Analitycy patrzą, czy WIG20 zdoła wrócić <b>nad 4100&nbsp;pkt</b>."
+     }
+    ]
+   },
+   "en": {
+    "tag": "POLAND",
+    "date": "Nov 27, 2026",
+    "src": "Sources: Parkiet, S.O.S. dla gospodarki",
+    "caption": "Poland's WIG20 ends the week higher 📈\n\nOn Friday, Nov 27, the WIG20 rose 1.15% to close at 4,090.19. It briefly topped 4,100 during the day but couldn't hold that level. The broad WIG gained 1.08%, the mWIG40 0.82% and the sWIG80 1.26%. Modivo (after quarterly results) and KGHM (on higher copper prices) led the gains. It was the second day of a rebound after Wednesday's sell-off.\n\nSwipe 👉\n\nSources: Parkiet, S.O.S. dla gospodarki\nInformation, not financial advice.\n\n#poland #wig20 #stocks #gpw #markets",
+    "slides": [
+     {
+      "kind": "cover",
+      "kicker": "WARSAW",
+      "title": "WIG20 up for a second day, but not above 4,100",
+      "big": "+1.15%",
+      "big_label": "WIG20, Friday Nov 27",
+      "down": false
+     },
+     {
+      "kind": "bullets",
+      "title": "Friday in Warsaw",
+      "items": [
+       "WIG20: <b>4,090.19</b>, briefly above 4,100",
+       "WIG: <b>+1.08%</b>",
+       "mWIG40: <b>+0.82%</b>, sWIG80: <b>+1.26%</b>",
+       "Leaders: <b>Modivo</b> (results), <b>KGHM</b> (copper)"
+      ]
+     },
+     {
+      "kind": "why",
+      "title": "Why it matters",
+      "text": "It was the second day of a rebound after Wednesday's sell-off. Analysts watch whether the WIG20 can get back <b>above 4,100</b>."
+     }
+    ]
+   }
+  },
+  {
+   "type": "bangla_carousel",
+   "slug": "lew-stambul",
+   "time": "20:30",
+   "accent": "#FFD21F",
+   "src": "AP / Turkish Minute",
+   "caption": "Stambuł przez dobę szukał lwa. To nie był lew 🦁❓\n\nW niedzielę 23.11 na nagraniu z monitoringu w dzielnicy Uskumruköy na północy Stambułu zobaczono zwierzę podobne do lwa. Ruszyły poszukiwania: służby, weterynarze, dron z kamerą termowizyjną, przynęty i fotopułapki. Zamknięto nawet Las Belgradzki. Po ok. dobie urząd gubernatora ogłosił, że nowe nagrania pokazują, że nie był to lew ani inny duży kot. Co to było? Oficjalnie nie wiadomo.\n\nTwoje typy? 👇\n\nŹródła: AP, Turkish Minute\n\n#stambul #turcja #lew #dziwne #niewiemalebangla",
+   "slides": [
+    {
+     "kind": "cover",
+     "title": "Stambuł szukał lwa. Lwa nie było",
+     "sub": "Dobowa obława na… no właśnie, na co?",
+     "emoji": "🦁",
+     "big": "24 h",
+     "tags": [
+      [
+       "📹",
+       "monitoring"
+      ],
+      [
+       "🚁",
+       "dron"
+      ],
+      [
+       "🌲",
+       "zamknięty las"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Jak to wyglądało?",
+     "rows": [
+      [
+       "📹",
+       "Niedziela 23.11: na nagraniu z monitoringu <b>coś jak lew</b>"
+      ],
+      [
+       "🚨",
+       "Ruszyły służby, weterynarze i <b>dron z termowizją</b>"
+      ],
+      [
+       "🍖",
+       "Przynęty, fotopułapki i <b>zamknięty Las Belgradzki</b>"
+      ],
+      [
+       "🐈",
+       "Po dobie: to <b>raczej nie lew</b> ani inny duży kot"
+      ]
+     ]
+    },
+    {
+     "kind": "rows",
+     "title": "Bonus",
+     "rows": [
+      [
+       "❓",
+       "Co to było? <b>Oficjalnie nie wiadomo</b>"
+      ]
+     ],
+     "cta": "Wyślij to komuś, kto ma wielkiego kota",
+     "cta_small": "Może to był on (chyba)"
+    }
+   ]
+  },
+  {
+   "type": "ukryta_carousel",
+   "slug": "gwozdzie",
+   "time": "21:00",
+   "genre": "przypowiesc",
+   "name": "UKRYTA LEKCJA",
+   "accent": "#F5C542",
+   "music": [
+    "Max Richter – November",
+    "Ólafur Arnalds – Near Light"
+   ],
+   "caption": "Przypowieść.\n\nPewien młody człowiek wybuchał gniewem z byle powodu. Ojciec dał mu worek gwoździ i powiedział: za każdym razem, gdy stracisz panowanie nad sobą, wbij jeden w płot. Pierwszego dnia wbił ich ponad trzydzieści. Z czasem coraz mniej, bo łatwiej było się powstrzymać niż wbijać.\n\nPotem ojciec kazał mu wyciągać po jednym gwoździu za każdy dzień bez wybuchu. Gdy wyjął ostatni, podeszli razem do płotu. Gwoździ nie było. Dziury zostały.\n\nPrzeprosiny są ważne i warto je mówić. Ale nie cofają słów. Dlatego warto chwilę poczekać, zanim powiesz coś w złości.\n\n#ukrytalekcja #przypowiesc #emocje #relacje #psychologia",
+   "slides": [
+    {
+     "img": "ukryta/img/gwozdzie-plot.jpg",
+     "pos": "center 40%",
+     "fs": 70,
+     "text": [
+      "Ojciec dał synowi worek gwoździ.",
+      "Lekcja przyszła, <em>gdy ich zabrakło.</em>"
+     ]
+    },
+    {
+     "img": "ukryta/img/gwozdzie-plot.jpg",
+     "pos": "20% 30%",
+     "dark": 0.35,
+     "text": [
+      "Syn wybuchał gniewem z byle powodu.",
+      "Krzyczał, trzaskał drzwiami, ranił słowami."
+     ],
+     "zoom": 1.5
+    },
+    {
+     "img": "ukryta/img/gwozdzie-plot.jpg",
+     "pos": "75% 35%",
+     "zoom": 1.7,
+     "dark": 0.45,
+     "text": [
+      "Ojciec powiedział: za każdy wybuch wbij jeden gwóźdź w płot."
+     ]
+    },
+    {
+     "img": "ukryta/img/gwozdzie-plot.jpg",
+     "pos": "45% 80%",
+     "zoom": 1.9,
+     "dark": 0.5,
+     "fs": 56,
+     "big": "30+",
+     "label": "gwoździ pierwszego dnia",
+     "text": [
+      "Z każdym tygodniem było ich mniej."
+     ]
+    },
+    {
+     "img": "ukryta/img/gwozdzie-plot.jpg",
+     "pos": "30% 60%",
+     "zoom": 1.4,
+     "dark": 0.4,
+     "text": [
+      "Okazało się, że łatwiej <em>się powstrzymać,</em> niż wbijać gwoździe."
+     ]
+    },
+    {
+     "img": "ukryta/img/gwozdzie-plot.jpg",
+     "pos": "70% 70%",
+     "zoom": 1.6,
+     "dark": 0.45,
+     "text": [
+      "Wtedy ojciec dodał: za każdy dzień bez wybuchu wyciągnij jeden."
+     ]
+    },
+    {
+     "img": "ukryta/img/gwozdzie-plot.jpg",
+     "pos": "55% 20%",
+     "dark": 0.3,
+     "text": [
+      "Gdy zniknął ostatni, podeszli razem do płotu."
+     ],
+     "zoom": 2.0
+    },
+    {
+     "img": "ukryta/img/gwozdzie-plot.jpg",
+     "pos": "25% 85%",
+     "zoom": 1.8,
+     "dark": 0.45,
+     "text": [
+      "Gwoździ nie było.",
+      "<em>Dziury zostały.</em>"
+     ]
+    },
+    {
+     "noimg": true,
+     "fs": 60,
+     "text": [
+      "Przeprosiny są ważne. Ale nie cofają słów.",
+      "<em>Wyślij to komuś, kto mówi, zanim pomyśli.</em>"
+     ]
+    }
+   ]
+  }
+ ]
+}
